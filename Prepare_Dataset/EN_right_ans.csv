@@ -1,0 +1,107 @@
+,question_num,right_ans
+0,q1,"Since the circuits are connected in parallel, each electronic product is independently supplied with power. Due to the fast power cut off due to the operation of the air conditioner's over-current protection, the power of the outlet is not consumed, so there is no problem with other products. Therefore, the current of other electronic devices was constant."
+1,q1,"Since the circuits are connected in parallel, each electronic product is independently supplied with power. The power of the air conditioner is quickly cut off due to the over-current prevention of the air conditioner, so the power of the outlet is not consumed, so there is no problem with other products. Therefore, the current of other electronic devices was constant."
+2,q2,"Due to convection, dense air sinks due to its large density, and warm air rises due to its small density. Due to convection, it is efficient to install warm air below the density difference."
+3,q2,"Due to convection, cold air sinks due to its large density, and warm air rises due to its small density. Therefore, it is efficient to install warm air below the density difference."
+4,q3,"Since the volume of the liquid is smaller than the volume of the gas, storing gaseous fuel in a liquid state can store a large capacity in a small volume and is easy to store. Gas fuel can be mainly combusted only in a gaseous state to ensure stability and can be confirmed by shaking. "
+5,q3,"Since the volume of the liquid is smaller than the volume of the gas, if the gaseous fuel is stored in a liquid state, a large capacity can be stored in a small volume and is easy to store. Gas fuel can be mainly combusted only in a gaseous state to ensure stability and can be confirmed by shaking. "
+6,q4,"When oxygen is lost, all combustion and oxidation reactions disappear, and all life phenomena disappear because a large proportion of elements disappear when forming a living body. Therefore, the global environment is destroyed."
+7,q4,"When oxygen is lost, all combustion and oxidation reactions disappear, and all life phenomena disappear because a large proportion of elements disappear when forming a living body. Therefore, the global environment is destroyed."
+8,q5,"When sweat is released, water in the body disappears, so it lowers body temperature to maintain homeostasis. And the sweat is vaporized and absorbs the heat around it, causing the temperature to drop."
+9,q5,"When sweat is released, moisture in the body disappears, so it lowers body temperature and maintains homeostasis. And the sweat released vaporizes to absorb the heat around it and cause the temperature to drop."
+10,q6,"Each country has different crops grown, and they are exported from more produced countries because they can be sold cheaper in that country. Therefore, the countries can benefit."
+11,q6,The crops grown in each country are different. Countries that produce more crops export them because they can be sold cheaper in that country. The countries therefore benefit.
+12,q7,"The roots of plants carry moisture in the ground to the stems and leaves and maintain life, store nutrients, and support plants deeply embedded in the ground with small roots. "
+13,q7,"The roots of plants carry moisture in the ground to the stems and leaves and maintain life, store nutrients, and support plants deeply embedded in the ground with small roots. "
+14,q8,"Because of the simple food chain, an ecosystem with low biodiversity does not have a significant impact on the ecosystem because there are many organisms that can replace any species in a highly biodiversity ecosystem. Therefore, low biodiversity can be harmful to humans. We respect life and should not become an ecosystem with low biodiversity."
+15,q8,"Ecosystems with low biodiversity have simple food chains, so if any species suddenly disappears, other organisms that feed on them can also disappear. On the other hand, in an ecosystem with high biodiversity, there are many organisms that can replace any disappearance, so it does not have a significant impact on the ecosystem. Therefore, low biodiversity can damage humans, and we respect life and let's not become an ecosystem with low biodiversity."
+16,q9,"Water evaporates and becomes water vapor due to the rising air current, and the water vapor expands adiabatically and condenses to form a cloud."
+17,q9,Water evaporates due to rising air currents and becomes water vapor. And the water vapor expands adiabatically and condenses to form a cloud.
+18,q10,"Since the Earth rotates with its axis tilted, day and night change, resulting in star circulation, and a change in the reciprocating direction of the Foucault pendulum. And as the seasons circulate, there is a time difference."
+19,q10,"As the Earth rotates with its axis tilted, the day and night change, the star moves around, and the reciprocating direction of the Foucault pendulum changes. And as the seasons circulate, there is a time difference."
+20,q11,"Air pressure differences and airflow differences occur depending on the air pressure. At high pressure, the gas pressure is high and at low pressure, the gas pressure is low, so the low pressure creates an upward airflow, so water vapor condenses, and at this time, a cloud is formed by insulating expansion."
+21,q11,"At high pressure, the gas pressure is high and at low pressure, the gas pressure is low, so the low pressure creates an upward airflow, so water vapor condenses, and at this time, a cloud is formed by insulating expansion.Air pressure differences and airflow differences occur depending on the air pressure. "
+22,q12,"Silla escaped the crisis by forming a naje alliance and took over the Han River. After that, he won the war and drove the party through the Nadang alliance with the party."
+23,q12,"Silla escaped the crisis by forming a naje alliance and took over the Han River. Afterwards, he joined the Nadang Alliance, won the war, and drove the party away."
+24,q13,"Warm air has a higher temperature than cold air, and has a lower density, resulting in a density difference, resulting in buoyancy and rising. When the air gets hot, it evaporates and turns into steam, and molecular motion becomes active, increasing its volume. There is hot air in the hot air balloon and goes up to the sky with its buoyancy."
+25,q13,"Warm air has a higher temperature than cold air, and has a lower density, resulting in a density difference, which generates buoyancy and rises. When the air gets hot, it evaporates and turns into steam, so molecular motion becomes active and the volume increases. There is hot air in the hot air balloon and goes up to the sky with its buoyancy."
+26,q14,"Heat is transferred by convection radiation, and unlike water bottles, the thermos is made of a material that blocks the temperature of internal water, creating a vacuum layer in the middle. It blocks heat transfer by convection and conduction. In the end, it maintains the temperature so that heat is transferred only by infrared radiation."
+27,q14,"Heat is transferred by convection radiation, and unlike water bottles, the thermos is made of a material that blocks the temperature of internal water, creating a vacuum layer in the middle. It blocks heat transfer by convection and conduction. In the end, it maintains the temperature so that heat is transferred only by infrared radiation."
+28,q15,"There is a speed difference between the speed of light and the speed of sound, so lightning, which is light, arrives faster than thunder."
+29,q15,"There is a speed difference between the speed of light and the speed of sound, so lightning, which is light, can arrive faster than thunder."
+30,q16,"Particles constantly move themselves and evaporate, and then diffuse into the air. When diffusion occurs, air pressure increases and thermal energy moves to generate heat conduction. When heat is released, a change of state can occur. "
+31,q16,"Particles constantly move themselves and diffuse into the air after evaporation. After that, the air pressure increases and heat energy moves to generate heat conduction. When heat is released, a change of state can occur. "
+32,q17,Acidity and basicity are opposite properties. This is because acidic substances and basic substances are mixed together and lose basicity through neutralization reactions. 
+33,q17,Acidity and basicity are opposite properties. This is because acidic substances and basic substances are mixed together and lose basicity due to neutralization reactions. 
+34,q18,It provides convenience such as saving time and may facilitate acquisition of information in problem situations. But it can cause new social problems.
+35,q18,It provides convenience by saving time. Information can be easily acquired in problem situations.
+36,q19,"Climate change occurs due to environmental pollution, which changes the vegetation distribution. The ecosystem is destroyed by indiscriminate overfishing of humans who do not respect life and the influx of foreign creatures."
+37,q19,"Climate change occurs due to environmental pollution, which causes vegetation distribution. The ecosystem is destroyed by indiscriminate overfishing of humans who do not respect life and the influx of foreign species."
+38,q20,"The kidneys filter, absorb, and re-release waste and produce urine. Hormones are secreted to maintain homeostasis, and diseases occur when such kidney abnormalities occur."
+39,q20,"The kidneys produce urine through waste filtration, absorption, and re-secretion. Hormones are secreted to maintain homeostasis, and diseases occur when such kidney abnormalities occur."
+40,q21,"The sympathetic nerves act, and the heart beats fast, and the muscles use a lot of energy, making breathing difficult for smooth oxygen supply. As a result, oxygen becomes insufficient, and waste is discharged to maintain homeostasis and sweat."
+41,q21,"The sympathetic nerves act to speed up the heart rate, use a lot of muscle energy, and breathe quickly for smooth oxygen supply. As a result, oxygen becomes insufficient, and waste is discharged to maintain homeostasis and sweat."
+42,q22,"As water vapor condenses, the weight of clouds increases and snow or rain falls, depending on the temperature difference, it snows when the temperature is low, and otherwise, it rains."
+43,q22,"Water vapor condenses to increase the weight of clouds, and depending on the temperature difference, it snows when the temperature is low, and otherwise, it rains."
+44,q23,"With the rotation axis tilted, the rotation and rotation are performed at the same time. At this time, the season changes depending on the distance from the sun. Due to the slope of the Earth's rotation axis, there is a difference in solar energy incident per unit area. "
+45,q23,"The earth rotates with its axis tilted. At this time, the season changes depending on the distance from the sun. Due to the slope of the Earth's rotation axis, there is a difference in solar energy incident per unit area. "
+46,q24,"Goryeo actively stayed with other countries and actively conducted trade activities to recognize and accept the culture of other countries based on excellent political power. As a result, Goryeo served as an opportunity for the development of commerce and trade."
+47,q24,"Goryeo actively engaged in trade activities to recognize and accept their culture by actively interacting with other countries based on excellent political power. As a result, Goryeo served as an opportunity for the development of commerce and trade."
+48,q25,The magnet is connected to the electrical circuit to form a strong magnetic field and apply strong electricity.
+49,q25,"By connecting a magnet to an electrical circuit, it forms a strong magnetic field and then applies a strong electricity."
+50,q26,Changing the direction of the current reverses the direction of the magnetic field and changes the direction of the needle on the compass.
+51,q26,Changing the direction of the current reverses the direction of the magnetic field and changes the direction of the needle on the compass.
+52,q27,"Hypothesis is established, experiments are conducted after experimental design, and conclusions are drawn through this."
+53,q27,Hypothesis Setting - Experimental Design - Experimental - Conclusion Drawing
+54,q28,Experimental results are derived through the process of interpreting the contents of specific data and exploring them.
+55,q28,The contents of a specific data are accurately interpreted and the experimental results are derived through the process of exploring them.
+56,q29,"The iron plate, whose temperature increases due to the heat of the iron, receives heat above the firing point and causes a fire. "
+57,q29,"The iron plate, whose temperature rises due to the heat of the iron, catches heat above the firing point and fires. "
+58,q30,The water caused the temperature to drop and the oxygen to shut off the fire.
+59,q30,"Water sprayed on the iron plate lowered the temperature, blocked oxygen, and the fire was extinguished."
+60,q31,"The rights of the people do not discriminate against people, anyone can have a job, and the right to claim a trial and human rights are guaranteed by the Constitution."
+61,q31,"Anyone can have a job without discriminating against people, and the right to claim a trial and human rights are guaranteed by the Constitution."
+62,q32,It exists to minimize possible damage due to unfair trials.
+63,q32,It exists to minimize cases where damage can be caused by unfair trials.
+64,q33,"It exercises judicial power to monitor the legislative parliament and the administrative government, and checks it so as not to be biased toward state power. To resolve conflicts, a trial is conducted and laws are enacted."
+65,q33,"Through the exercise of judicial power, it monitors the legislative parliament and the administrative government, and checks it so that it is not biased toward state power. To resolve conflicts smoothly, trials are conducted and laws are enacted."
+66,q34,"This is to maximize efficiency through the distribution of work because it is possible to check each other by distributing power, and each field is different."
+67,q34,This is to maximize efficiency by distributing power and keeping each other in check and dividing work.
+68,q34,This is to protect the freedom and rights of the people by checking and balancing each other so that power is not concentrated in one place.
+69,q34,This is to protect the freedom and rights of the people by checking and balancing each other so that no single institution can handle important national affairs at will.
+70,q35,Raise the temperature of the water in the beaker. Increase the amount of water further.
+71,q35,Change the water in the beaker to hot water. Add more water.
+72,q35,Raise the temperature of the water in the beaker. Add more water.
+73,q35,Change the water in the beaker to hot water. Increase the amount of water further.
+74,q38,"When the pressure is the same, as the temperature of the gas decreases, the volume decreases. As the temperature of the gas in the plastic decreases, the volume decreases, causing the plastic bottle to shrink."
+75,q38,"When the pressure is the same, as the temperature of the gas decreases, the volume decreases. As the temperature of the gas in the plastic decreases, the volume decreases, causing the plastic to collapse."
+76,q40,This is because the heat transfer speed of metal materials is faster than that of wood materials.
+77,q40,This is because metal materials move heat faster than wood materials.
+78,q40,This is because metal materials conduct heat better than wood materials.
+79,q41,The oxygen in the plastic bag decreased and the carbon dioxide increased.
+80,q41,There is less oxygen and more carbon dioxide in the plastic bag.
+81,q41,"As humans breathe in oxygen and release carbon dioxide, there is less oxygen and more carbon dioxide in the plastic bag."
+82,q41,"Because humans absorb oxygen and release carbon dioxide, there is less oxygen and more carbon dioxide in the plastic bag."
+83,q43,"Fossil energy can be eliminated, but solar energy is not exhausted, and it is environmentally friendly."
+84,q43,"This is because fossil energy is finite, but solar energy is infinite, and there is no emission of pollutants."
+85,q43,"Fossil energy can be eliminated, but solar energy is not depleted and there is no emission of pollutants."
+86,q43,"Because there is no difficulty in continuing to use it, and there is no pollution."
+87,q45,"The wind blows from high pressure to low pressure, or from a place with a low temperature to a place with a high temperature, because the specific heat of the sand and the sea are different, which causes a temperature difference."
+88,q45,"The difference in specific heat between the sand and the sea creates a temperature difference, which causes the wind to blow from high pressure to low pressure."
+89,q45,"The difference in specific heat between the sand and the sea creates a temperature difference, which in turn creates a pressure difference and winds."
+90,q47,The sunlight is too bright (strong) to see the stars.
+91,q47,The sun is too bright to see the stars.
+92,q47,The sun shines brighter than the stars shine
+93,q49,"Sunlight is refracted toward the center of the lens and condensed in one place, and the place where the sun converges becomes hot."
+94,q49,"The convex lens refracts sunlight and collects it in one place, and the place where the sunlight converges becomes hot."
+95,q49,"As the sunlight passes through the convex lens, it bends toward the center of the lens and gathers in one place, and the temperature of the place where the sunlight gathers rises."
+96,q54,"If the producer disappears, the consumer who eats the producer will die because there is no food, and the next level consumer will also die because there is no food, and the balance of the ecosystem is broken."
+97,q54,"The producer becomes the food of the consumer who eats the producer, and the consumer becomes the food of the next consumer, maintaining the balance of the ecosystem."
+98,q55,"Without decomposers, dead organisms and their excretions would not be broken down, and our surroundings would be full of dead creatures and their excretions."
+99,q55,"Without decomposers, the corpses and excreta of living things will not be decomposed, and our surroundings will be filled with cadavers and excretions of living things."
+100,q60,This is because it has evolved to fit the environment in which Sora lives.
+101,q60,This is because each evolved differently depending on the environment in which Sora lived.
+102,q60,"Where the current is not strong, there are no horns because there is no worry about it being washed away, and where the current is strong, there are horns to withstand the current."
+103,q61,"This is because, unlike animals, flies have a cell wall, photosynthesize, have chlorophyll, and do not migrate, but grow on the ground like plants."
+104,q61,"This is because, like plants, flies have cell walls, get their nutrients from sunlight, have chlorophyll, and do not migrate and grow on the ground."
+105,q63,Cardiopulmonary resuscitation (CPR) delays brain damage by circulating blood even when the heart is paralyzed so that it can continue to supply oxygen to the body and brain.

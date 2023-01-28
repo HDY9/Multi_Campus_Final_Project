@@ -1,0 +1,4614 @@
+Column1,word,type,v1
+0,abhorring,VBG,"[격식]  (특히 도덕적인 이유로) 혐오하다 (=detest, loathe)  "
+1,abiding,VBG,"[격식]  지속적인, 변치 않는  "
+2,abounding,VBG,"  풍부한, 많은  "
+3,absorbing,VBG,  몰입하게[빠져들게] 만드는  
+4,abutting,VBG,Not verb
+5,accommodating,VBG,"  선뜻 부응하는, 잘 협조하는 (=obliging)  "
+6,according,VBG,Not verb
+7,aching,VBG,"  쑤시는, 아리는; 마음 아픈  "
+8,acting,VBG,  대행 (=temporary)  
+9,adeling,VBG,Not verb
+10,adjoining,VBG,  They stayed in adjoining rooms.      그들은 서로 붙어 있는 방에 묵었다.  
+11,admiring,VBG,  She was used to receiving admiring glances from men.      그녀는 남자들로부터 감탄의 눈길을 받는 것에 익숙해 있었다.  
+12,adsmithing,VBG,Not verb
+13,advancing,VBG,  나이가 들어도[연세가 드셔도](‘늙어 감’을 정중하게 나타내는 표현)  
+14,affecting,VBG,"[격식]  (정서적으로) 충격적인, 깊은 슬픔[연민]을 유발하는  "
+15,afflicting,VBG,"  비참한, 고통스러운  "
+16,affronting,VBG,"[격식]  모욕하다, (마음에) 상처를 주다  "
+17,afluking,VBG,Not verb
+18,afterburning,VBG,Not verb
+19,aftercoming,VBG,Not verb
+20,afterking,VBG,Not verb
+21,afterplanting,VBG,Not verb
+22,afterreckoning,VBG,Not verb
+23,afterripening,VBG,Not verb
+24,afterspring,VBG,Not verb
+25,afterswarming,VBG,Not verb
+26,afterworking,VBG,Not verb
+27,aggravating,VBG,Not verb
+28,aging,VBG,Not verb
+29,agoing,VBG,Not verb
+30,agreeing,VBG,  동의하는  
+31,ailing,VBG,Not verb
+32,aiming,VBG,Not verb
+33,airing,VBG,Not verb
+34,aisling,VBG,Not verb
+35,alarming,VBG,"  걱정스러운, 두려운  "
+36,allthing,VBG,Not verb
+37,alluring,VBG,  (신비롭고) 매혹적인  
+38,almsgiving,VBG,Not verb
+39,alternating,VBG,"  교호(交互)의, 교차의; [전기] 교류의  "
+40,amazing,VBG,"  (감탄스럽도록) 놀라운 (=astounding, incredible)  "
+41,ambling,VBG,  느린 걸음걸이의  
+42,ambuling,VBG,Not verb
+43,amusing,VBG,"  재미있는, 즐거운  "
+44,anglewing,VBG,Not verb
+45,angling,VBG,Not verb
+46,animating,VBG,"  생기를 주는, 고무하는  "
+47,annoying,VBG,  짜증스러운 (=irritating)  
+48,antespring,VBG,Not verb
+49,antiagglutinating,VBG,Not verb
+50,antiboxing,VBG,Not verb
+51,anticlogging,VBG,Not verb
+52,anticoagulating,VBG,Not verb
+53,anticovenanting,VBG,Not verb
+54,anticreeping,VBG,Not verb
+55,antidancing,VBG,Not verb
+56,antidetonating,VBG,Not verb
+57,antidumping,VBG,  덤핑 방지의  
+58,antiexporting,VBG,Not verb
+59,antiflattering,VBG,Not verb
+60,antifoaming,VBG,"  감포(減泡)의, 거품 방지의.  "
+61,antifouling,VBG,Not verb
+62,antifreezing,VBG,"  부동의, 항동결(抗凍結)의, 내한(耐寒)의.  "
+63,antigambling,VBG,Not verb
+64,antiganting,VBG,Not verb
+65,antihunting,VBG,Not verb
+66,antiking,VBG,Not verb
+67,antileveling,VBG,Not verb
+68,antilynching,VBG,  폭력적인 사적 제재에 반대하는  
+69,antimixing,VBG,Not verb
+70,antioxidizing,VBG,Not verb
+71,antipooling,VBG,Not verb
+72,antipriming,VBG,Not verb
+73,antiprofiteering,VBG,Not verb
+74,antiquing,VBG,Not verb
+75,antiracing,VBG,Not verb
+76,antiradiating,VBG,Not verb
+77,antirebating,VBG,Not verb
+78,antirecruiting,VBG,Not verb
+79,antireforming,VBG,Not verb
+80,antishipping,VBG,  어떤 커플이 사귀는 것에 반대하는  
+81,antiskidding,VBG,Not verb
+82,antismoking,VBG,"  금연의, 흡연에 반대하는      2.    [명사]  금연  "
+83,antisplitting,VBG,Not verb
+84,antispreading,VBG,Not verb
+85,antisquatting,VBG,Not verb
+86,antistalling,VBG,Not verb
+87,antivibrating,VBG,Not verb
+88,antling,VBG,Not verb
+89,anubing,VBG,Not verb
+90,apeling,VBG,Not verb
+91,aping,VBG,[英 못마땅함]  (무엇을 제대로 하지 못하고) 겨우 흉내만 내다 (=imitate)      3.    
+92,appalling,VBG,Not verb
+93,appealing,VBG,Not verb
+94,appeasing,VBG,  달래다      2.    
+95,appraising,VBG,  평가하는 (듯한)  
+96,approaching,VBG,  다가가다[오다]      2.    
+97,arching,VBG,  아치를 이루는  
+98,archking,VBG,  아치를 이루는  
+99,arcing,VBG,[기하]  호(弧)[활 모양]를 그리다      4.    
+100,arcking,VBG,arc의 현재분사.  
+101,arming,VBG,Not verb
+102,arresting,VBG,"[격식]  시선을 사로잡는, 아주 매력적인  "
+103,ascending,VBG,"  오르는, 상승적인; 위를 향한  "
+104,ashlaring,VBG,Not verb
+105,ashling,VBG,Not verb
+106,aspiring,VBG,Not verb
+107,aspring,VBG,Not verb
+108,assaying,VBG,Not verb
+109,assenting,VBG,[격식]  찬성하다  
+110,assuming,VBG,Not verb
+111,assuring,VBG,"  보증하는, 확신을 가진; 자신을 갖게 하는  "
+112,astonishing,VBG,"  정말 놀라운, 믿기 힘든 (=amazing)  "
+113,astounding,VBG,"  경악스러운, 믿기 어려운 (=astonishing)  "
+114,aswing,VBG,Not verb
+115,atheling,VBG,Not verb
+116,athing,VBG,Not verb
+117,authorling,VBG,Not verb
+118,autoagglutinating,VBG,Not verb
+119,autoboating,VBG,Not verb
+120,autocamping,VBG,Not verb
+121,autografting,VBG,Not verb
+122,autoloading,VBG,"  <총기가> 자동 장전(식)의, [컴퓨터] 자동 로드하는  "
+123,autosexing,VBG,[축산]  태어날[부화할] 때 암수 별로 각기 특징을 나타내는      2.    [명사]  오토섹싱 ((출생[부화] 때 성별이 판별될 수 있게 교배하기))  
+124,autoturning,VBG,Not verb
+125,avenging,VBG,"  복수의, 보복의  "
+126,awakening,VBG,Not verb
+127,awanting,VBG,Not verb
+128,awing,VBG,[격식]  온통 경외심을 갖게 하다  
+129,awning,VBG,Not verb
+130,axmaking,VBG,Not verb
+131,baahling,VBG,Not verb
+132,babbling,VBG,"  재잘거리는, 졸졸 흐르는      2.    [명사]  [UC] 수다, 졸졸 흐르는 소리  "
+133,backbearing,VBG,Not verb
+134,backbreaking,VBG,  몹시 힘든[고된]  
+135,backfilling,VBG,Not verb
+136,backing,VBG,Not verb
+137,backlashing,VBG,Not verb
+138,backsetting,VBG,Not verb
+139,backslapping,VBG,Not verb
+140,backspringing,VBG,Not verb
+141,backstring,VBG,Not verb
+142,backswing,VBG,Not verb
+143,backswording,VBG,Not verb
+144,backwashing,VBG,Not verb
+145,baffling,VBG,"  저해하는, 당황하게 하는, 이해할 수 없는  "
+146,bagging,VBG,Not verb
+147,bagmaking,VBG,Not verb
+148,baking,VBG,  타는 듯이 더운  
+149,balancing,VBG,Not verb
+150,balladling,VBG,Not verb
+151,balladmongering,VBG,Not verb
+152,ballasting,VBG,Not verb
+153,balloting,VBG,Not verb
+154,balustrading,VBG,Not verb
+155,banding,VBG,Not verb
+156,bandstring,VBG,Not verb
+157,banging,VBG,  쾅[탕]하고 치다[때리다]      2.    
+158,bangling,VBG,"  ...에게 결과를 알리지 않고 기다리게 하다, ...을 애타게 (안달복달하게)하다  "
+159,banning,VBG,  금(지)하다 (=prohibit)      2.    
+160,banqueteering,VBG,Not verb
+161,bantling,VBG,Not verb
+162,banxring,VBG,Not verb
+163,barding,VBG,Not verb
+164,bardling,VBG,Not verb
+165,baring,VBG,Not verb
+166,barking,VBG,"  (잘) 짖는, 정신이 이상한      2.    [명사]  [U] 짖는 소리, 심한 기침, [구어] 호통  "
+167,barkpeeling,VBG,Not verb
+168,barling,VBG,Not verb
+169,barnstorming,VBG,  (공연·스포츠 경기 등이) 활기 넘치는[아주 재미있는]  
+170,barrelmaking,VBG,Not verb
+171,barring,VBG,Not verb
+172,bartending,VBG,Not verb
+173,basketmaking,VBG,Not verb
+174,basting,VBG,Not verb
+175,batfowling,VBG,Not verb
+176,bathing,VBG,Not verb
+177,batikuling,VBG,Not verb
+178,bating,VBG,Not verb
+179,batling,VBG,Not verb
+180,batswing,VBG,Not verb
+181,battening,VBG,Not verb
+182,batting,VBG,Not verb
+183,batwing,VBG,Not verb
+184,baubling,VBG,Not verb
+185,beachcombing,VBG,Not verb
+186,beading,VBG,Not verb
+187,beagling,VBG,Not verb
+188,bealing,VBG,Not verb
+189,beaming,VBG,"  빛나는; 기쁨에 넘친, 희색이 만면한, 밝은  "
+190,bearbaiting,VBG,Not verb
+191,bearding,VBG,Not verb
+192,bearing,VBG,Not verb
+193,beastling,VBG,Not verb
+194,beating,VBG,Not verb
+195,beckoning,VBG,"  (오라고) 손짓하다, (손짓으로) 부르다 (=signal)      2.    "
+196,becoming,VBG,Not verb
+197,bedazzling,VBG,Not verb
+198,bedding,VBG,Not verb
+199,bedmaking,VBG,Not verb
+200,bedspring,VBG,Not verb
+201,bedstring,VBG,Not verb
+202,beekeeping,VBG,Not verb
+203,beermaking,VBG,Not verb
+204,beeswing,VBG,Not verb
+205,befitting,VBG,"  적당한; 어울리는, 알맞은(proper) ((to))  "
+206,begging,VBG,  구걸하는  
+207,beginning,VBG,Not verb
+208,beguiling,VBG,[격식]  묘한 매력이 있는  
+209,beholding,VBG,[옛글투 또는 문예체]  (바라)보다  
+210,behooving,VBG,Not verb
+211,being,VBG,Not verb
+212,beking,VBG,Not verb
+213,believing,VBG,  믿음[신앙심]을 가진  
+214,bellhanging,VBG,Not verb
+215,belling,VBG,Not verb
+216,bellmaking,VBG,Not verb
+217,bellowsmaking,VBG,Not verb
+218,bellying,VBG,"  부푸는, 불룩해지는.  "
+219,belonging,VBG,Not verb
+220,belting,VBG,Not verb
+221,beltmaking,VBG,Not verb
+222,belying,VBG,  BELIE의 현재분사  
+223,bemaddening,VBG,Not verb
+224,bemoaning,VBG,[격식]  한탄하다  
+225,benching,VBG,Not verb
+226,bending,VBG,Not verb
+227,benting,VBG,Not verb
+228,berrypicking,VBG,Not verb
+229,berthing,VBG,Not verb
+230,beseeching,VBG,"[격식]  애원조의, 애원하는 듯한  "
+231,beseeming,VBG,  어울리는.  
+232,besetting,VBG,  끊임없이 붙어 다니는[습격하는]  
+233,besieging,VBG,"  포위하다, 에워싸다 (=lay siege to)      2.    "
+234,besing,VBG,Not verb
+235,besotting,VBG,Not verb
+236,bestowing,VBG,[격식]  (특히 존경의 뜻으로) 수여[부여]하다  
+237,bettering,VBG,Not verb
+238,betting,VBG,Not verb
+239,bewailing,VBG,[격식 또는 유머]  비통[애통]해하다  
+240,bewildering,VBG,  어리둥절하게[갈피를 못 잡게] 만드는 (=confusing)  
+241,bewitching,VBG,"  넋을 빼놓는, 황홀한  "
+242,bilimbing,VBG,Not verb
+243,billbroking,VBG,Not verb
+244,billeting,VBG,  (전시에 군인을 민간의) 임시 숙소로 보내다  
+245,billheading,VBG,Not verb
+246,billing,VBG,Not verb
+247,billposting,VBG,Not verb
+248,billsticking,VBG,Not verb
+249,binding,VBG,  법적 구속력이 있는      2.    [명사]  (제본용) 표지      3.    [명사]  (천의) 가장자리 장식[가장자리에 덧댄 것]  
+250,bing,VBG,Not verb
+251,binning,VBG,[英 비격식]  버리다  
+252,birching,VBG,"[속어]  굉장한, 아주 좋은  "
+253,birdbanding,VBG,Not verb
+254,birdcatching,VBG,Not verb
+255,birding,VBG,Not verb
+256,birdling,VBG,Not verb
+257,biscuiting,VBG,Not verb
+258,biscuitmaking,VBG,Not verb
+259,bishopling,VBG,Not verb
+260,bitewing,VBG,Not verb
+261,biting,VBG,Not verb
+262,bittering,VBG,Not verb
+263,bitterling,VBG,Not verb
+264,blackbirding,VBG,Not verb
+265,blackening,VBG,Not verb
+266,blackfishing,VBG,Not verb
+267,blacking,VBG,Not verb
+268,blacksmithing,VBG,Not verb
+269,blading,VBG,Not verb
+270,blaming,VBG,"  …을 탓하다, … 책임[때문]으로 보다      2.    [명사]  책임, 탓 (→credit n. (7))  "
+271,blanching,VBG,Not verb
+272,blandishing,VBG,Not verb
+273,blanketing,VBG,Not verb
+274,blanketmaking,VBG,Not verb
+275,blanking,VBG,Not verb
+276,blasting,VBG,Not verb
+277,blazing,VBG,Not verb
+278,blazoning,VBG,  (=emblazon)      2.    
+279,bleaching,VBG,"  표백[마전]하는, 표백성의  "
+280,bleating,VBG,Not verb
+281,bleeding,VBG,[英  속어]  (=bloody)      2.    [명사]  출혈  
+282,blenching,VBG,Not verb
+283,blending,VBG,Not verb
+284,blessing,VBG,Not verb
+285,blighting,VBG,"  망치다, 엉망으로 만들다      2.    [명사]  (곡식의) 병충해      3.    [명사]  어두운 그림자(를 드리우는 것)  "
+286,blimbing,VBG,Not verb
+287,blinding,VBG,Not verb
+288,blindling,VBG,Not verb
+289,blinking,VBG,Not verb
+290,blistering,VBG,Not verb
+291,blithering,VBG,"[구식  英  비격식]  순전한, 완벽한  "
+292,bloating,VBG,Not verb
+293,blocking,VBG,Not verb
+294,blockmaking,VBG,Not verb
+295,bloodcurdling,VBG,"  [A] 소름이 끼치는, 등골이 오싹해지는  "
+296,bloodletting,VBG,Not verb
+297,bloodshedding,VBG,Not verb
+298,bloodspilling,VBG,Not verb
+299,bloodsucking,VBG,Not verb
+300,bloodthirsting,VBG,Not verb
+301,blooming,VBG,Not verb
+302,blooping,VBG,[미·속어]  술에 취한(looped)  
+303,blotting,VBG,  (액체를 부드러운 종이나 천으로 빨아들여) 닦아내다      2.    
+304,blousing,VBG,Not verb
+305,blowing,VBG,Not verb
+306,blowzing,VBG,Not verb
+307,blubbering,VBG,[비격식 못마땅함]  흐느껴[엉엉] 울다  
+308,blueing,VBG,Not verb
+309,bluestocking,VBG,Not verb
+310,bluewing,VBG,Not verb
+311,bluing,VBG,Not verb
+312,blundering,VBG,"  실수하는, 어색한, 서투른  "
+313,blushing,VBG,"  얼굴이 빨개진, 부끄럼을 잘 타는; 조심성 있는      2.    [명사]  얼굴을 붉힘, 부끄러워함  "
+314,blustering,VBG,"  세차게 몰아치는; 호통치는, 뽐내는  "
+315,boasting,VBG,  자랑하는  
+316,boatbuilding,VBG,Not verb
+317,boating,VBG,Not verb
+318,boatloading,VBG,Not verb
+319,bobbing,VBG,Not verb
+320,bocking,VBG,Not verb
+321,bodicemaking,VBG,Not verb
+322,boding,VBG,"  징조의, 징조가 되는; 불길한  "
+323,bodybending,VBG,Not verb
+324,bodymaking,VBG,Not verb
+325,bogtrotting,VBG,Not verb
+326,boilermaking,VBG,Not verb
+327,boiling,VBG,"  몹시 더운, 푹푹 찌는 (=baking)  "
+328,boltheading,VBG,Not verb
+329,bolting,VBG,Not verb
+330,boltmaking,VBG,Not verb
+331,bondholding,VBG,Not verb
+332,bonding,VBG,Not verb
+333,bonesetting,VBG,Not verb
+334,bookbinding,VBG,Not verb
+335,booking,VBG,Not verb
+336,bookkeeping,VBG,Not verb
+337,bookling,VBG,Not verb
+338,bookmaking,VBG,Not verb
+339,bookselling,VBG,Not verb
+340,booming,VBG,Not verb
+341,bootlegging,VBG,Not verb
+342,bootmaking,VBG,Not verb
+343,bordering,VBG,Not verb
+344,boring,VBG,"  재미없는, 지루한  "
+345,borning,VBG,Not verb
+346,boroughmongering,VBG,Not verb
+347,borrowing,VBG,Not verb
+348,bossing,VBG,Not verb
+349,bottlemaking,VBG,Not verb
+350,bottling,VBG,Not verb
+351,bouldering,VBG,Not verb
+352,bouncing,VBG,"  건강한, 활발한  "
+353,bounding,VBG,Not verb
+354,bowing,VBG,"  인사를 하는, 절을 하는  "
+355,bowmaking,VBG,Not verb
+356,bowstring,VBG,Not verb
+357,boxing,VBG,Not verb
+358,boxmaking,VBG,Not verb
+359,brachering,VBG,Not verb
+360,bracing,VBG,  (차가우면서) 상쾌한  
+361,bracketing,VBG,Not verb
+362,bragging,VBG,[못마땅함]  (심하게) 자랑하다[떠벌리다] (=boast)      2.    [명사][못마땅함]  브래그(간단한 포커 게임)  
+363,braiding,VBG,Not verb
+364,brainwashing,VBG,Not verb
+365,brakemaking,VBG,Not verb
+366,branching,VBG,"  가지를 내뻗은, 분기한  "
+367,branchling,VBG,Not verb
+368,brandering,VBG,Not verb
+369,brandling,VBG,Not verb
+370,brangling,VBG,Not verb
+371,bratling,VBG,Not verb
+372,bratticing,VBG,Not verb
+373,braving,VBG,Not verb
+374,brawling,VBG,"  시끄러운, 떠들썩한, 요란한  "
+375,breadearning,VBG,Not verb
+376,breadmaking,VBG,Not verb
+377,breadwinning,VBG,Not verb
+378,breaking,VBG,Not verb
+379,breastfeeding,VBG,Not verb
+380,breasting,VBG,Not verb
+381,breathing,VBG,Not verb
+382,brewing,VBG,Not verb
+383,bribegiving,VBG,Not verb
+384,bribetaking,VBG,Not verb
+385,bricking,VBG,Not verb
+386,bricklaying,VBG,Not verb
+387,bricklining,VBG,Not verb
+388,brickmaking,VBG,Not verb
+389,bridesmaiding,VBG,Not verb
+390,bridgebuilding,VBG,Not verb
+391,bridgemaking,VBG,Not verb
+392,bridging,VBG,Not verb
+393,bridling,VBG,Not verb
+394,briefing,VBG,Not verb
+395,brightening,VBG,Not verb
+396,briming,VBG,Not verb
+397,bring,VBG,"  가져오다, 데려오다      2.    "
+398,brisling,VBG,Not verb
+399,brittling,VBG,Not verb
+400,broiling,VBG,"  타는 듯이 뜨거운[더운], 혹서(酷暑)의; 구워지는  "
+401,broking,VBG,"  중개(업)의, 거간(업)의  "
+402,bronzewing,VBG,Not verb
+403,bronzing,VBG,Not verb
+404,brooding,VBG,[문예체]  음울한  
+405,broodling,VBG,Not verb
+406,broommaking,VBG,Not verb
+407,browning,VBG,Not verb
+408,browsing,VBG,Not verb
+409,bruising,VBG,  (마음이) 힘든[불편한]  
+410,brushing,VBG,"  휙 스쳐 가는; 민활한, 빠른      2.    [명사]  [U] 솔질, 솔로 칠함, [pl.] 쓸어 모은 것  "
+411,brushmaking,VBG,Not verb
+412,bruting,VBG,Not verb
+413,bubbling,VBG,"  졸졸 흐르는, 부글부글 거품이 이는.  "
+414,bucketmaking,VBG,Not verb
+415,bucking,VBG,Not verb
+416,buckwashing,VBG,Not verb
+417,budding,VBG,"  싹트기 시작하는, 신예의  "
+418,buffing,VBG,Not verb
+419,bullbaiting,VBG,Not verb
+420,bulletmaking,VBG,Not verb
+421,bullfighting,VBG,Not verb
+422,bulling,VBG,Not verb
+423,bullying,VBG,Not verb
+424,bullyragging,VBG,Not verb
+425,bumming,VBG,Not verb
+426,bumping,VBG,Not verb
+427,bungling,VBG,bungling incompetence      엉망인 무능력  
+428,bunting,VBG,Not verb
+429,burning,VBG,Not verb
+430,burnishing,VBG,Not verb
+431,burring,VBG,Not verb
+432,burying,VBG,Not verb
+433,bushfighting,VBG,Not verb
+434,bushing,VBG,Not verb
+435,bushmaking,VBG,Not verb
+436,bushranging,VBG,Not verb
+437,bushwhacking,VBG,Not verb
+438,bustling,VBG,"  부산한, 북적거리는  "
+439,busying,VBG,Not verb
+440,butchering,VBG,Not verb
+441,buttermaking,VBG,Not verb
+442,buzzing,VBG,"  윙윙거리는, 와글와글거리는  "
+443,byganging,VBG,Not verb
+444,bygoing,VBG,Not verb
+445,caaming,VBG,Not verb
+446,cabdriving,VBG,Not verb
+447,cabinetmaking,VBG,Not verb
+448,cabinetworking,VBG,Not verb
+449,cabling,VBG,Not verb
+450,cageling,VBG,Not verb
+451,cajoling,VBG,"  꼬드기다, 회유하다 (=coax)  "
+452,cakemaking,VBG,Not verb
+453,calculating,VBG,"[못마땅함]  타산적인, 계산적인  "
+454,calfling,VBG,Not verb
+455,calking,VBG,Not verb
+456,calling,VBG,Not verb
+457,campshedding,VBG,Not verb
+458,campsheeting,VBG,Not verb
+459,camuning,VBG,Not verb
+460,canalling,VBG,Not verb
+461,candlelighting,VBG,Not verb
+462,candlemaking,VBG,Not verb
+463,candlewasting,VBG,Not verb
+464,candymaking,VBG,Not verb
+465,canmaking,VBG,Not verb
+466,canning,VBG,Not verb
+467,cannoneering,VBG,Not verb
+468,canoeing,VBG,Not verb
+469,canting,VBG,"  독실한 체하는, 위선적인  "
+470,capering,VBG,[격식]  (신이 나서) 뛰어다니다[깡충거리다]  
+471,capmaking,VBG,Not verb
+472,capping,VBG,Not verb
+473,captivating,VBG,"  매혹적인, 마음을 사로잡는 (=enchanting)  "
+474,carding,VBG,Not verb
+475,cardmaking,VBG,Not verb
+476,cardsharping,VBG,Not verb
+477,careering,VBG,  (제멋대로) 달리다 (=hurtle)  
+478,caressing,VBG,"  [A] 애무하는, 귀여워하는; 달래는 듯한(soothing)  "
+479,caretaking,VBG,Not verb
+480,carioling,VBG,Not verb
+481,carking,VBG,"  [고어] 괴롭히는, 귀찮은; 마음 졸이는, 애태우는  "
+482,carling,VBG,Not verb
+483,carloading,VBG,Not verb
+484,carousing,VBG,[문예체]  술을 마시며 흥청거리다  
+485,carpentering,VBG,Not verb
+486,carpeting,VBG,Not verb
+487,carpetmaking,VBG,Not verb
+488,carping,VBG,"  트집 잡는, 잔소리 심한      2.    [명사]  트집 잡기  "
+489,carrying,VBG,"  [A] 운송[적재]의; <목소리가> 잘 들리는; [미·속어] 마약을 가진, 총을 가진  "
+490,cartmaking,VBG,Not verb
+491,cartwrighting,VBG,Not verb
+492,carving,VBG,Not verb
+493,casemaking,VBG,Not verb
+494,casing,VBG,Not verb
+495,casking,VBG,Not verb
+496,casting,VBG,Not verb
+497,castling,VBG,Not verb
+498,catamiting,VBG,Not verb
+499,catching,VBG,Not verb
+500,caterwauling,VBG,  (고양이 소리같이) 새된 소리를 내다  
+501,catfacing,VBG,Not verb
+502,catharping,VBG,Not verb
+503,catling,VBG,Not verb
+504,catting,VBG,Not verb
+505,causing,VBG,  …을 야기하다[초래하다]  
+506,caviling,VBG,Not verb
+507,cellaring,VBG,Not verb
+508,cementmaking,VBG,Not verb
+509,centering,VBG,Not verb
+510,chaffing,VBG,[구식 또는 격식]  (친근하게) 놀리다[농담하다] (=tease)  
+511,chainmaking,VBG,  줄담배를 피우다  
+512,chairmaking,VBG,Not verb
+513,chairmending,VBG,Not verb
+514,chambering,VBG,Not verb
+515,chandlering,VBG,Not verb
+516,changeling,VBG,Not verb
+517,channeling,VBG,Not verb
+518,chanting,VBG,Not verb
+519,chapelgoing,VBG,Not verb
+520,chapping,VBG,Not verb
+521,chargeling,VBG,Not verb
+522,charging,VBG,Not verb
+523,charming,VBG,Not verb
+524,charting,VBG,  도표 작성  
+525,chasing,VBG,Not verb
+526,chattering,VBG,Not verb
+527,chattermagging,VBG,Not verb
+528,chatting,VBG,Not verb
+529,cheaping,VBG,Not verb
+530,cheating,VBG,Not verb
+531,checkstring,VBG,Not verb
+532,cheddaring,VBG,Not verb
+533,cheering,VBG,Not verb
+534,cheesemongering,VBG,Not verb
+535,cheeseparing,VBG,  인색한(stingy)  
+536,cherishing,VBG,"  소중히 여기다, 아끼다      2.    "
+537,chickling,VBG,Not verb
+538,chicquing,VBG,Not verb
+539,chiding,VBG,"[격식]  꾸짖다, 책망하다 (=rebuke)  "
+540,chiefling,VBG,Not verb
+541,childbearing,VBG,Not verb
+542,childcrowing,VBG,Not verb
+543,childing,VBG,"  [고어] 아이를 낳는, 임신한  "
+544,chilling,VBG,  으스스한  
+545,chinching,VBG,Not verb
+546,chinking,VBG,Not verb
+547,chipling,VBG,Not verb
+548,chipping,VBG,  <작은 새 등이> 짹짹 우는  
+549,chirping,VBG,Not verb
+550,chirpling,VBG,Not verb
+551,chitterling,VBG,Not verb
+552,choking,VBG,Not verb
+553,chopping,VBG,Not verb
+554,chrisomloosing,VBG,Not verb
+555,christening,VBG,Not verb
+556,chucking,VBG,Not verb
+557,churchgoing,VBG,Not verb
+558,churching,VBG,Not verb
+559,churning,VBG,Not verb
+560,circling,VBG,Not verb
+561,cissing,VBG,Not verb
+562,cladding,VBG,Not verb
+563,clamming,VBG,Not verb
+564,clanking,VBG,  철커덕하는 소리가 나다[소리를 내다]  
+565,clanning,VBG,Not verb
+566,clapping,VBG,  박수를 치다      2.    
+567,clasping,VBG,"  잎이 줄기의 일부 또는 전부를 감싸고 있는, 포경(抱莖)의.  "
+568,cleading,VBG,Not verb
+569,cleaning,VBG,Not verb
+570,cleansing,VBG,Not verb
+571,clearwing,VBG,Not verb
+572,cleaving,VBG,Not verb
+573,clerking,VBG,[美]  사무원[점원]으로 일하다  
+574,climbing,VBG,Not verb
+575,cling,VBG,"  꼭 붙잡다, 매달리다      2.    "
+576,clinking,VBG,Not verb
+577,clinting,VBG,Not verb
+578,clipping,VBG,Not verb
+579,cloaking,VBG,Not verb
+580,cloakmaking,VBG,Not verb
+581,clockmaking,VBG,Not verb
+582,clodhopping,VBG,"  퉁명스러운, 본데없는  "
+583,clogmaking,VBG,Not verb
+584,closewing,VBG,Not verb
+585,clothmaking,VBG,Not verb
+586,clouding,VBG,Not verb
+587,cloudling,VBG,Not verb
+588,clowring,VBG,  (특히 이른 새벽에) ‘꼬끼오’하고 울다      4.    
+589,cloying,VBG,Not verb
+590,clubbing,VBG,Not verb
+591,clustering,VBG,Not verb
+592,clyfaking,VBG,Not verb
+593,coachbuilding,VBG,Not verb
+594,coaching,VBG,Not verb
+595,coachmaking,VBG,Not verb
+596,coachsmithing,VBG,Not verb
+597,coaming,VBG,Not verb
+598,coasting,VBG,"  연안 항행의, 타성으로 나아가는      2.    [명사]  연안 항행[무역]      3.    [명사]  해안선의 지형, 해안선도(圖)  "
+599,coating,VBG,Not verb
+600,coaxing,VBG,Not verb
+601,cobbing,VBG,Not verb
+602,cobbling,VBG,[구식]  신발을 만들다[수선하다]  
+603,cobwebbing,VBG,Not verb
+604,cockcrowing,VBG,Not verb
+605,cockfighting,VBG,Not verb
+606,cocking,VBG,Not verb
+607,cockling,VBG,Not verb
+608,cockshying,VBG,Not verb
+609,cockthrowing,VBG,Not verb
+610,codding,VBG,Not verb
+611,codling,VBG,Not verb
+612,coffinmaking,VBG,Not verb
+613,cogging,VBG,Not verb
+614,coiling,VBG,Not verb
+615,coindwelling,VBG,Not verb
+616,coining,VBG,Not verb
+617,coinmaking,VBG,Not verb
+618,cointersecting,VBG,Not verb
+619,coking,VBG,Not verb
+620,coling,VBG,Not verb
+621,colling,VBG,Not verb
+622,coloring,VBG,Not verb
+623,colormaking,VBG,Not verb
+624,columning,VBG,Not verb
+625,combing,VBG,Not verb
+626,combining,VBG,Not verb
+627,combmaking,VBG,Not verb
+628,comeling,VBG,Not verb
+629,comforting,VBG,  위로가 되는  
+630,coming,VBG,"  다가오는, 다음의  "
+631,commanding,VBG,Not verb
+632,communicating,VBG,Not verb
+633,commuting,VBG,Not verb
+634,compassing,VBG,Not verb
+635,compelling,VBG,Not verb
+636,compensating,VBG,Not verb
+637,compounding,VBG,Not verb
+638,compromising,VBG,"  낯 뜨거운, 남부끄러운  "
+639,concerning,VBG,Not verb
+640,conciliating,VBG,"[격식]  달래다, 회유하다 (=pacify)  "
+641,concluding,VBG,"  종결의, 최후의, 끝맺는  "
+642,concurring,VBG,"[격식]  동의하다, 의견 일치를 보다  "
+643,condemning,VBG,  (보통 도덕적인 이유로) 규탄[비난]하다      2.    
+644,condescending,VBG,"  거들먹거리는, 잘난 체하는  "
+645,condoling,VBG,Not verb
+646,conducing,VBG,Not verb
+647,coneighboring,VBG,Not verb
+648,conemaking,VBG,Not verb
+649,confessing,VBG,  (죄·잘못을) 자백하다      2.    
+650,confiding,VBG,"  신뢰를 나타내는, 은밀한  "
+651,confining,VBG,  (활동·주제·지역 등을) 국한시키다 (=restrict)      2.    
+652,confirming,VBG,  (특히 증거를 들어) 사실임을 보여주다[확인해 주다]      2.    
+653,conflicting,VBG,"  서로 싸우는, 모순되는, 상충[상반]되는  "
+654,confounding,VBG,Not verb
+655,conning,VBG,Not verb
+656,conquering,VBG,  정복[극복]하는.  
+657,consenting,VBG,  동의[승낙]하는.  
+658,considering,VBG,Not verb
+659,consoling,VBG,  위안이 되는  
+660,conspiring,VBG,"  음모[모의]를 꾸미다, 공모하다      2.    "
+661,constraining,VBG,  …하게 만들다[강요하다]      2.    
+662,consulting,VBG,"  [A] 상담역의, 자문의, 고문(자격)의; 진찰 전문의; 진찰을 위한      2.    [명사]  자문, 조언; 진찰  "
+663,consuming,VBG,"  엄청나게 강렬한, 온 마음을 사로잡는 (→time-consuming)  "
+664,contemning,VBG,Not verb
+665,contending,VBG,[격식]  (특히 언쟁 중에) 주장하다 (=maintain)      2.    
+666,converging,VBG,Not verb
+667,converting,VBG,Not verb
+668,conveyancing,VBG,Not verb
+669,cooing,VBG,Not verb
+670,cooking,VBG,  요리용의  
+671,cooling,VBG,Not verb
+672,coopering,VBG,Not verb
+673,copending,VBG,Not verb
+674,coping,VBG,Not verb
+675,coploughing,VBG,Not verb
+676,coplowing,VBG,Not verb
+677,coppering,VBG,Not verb
+678,coppersmithing,VBG,Not verb
+679,copperwing,VBG,Not verb
+680,coppicing,VBG,Not verb
+681,copping,VBG,Not verb
+682,copsing,VBG,Not verb
+683,copyholding,VBG,Not verb
+684,corbeling,VBG,Not verb
+685,cording,VBG,Not verb
+686,coremaking,VBG,Not verb
+687,coring,VBG,Not verb
+688,corking,VBG,Not verb
+689,corkmaking,VBG,Not verb
+690,corkwing,VBG,Not verb
+691,cornhusking,VBG,Not verb
+692,corning,VBG,Not verb
+693,correcting,VBG,Not verb
+694,corresponding,VBG,  (~에) 해당[상응]하는 (=equivalent)  
+695,corroding,VBG,"  부식시키다, 좀먹다  "
+696,corrupting,VBG,Not verb
+697,corseting,VBG,Not verb
+698,corticating,VBG,Not verb
+699,coshering,VBG,Not verb
+700,cosounding,VBG,Not verb
+701,costeaning,VBG,Not verb
+702,costing,VBG,Not verb
+703,costuming,VBG,Not verb
+704,couching,VBG,Not verb
+705,couchmaking,VBG,Not verb
+706,counteracting,VBG,  (무엇의 악영향에) 대응하다 (=counter)  
+707,counterbeating,VBG,Not verb
+708,counterbuilding,VBG,Not verb
+709,counterflashing,VBG,Not verb
+710,counterhammering,VBG,Not verb
+711,counterjudging,VBG,Not verb
+712,counterlathing,VBG,Not verb
+713,counterlocking,VBG,Not verb
+714,counteropening,VBG,Not verb
+715,counterpleading,VBG,Not verb
+716,counterposting,VBG,Not verb
+717,counterraising,VBG,Not verb
+718,counterreckoning,VBG,Not verb
+719,countershafting,VBG,Not verb
+720,counterspying,VBG,Not verb
+721,counterswing,VBG,Not verb
+722,counterthwarting,VBG,Not verb
+723,countertripping,VBG,Not verb
+724,counterwilling,VBG,Not verb
+725,coupling,VBG,Not verb
+726,coursing,VBG,Not verb
+727,courtling,VBG,Not verb
+728,covenanting,VBG,Not verb
+729,covering,VBG,Not verb
+730,coveting,VBG,"[격식]  (특히 남의 물건을) 탐내다, 갈망하다  "
+731,coving,VBG,Not verb
+732,cowhiding,VBG,Not verb
+733,cowleeching,VBG,Not verb
+734,cowling,VBG,Not verb
+735,coyoting,VBG,Not verb
+736,cozening,VBG,Not verb
+737,crabbing,VBG,Not verb
+738,cracking,VBG,"[英  비격식]  기막히게 좋은, 끝내 주는  "
+739,crackling,VBG,Not verb
+740,cradlemaking,VBG,Not verb
+741,cradling,VBG,Not verb
+742,cratemaking,VBG,Not verb
+743,craunching,VBG,Not verb
+744,craving,VBG,Not verb
+745,crawling,VBG,"  [속어] 벼룩[이, 진드기]가 꾄; [영·속어] 아첨하는, 굽실거리는  "
+746,creammaking,VBG,Not verb
+747,creasing,VBG,Not verb
+748,creatureling,VBG,Not verb
+749,creeping,VBG,  서서히[몰래] 진행되는[다가오는]  
+750,cresting,VBG,Not verb
+751,cribbing,VBG,Not verb
+752,cricketing,VBG,"  크리켓을 하는, 크리켓의  "
+753,crimping,VBG,Not verb
+754,cringeling,VBG,Not verb
+755,cringing,VBG,Not verb
+756,crippling,VBG,  a crippling disease      장애를 초래하는 질병  
+757,crisping,VBG,Not verb
+758,critling,VBG,Not verb
+759,crocheting,VBG,  코바늘로 뜨다  
+760,crofting,VBG,Not verb
+761,crooning,VBG,  (조용히 부드럽게) 노래하다  
+762,crosscutting,VBG,Not verb
+763,crosshauling,VBG,Not verb
+764,crossing,VBG,Not verb
+765,crouching,VBG,Not verb
+766,crowing,VBG,  (특히 이른 새벽에) ‘꼬끼오’하고 울다      4.    
+767,crownling,VBG,  (특히 이른 새벽에) ‘꼬끼오’하고 울다      4.    
+768,crumpling,VBG,Not verb
+769,crunching,VBG,Not verb
+770,crushing,VBG,  (안 좋거나 심각한 정도를 강조하여) 참담한[치명적인]  
+771,crutching,VBG,Not verb
+772,crying,VBG,Not verb
+773,cubbing,VBG,Not verb
+774,culling,VBG,Not verb
+775,cunning,VBG,Not verb
+776,cupmaking,VBG,Not verb
+777,cupping,VBG,Not verb
+778,curbing,VBG,Not verb
+779,curing,VBG,Not verb
+780,curling,VBG,Not verb
+781,curmurring,VBG,Not verb
+782,curtaining,VBG,Not verb
+783,cutling,VBG,Not verb
+784,cutting,VBG,Not verb
+785,cycling,VBG,Not verb
+786,cymbling,VBG,Not verb
+787,cymling,VBG,Not verb
+788,dabbling,VBG,  (스포츠·활동 등을 오락이나 취미 삼아) 조금 해보다[잠깐 손대다]      2.    
+789,daffing,VBG,Not verb
+790,dairying,VBG,Not verb
+791,dallying,VBG,"[구식]  꾸물거리다, 미적거리다 (→dilly-dally)  "
+792,damning,VBG,"  비판적인, 유죄[과오]를 강력 시사하는  "
+793,damping,VBG,Not verb
+794,dampproofing,VBG,Not verb
+795,dancing,VBG,Not verb
+796,dandling,VBG,[구식]  (아이를 무릎 위에 얹고) 까불다[흔들다]  
+797,dandyling,VBG,Not verb
+798,dangling,VBG,"  ...에게 결과를 알리지 않고 기다리게 하다, ...을 애타게 (안달복달하게)하다  "
+799,dapperling,VBG,Not verb
+800,daring,VBG,"  대담한, 위험한      2.    [명사]  대담성  "
+801,darkening,VBG,Not verb
+802,darkling,VBG,"[문예체]  어두워 오는, 어스레한  "
+803,darling,VBG,"[비격식]  (대단히) 사랑하는, 굉장히 멋진[특별한]  "
+804,darning,VBG,Not verb
+805,darting,VBG,  쏜살같이[휙] 달리다[움직이다]      4.    
+806,dashing,VBG,Not verb
+807,dating,VBG,Not verb
+808,daubing,VBG,Not verb
+809,daughterling,VBG,Not verb
+810,daunting,VBG,Not verb
+811,dawdling,VBG,  꾸물[어정]거리다  
+812,dawning,VBG,Not verb
+813,daygoing,VBG,Not verb
+814,dayspring,VBG,Not verb
+815,deadening,VBG,  the deadening effect of alcohol on your reactions      알코올의 반응 둔화 효과  
+816,deading,VBG,Not verb
+817,deafening,VBG,"  귀청이 터질 듯한, 귀가 먹먹한  "
+818,dealing,VBG,Not verb
+819,deappetizing,VBG,Not verb
+820,deathling,VBG,Not verb
+821,debating,VBG,Not verb
+822,deceiving,VBG,"  속이다, 기만하다      2.    "
+823,decking,VBG,Not verb
+824,decompressing,VBG,  기압이[을] 줄다[줄이다]      2.    
+825,decreasing,VBG,"  감소하는, 점점 줄어드는  "
+826,decurring,VBG,Not verb
+827,deepening,VBG,Not verb
+828,deeping,VBG,Not verb
+829,deerstalking,VBG,Not verb
+830,defacing,VBG,Not verb
+831,defiling,VBG,[격식 또는 문예체]  (신성하거나 중요한 것을) 더럽히다  
+832,degrading,VBG,"  비하하는, 모멸적인  "
+833,dehydrofreezing,VBG,Not verb
+834,delaying,VBG,Not verb
+835,delighting,VBG,"  많은 기쁨을 주다, 아주 즐겁게 하다  "
+836,deluding,VBG,"  속이다, 착각하게 하다 (→delusion), (=deceive)  "
+837,demanding,VBG,Not verb
+838,demiflouncing,VBG,Not verb
+839,demiking,VBG,Not verb
+840,demurring,VBG,[격식]  이의를 제기하다  
+841,depending,VBG,"  매달린 , 부수적인 , (법률) 미결의.  "
+842,depolishing,VBG,Not verb
+843,depressing,VBG,"  우울하게 만드는, 우울한  "
+844,depthing,VBG,Not verb
+845,derricking,VBG,Not verb
+846,descending,VBG,"  내려가는, 강하하는, 하향의(opp. ascending); [컴퓨터] 내림차순의  "
+847,deserving,VBG,[격식]  (도움·보답·칭찬 등을) 받을 만한[자격이 있는] (↔undeserving)  
+848,designing,VBG,Not verb
+849,desolating,VBG,Not verb
+850,despairing,VBG,"  절망한, 자포자기한  "
+851,desponding,VBG,  (=DESPONDENT)  
+852,devastating,VBG,Not verb
+853,deviling,VBG,Not verb
+854,devouring,VBG,"  게걸스레 먹는; <감정이> 열렬한, 강렬한  "
+855,dialing,VBG,Not verb
+856,diapering,VBG,Not verb
+857,dicing,VBG,Not verb
+858,diemaking,VBG,Not verb
+859,diesinking,VBG,Not verb
+860,digging,VBG,Not verb
+861,dilling,VBG,Not verb
+862,ding,VBG,[美]  딩동[땡땡]하는 소리를 내다      4.    
+863,dining,VBG,Not verb
+864,dipping,VBG,Not verb
+865,disappearing,VBG,"  (눈앞에서) 사라지다, 보이지 않게 되다 (=vanish)      2.    "
+866,disappointing,VBG,"  실망스러운, 기대에 못 미치는  "
+867,disbelieving,VBG,  a  disbelieving look/smile/laugh  
+868,discerning,VBG,[호감]  안목이 있는  
+869,discharging,VBG,Not verb
+870,discomforting,VBG,[격식]  (마음을) 불편하게 하다  
+871,discomposing,VBG,"[격식]  (마음의) 평정을 잃게 만들다 (=disconcert, disturb)  "
+872,disconcerting,VBG,  She had the disconcerting habit of saying exactly what she thought.      그녀는 자기가 생각하는 바를 그대로 말해 버리는 당황스러운 버릇이 있었다.  
+873,discontenting,VBG,Not verb
+874,discording,VBG,Not verb
+875,discouraging,VBG,  a discouraging experience/response/result      의욕을 꺾는[좌절감을 주는] 경험/반응/결과  
+876,discriminating,VBG,[호감]  안목 있는 (=discerning)  
+877,disguising,VBG,  변장[가장]하다      2.    
+878,disgusting,VBG,Not verb
+879,disheartening,VBG,  a disheartening experience      낙심하게 하는 경험  
+880,dishling,VBG,Not verb
+881,dishmaking,VBG,Not verb
+882,dishwashing,VBG,  접시 씻는  
+883,dishwiping,VBG,Not verb
+884,disinteresting,VBG,  재미없는: 거의 쓰지 않음  
+885,disliking,VBG,Not verb
+886,disobliging,VBG,  (일부러) 비협조적인  
+887,disparaging,VBG,disparaging remarks      폄하하는 발언  
+888,displeasing,VBG,  His remarks were clearly not displeasing to her.      그의 발언이 그녀에게 분명 불쾌한 것은 아니었다.  
+889,disquieting,VBG,[격식]  불안을 조성하는  
+890,disring,VBG,Not verb
+891,dissecting,VBG,"  해부의, 절개용의  "
+892,dissenting,VBG,dissenting groups/voices/views/opinion      반대 집단/반대하는 목소리/견해/의견  
+893,dissolving,VBG,Not verb
+894,distilling,VBG,Not verb
+895,distinguishing,VBG,"  특징적인, 다른 것과 구별되는, 특색 있는  "
+896,distressing,VBG,"  괴로움을 주는, 고통스러운  "
+897,disturbing,VBG,"  충격적인, 불안감을 주는  "
+898,divaricating,VBG,Not verb
+899,diverging,VBG,  (=DIVERGENT)  
+900,diverting,VBG,"[격식]  여흥의, 즐거운  "
+901,dividing,VBG,Not verb
+902,diving,VBG,Not verb
+903,divining,VBG,Not verb
+904,doating,VBG,Not verb
+905,dobbing,VBG,Not verb
+906,doddering,VBG,  (특히 나이가 많아서) 움직임이 자유롭지 못한[비틀거리며 걷는]  
+907,dodding,VBG,Not verb
+908,doegling,VBG,Not verb
+909,dogtoothing,VBG,Not verb
+910,doing,VBG,Not verb
+911,dollmaking,VBG,Not verb
+912,domineering,VBG,[못마땅함]  지배[군림]하려 드는  
+913,doormaking,VBG,Not verb
+914,doting,VBG,"  맹목적으로 사랑하는, 애지중지하는  "
+915,dotting,VBG,Not verb
+916,doublehatching,VBG,Not verb
+917,doubling,VBG,Not verb
+918,doubting,VBG,"  의심하는, 불안한  "
+919,doughmaking,VBG,Not verb
+920,douping,VBG,Not verb
+921,doveling,VBG,Not verb
+922,downcoming,VBG,Not verb
+923,downfalling,VBG,Not verb
+924,downhanging,VBG,Not verb
+925,downligging,VBG,Not verb
+926,downlying,VBG,Not verb
+927,downpouring,VBG,  비가 쏟아져 내리는  
+928,downrushing,VBG,Not verb
+929,downsinking,VBG,Not verb
+930,downsitting,VBG,Not verb
+931,downsliding,VBG,Not verb
+932,downswing,VBG,Not verb
+933,downtrampling,VBG,Not verb
+934,downtreading,VBG,Not verb
+935,drafting,VBG,Not verb
+936,dragging,VBG,Not verb
+937,dragsawing,VBG,Not verb
+938,dramming,VBG,Not verb
+939,drapping,VBG,Not verb
+940,dratting,VBG,Not verb
+941,drawfiling,VBG,Not verb
+942,drawing,VBG,Not verb
+943,drawling,VBG,"  느리게 질질 끄는, 우물쭈물하는, 뜸직뜸직한; 답답한, 지루한  "
+944,drawspring,VBG,Not verb
+945,dredging,VBG,Not verb
+946,dreiling,VBG,Not verb
+947,drenching,VBG,"  흠뻑 적시는, 억수로 쏟아지는  "
+948,dressing,VBG,Not verb
+949,dressmaking,VBG,Not verb
+950,drifting,VBG,Not verb
+951,drilling,VBG,"  날카로운, 통렬한(biting)  "
+952,drinking,VBG,Not verb
+953,dripping,VBG,"  흠뻑 젖은, 물이 뚝뚝 듣는[떨어지는]      2.    [명사]  (고기를 요리할 때 나오는) 기름  "
+954,driving,VBG,Not verb
+955,drooping,VBG,"  늘어진; 눈을 내리깐, 고개 숙인; 풀이 죽은  "
+956,dropling,VBG,Not verb
+957,dropping,VBG,Not verb
+958,drubbing,VBG,Not verb
+959,druggeting,VBG,Not verb
+960,drumming,VBG,Not verb
+961,drying,VBG,"  건조용의, 건조성의  "
+962,dubbing,VBG,Not verb
+963,duckhunting,VBG,Not verb
+964,ducking,VBG,Not verb
+965,duckling,VBG,Not verb
+966,duckwing,VBG,Not verb
+967,dueling,VBG,Not verb
+968,duffing,VBG,Not verb
+969,dukeling,VBG,Not verb
+970,dumping,VBG,Not verb
+971,dumpling,VBG,Not verb
+972,dusting,VBG,Not verb
+973,dwarfling,VBG,Not verb
+974,dwelling,VBG,Not verb
+975,dyeing,VBG,Not verb
+976,dyemaking,VBG,Not verb
+977,dying,VBG,Not verb
+978,dynamiting,VBG,  다이너마이트로 폭파하다  
+979,earing,VBG,Not verb
+980,earning,VBG,Not verb
+981,earring,VBG,Not verb
+982,earsplitting,VBG,"  귀청이 찢어질 듯한, 천지를 진동하는  "
+983,earthling,VBG,Not verb
+984,earthmaking,VBG,[英]  (전기 장치에 전선으로) 접지하다  
+985,earthquaking,VBG,Not verb
+986,easing,VBG,Not verb
+987,easterling,VBG,Not verb
+988,easting,VBG,Not verb
+989,easygoing,VBG,Not verb
+990,eating,VBG,Not verb
+991,eavesdropping,VBG,Not verb
+992,eccentring,VBG,Not verb
+993,ecuelling,VBG,Not verb
+994,edgemaking,VBG,Not verb
+995,edging,VBG,Not verb
+996,edifying,VBG,"[격식 또는 유머]  의식 고양적인, 교화적인  "
+997,egging,VBG,Not verb
+998,eightling,VBG,Not verb
+999,eking,VBG,Not verb
+1000,elding,VBG,Not verb
+1001,electroblasting,VBG,Not verb
+1002,electrocoating,VBG,Not verb
+1003,electroengraving,VBG,Not verb
+1004,electroetching,VBG,Not verb
+1005,electroforming,VBG,Not verb
+1006,electrogilding,VBG,Not verb
+1007,electroplating,VBG,Not verb
+1008,electropuncturing,VBG,Not verb
+1009,electrosherardizing,VBG,Not verb
+1010,electrotyping,VBG,Not verb
+1011,elevating,VBG,"  (정신을) 고양시키는, 고상한  "
+1012,embarrassing,VBG,Not verb
+1013,embossing,VBG,Not verb
+1014,embracing,VBG,Not verb
+1015,enameling,VBG,Not verb
+1016,enchanting,VBG,"  황홀케 하는, 고혹적인 (=delightful)  "
+1017,encouraging,VBG,  This month’s unemployment figures are not very encouraging.      이 달의 실업 수치는 별로 고무적이지 못하다.  
+1018,endearing,VBG,  사랑스러운 (=lovable)  
+1019,ending,VBG,Not verb
+1020,enduring,VBG,  오래가는[지속되는]  
+1021,enfilading,VBG,Not verb
+1022,engaging,VBG,"  호감이 가는, 매력적인  "
+1023,engraving,VBG,Not verb
+1024,engrossing,VBG,  an engrossing problem      몰두하게 하는 문제  
+1025,enjoying,VBG,  즐기다      2.    
+1026,enlarging,VBG,"  확대[확장]하다, 확대[확장]되다      2.    "
+1027,enlightening,VBG,  It was a very enlightening interview.      그것은 이해에 아주 도움이 되는[큰 깨우침을 주는] 인터뷰였다.  
+1028,enlivening,VBG,  활기를 띠게 하는.  
+1029,ennobling,VBG,"  고상[고귀]하게 하는, 작위를 수여하는.  "
+1030,enriching,VBG,"  질을 높이다, 풍요롭게 하다; (식품에 어떤 영양소를) 강화하다      2.    "
+1031,enring,VBG,Not verb
+1032,ensnaring,VBG,"  함정에 빠뜨리는, 유혹하는.  "
+1033,entangling,VBG,"  얽어매다, (걸어서) 꼼짝 못하게 하다      2.    "
+1034,entering,VBG,[격식]  들어가다[오다]      2.    
+1035,enterprising,VBG,[호감]  진취력[기획력]이 있는  
+1036,entertaining,VBG,"  재미있는, 즐거움을 주는  "
+1037,enthralling,VBG,  an enthralling performance      마음을 사로잡는 공연  
+1038,enticing,VBG,  유혹적인  
+1039,entrancing,VBG,entrancing music      황홀감을 느끼게 하는 음악  
+1040,entreating,VBG,"  간청의, 탄원의  "
+1041,envying,VBG,"  부러워하다, 선망하다      3.    "
+1042,equaling,VBG,Not verb
+1043,equalizing,VBG,"  동등하게 하는, 균등하게 하는.  "
+1044,equalling,VBG,Not verb
+1045,equiproducing,VBG,Not verb
+1046,erecting,VBG,Not verb
+1047,erlking,VBG,Not verb
+1048,erring,VBG,Not verb
+1049,erthling,VBG,Not verb
+1050,essling,VBG,Not verb
+1051,esterling,VBG,Not verb
+1052,etching,VBG,Not verb
+1053,evening,VBG,Not verb
+1054,everbearing,VBG,Not verb
+1055,everblooming,VBG,  <식물이> 사계절 피는  
+1056,everduring,VBG,[고어]  EVERLASTING.  
+1057,everlasting,VBG,Not verb
+1058,everliving,VBG,Not verb
+1059,evilspeaking,VBG,Not verb
+1060,evilwishing,VBG,Not verb
+1061,exacting,VBG,"  힘든, 까다로운 (=demanding)  "
+1062,exaggerating,VBG,  과장하다  
+1063,examining,VBG,  조사[검토]하다      2.    
+1064,exasperating,VBG,  정말 짜증스러운[화나는] (=infuriating)  
+1065,exceeding,VBG,"  엄청난; 대단한, 굉장한  "
+1066,excepting,VBG,Not verb
+1067,exciting,VBG,"  신나는, 흥미진진한, 흥분하게 하는  "
+1068,exclaiming,VBG,"  소리치다, 외치다  "
+1069,excluding,VBG,Not verb
+1070,excruciating,VBG,"  몹시 고통스러운, 극심한  "
+1071,excusing,VBG,  (무례나 작은 실수 등을) 용서하다[봐주다]      4.    
+1072,exhausting,VBG,"  진을 빼는, 기진맥진하게 만드는  "
+1073,exhilarating,VBG,  아주 신나는[즐거운]  
+1074,expanding,VBG,Not verb
+1075,expiring,VBG,Not verb
+1076,explaining,VBG,Not verb
+1077,exploring,VBG,  답사[탐사/탐험]하다      2.    
+1078,expostulating,VBG,[격식]  훈계[반대]하다  
+1079,extending,VBG,Not verb
+1080,extenuating,VBG,[격식]  정상 참작이 가능한  
+1081,extraregarding,VBG,Not verb
+1082,extruding,VBG,Not verb
+1083,eyestring,VBG,Not verb
+1084,eying,VBG,  (특히 탐이 나거나 의심스러워서) 쳐다보다  
+1085,fablemongering,VBG,Not verb
+1086,fabling,VBG,Not verb
+1087,facemaking,VBG,Not verb
+1088,facing,VBG,Not verb
+1089,factabling,VBG,Not verb
+1090,fading,VBG,Not verb
+1091,fadmongering,VBG,Not verb
+1092,fagging,VBG,Not verb
+1093,fagoting,VBG,Not verb
+1094,failing,VBG,Not verb
+1095,fainting,VBG,"  졸도하는, 기절의  "
+1096,fairgoing,VBG,Not verb
+1097,fairing,VBG,Not verb
+1098,fairling,VBG,Not verb
+1099,falling,VBG,Not verb
+1100,faltering,VBG,  the faltering peace talks      흔들리고 있는 평화 회담  
+1101,fanfaronading,VBG,Not verb
+1102,fanmaking,VBG,Not verb
+1103,fanning,VBG,Not verb
+1104,farcing,VBG,Not verb
+1105,faring,VBG,"  (특정 상황에서) 잘, 잘못, 더 잘하다 등 (=get on)  "
+1106,farming,VBG,Not verb
+1107,farmsteading,VBG,Not verb
+1108,farseeing,VBG,"  선견지명이 있는, 통찰력 있는; 먼 데를 잘 보는(farsighted)  "
+1109,farthing,VBG,Not verb
+1110,fascinating,VBG,"  대단히 흥미로운, 매력적인  "
+1111,fashionmonging,VBG,Not verb
+1112,fastening,VBG,Not verb
+1113,fastgoing,VBG,Not verb
+1114,fasting,VBG,"  단식의, 금식의  "
+1115,fatherling,VBG,Not verb
+1116,fatling,VBG,Not verb
+1117,faultfinding,VBG,Not verb
+1118,faulting,VBG,Not verb
+1119,favoring,VBG,"  형편에 맞는, 유리한, 순조로운  "
+1120,fawning,VBG,"  아양부리는; 알랑거리는, 아첨하는  "
+1121,feathering,VBG,Not verb
+1122,featherstitching,VBG,Not verb
+1123,featherwing,VBG,Not verb
+1124,feebling,VBG,Not verb
+1125,feeding,VBG,Not verb
+1126,feeling,VBG,Not verb
+1127,feering,VBG,Not verb
+1128,feigning,VBG,[격식]  (감정·질병 등을) 가장하다[…인 척하다]  
+1129,felling,VBG,Not verb
+1130,fellmongering,VBG,Not verb
+1131,felonsetting,VBG,Not verb
+1132,felting,VBG,Not verb
+1133,feltmaking,VBG,Not verb
+1134,fencing,VBG,Not verb
+1135,fendering,VBG,Not verb
+1136,ferling,VBG,Not verb
+1137,ferreting,VBG,Not verb
+1138,fetching,VBG,"[비격식]  멋진, 매력적인  "
+1139,fettling,VBG,Not verb
+1140,fiddlestring,VBG,Not verb
+1141,fiddling,VBG,"[비격식]  하찮은, 시시한  "
+1142,fidgeting,VBG,  (초조지루함흥분 등으로) 꼼지락거리다[가만히 못 있다]      2.    [명사]  잠시도 가만히 못 있는 사람  
+1143,fierding,VBG,Not verb
+1144,figging,VBG,Not verb
+1145,fighting,VBG,Not verb
+1146,filching,VBG,[비격식]  좀도둑질을 하다  
+1147,filemaking,VBG,Not verb
+1148,filleting,VBG,Not verb
+1149,filling,VBG,  포만감을 주는  
+1150,filmgoing,VBG,  영화 관람의  
+1151,filtering,VBG,Not verb
+1152,finding,VBG,Not verb
+1153,fingering,VBG,Not verb
+1154,fingerling,VBG,Not verb
+1155,fingerprinting,VBG,Not verb
+1156,finicking,VBG,  (=FINICKY)  
+1157,finiking,VBG,Not verb
+1158,fining,VBG,Not verb
+1159,finishing,VBG,"  최후의; 끝손질의, 마무리의      2.    [명사]  끝손질, 마무리 손질      3.    [명사]  [pl.] [건축] 마무리 일, 건물의 설비품 ((전등·연관(鉛管) 등))  "
+1160,fireling,VBG,Not verb
+1161,fireproofing,VBG,Not verb
+1162,firestopping,VBG,Not verb
+1163,firing,VBG,Not verb
+1164,firring,VBG,Not verb
+1165,firstling,VBG,Not verb
+1166,fishling,VBG,Not verb
+1167,fisting,VBG,Not verb
+1168,fitting,VBG,Not verb
+1169,fiveling,VBG,Not verb
+1170,fixing,VBG,Not verb
+1171,fjarding,VBG,Not verb
+1172,fjerding,VBG,Not verb
+1173,flagging,VBG,Not verb
+1174,flagmaking,VBG,Not verb
+1175,flaming,VBG,Not verb
+1176,flanking,VBG,  ~이 옆[측면]에 있다      4.    
+1177,flaring,VBG,Not verb
+1178,flashing,VBG,Not verb
+1179,flatling,VBG,Not verb
+1180,flattening,VBG,Not verb
+1181,flattering,VBG,Not verb
+1182,flatting,VBG,Not verb
+1183,flaunting,VBG,"  나부끼는, 과시하는  "
+1184,flavoring,VBG,Not verb
+1185,fledgling,VBG,Not verb
+1186,fleering,VBG,Not verb
+1187,fleeting,VBG,"  순식간의, 잠깐 동안의 (=brief)  "
+1188,fleetwing,VBG,"  순식간의, 잠깐 동안의 (=brief)  "
+1189,fleshing,VBG,Not verb
+1190,flickering,VBG,Not verb
+1191,flighting,VBG,[英 스포츠]  (공이 멋지게 날아가게) 차다[치다/던지다]  
+1192,flinching,VBG,  움찔[주춤]하다 (→unflinching)  
+1193,fling,VBG,  (특히 화가 나서 거칠게) 내던지다[내팽개치다] (=hurl)      2.    
+1194,flipperling,VBG,Not verb
+1195,flirting,VBG,"  희롱하는, 시시덕거리는, 장난삼아 연애하는  "
+1196,flirtling,VBG,Not verb
+1197,flitting,VBG,Not verb
+1198,floating,VBG,  유동적인  
+1199,flocking,VBG,Not verb
+1200,flogging,VBG,Not verb
+1201,flooding,VBG,Not verb
+1202,floodlighting,VBG,Not verb
+1203,flooring,VBG,Not verb
+1204,flopwing,VBG,Not verb
+1205,flossing,VBG,Not verb
+1206,flouncing,VBG,Not verb
+1207,floundering,VBG,Not verb
+1208,flourishing,VBG,"  무성한; 번영하는, 융성한, 성대한  "
+1209,flouting,VBG,  (법 등을 공공연히) 어기다[무시하다] (=defy)  
+1210,flowering,VBG,Not verb
+1211,flowing,VBG,Not verb
+1212,fluking,VBG,Not verb
+1213,flushing,VBG,Not verb
+1214,fluting,VBG,Not verb
+1215,fluttering,VBG,Not verb
+1216,flying,VBG,"  날 수 있는      2.    [명사]  비행기 여행      3.    [명사]  비행기 조종, 비행  "
+1217,foaming,VBG,Not verb
+1218,foddering,VBG,Not verb
+1219,foiling,VBG,Not verb
+1220,foining,VBG,Not verb
+1221,folding,VBG,  접을 수 있는  
+1222,following,VBG,Not verb
+1223,fondling,VBG,Not verb
+1224,fooling,VBG,Not verb
+1225,footing,VBG,Not verb
+1226,footling,VBG,"[구식  비격식]  시시한, 하찮은  "
+1227,footlining,VBG,Not verb
+1228,fopling,VBG,Not verb
+1229,forbearing,VBG,"[격식]  관용을 보이는, 관대한 (=patient)  "
+1230,forbidding,VBG,"  험악한, 으스스한  "
+1231,forcing,VBG,Not verb
+1232,fording,VBG,Not verb
+1233,foreaccounting,VBG,Not verb
+1234,foreboding,VBG,Not verb
+1235,forecasting,VBG,Not verb
+1236,forecatching,VBG,Not verb
+1237,forecatharping,VBG,Not verb
+1238,forefeeling,VBG,Not verb
+1239,foregoing,VBG,Not verb
+1240,forehinting,VBG,Not verb
+1241,foreking,VBG,Not verb
+1242,foreknowing,VBG,Not verb
+1243,foremisgiving,VBG,Not verb
+1244,foreplanting,VBG,Not verb
+1245,forereaching,VBG,Not verb
+1246,forerigging,VBG,Not verb
+1247,foreschooling,VBG,Not verb
+1248,foreshortening,VBG,Not verb
+1249,foresing,VBG,Not verb
+1250,forestarling,VBG,Not verb
+1251,foretalking,VBG,Not verb
+1252,forewarning,VBG,Not verb
+1253,forewing,VBG,Not verb
+1254,forewinning,VBG,Not verb
+1255,forgetting,VBG,Not verb
+1256,forging,VBG,Not verb
+1257,forgiving,VBG,  너그러운  
+1258,forthbring,VBG,Not verb
+1259,forthcoming,VBG,Not verb
+1260,forthgoing,VBG,Not verb
+1261,forthputting,VBG,Not verb
+1262,fortifying,VBG,  (특히 높은 성벽을 쌓아) 요새화하다      2.    
+1263,fortunetelling,VBG,"  점을 치는, 점치는 데 쓰이는.  "
+1264,forwarding,VBG,Not verb
+1265,fostering,VBG,Not verb
+1266,fosterling,VBG,Not verb
+1267,fouling,VBG,Not verb
+1268,founding,VBG,Not verb
+1269,foundling,VBG,Not verb
+1270,fourling,VBG,Not verb
+1271,fowling,VBG,Not verb
+1272,foxing,VBG,Not verb
+1273,fractionating,VBG,Not verb
+1274,framing,VBG,Not verb
+1275,franking,VBG,  (때로는 남을 불편하게 만들 수도 있을 정도로) 솔직한[노골적인]      2.    [동사]  (우편물에) 요금 납부 일부인을 찍다  
+1276,frapping,VBG,Not verb
+1277,fraying,VBG,Not verb
+1278,frazzling,VBG,Not verb
+1279,freckling,VBG,Not verb
+1280,freebooting,VBG,Not verb
+1281,freeholding,VBG,Not verb
+1282,freeing,VBG,Not verb
+1283,freeloving,VBG,Not verb
+1284,freestanding,VBG,Not verb
+1285,freethinking,VBG,Not verb
+1286,freezing,VBG,Not verb
+1287,frenching,VBG,Not verb
+1288,fretting,VBG,Not verb
+1289,friarling,VBG,Not verb
+1290,fribbling,VBG,Not verb
+1291,frightening,VBG,  무서운  
+1292,frilling,VBG,Not verb
+1293,fringing,VBG,  (술 모양으로) 가두리를 꾸민  
+1294,frisking,VBG,Not verb
+1295,frizzing,VBG,[비격식]  곱슬곱슬하다[하게 만들다]      2.    [명사][못마땅함]  곱슬곱슬한 머리  
+1296,frocking,VBG,Not verb
+1297,frogging,VBG,Not verb
+1298,frogling,VBG,Not verb
+1299,fronting,VBG,Not verb
+1300,frosting,VBG,Not verb
+1301,frostproofing,VBG,Not verb
+1302,frothing,VBG,Not verb
+1303,frowning,VBG,Not verb
+1304,fruitgrowing,VBG,Not verb
+1305,fruiting,VBG,Not verb
+1306,fruitling,VBG,Not verb
+1307,fulgurating,VBG,Not verb
+1308,fullering,VBG,Not verb
+1309,fulling,VBG,Not verb
+1310,fulminating,VBG,"  폭발성의, 기폭성의.  "
+1311,fuming,VBG,Not verb
+1312,fundmongering,VBG,Not verb
+1313,funmaking,VBG,Not verb
+1314,furnishing,VBG,Not verb
+1315,furring,VBG,Not verb
+1316,furzeling,VBG,Not verb
+1317,gadding,VBG,Not verb
+1318,gadling,VBG,Not verb
+1319,gaining,VBG,  (필요하거나 원하는 것을) 하게[얻게] 되다      2.    
+1320,gainspeaking,VBG,Not verb
+1321,gaisling,VBG,Not verb
+1322,gaiting,VBG,Not verb
+1323,galling,VBG,"  짜증나는, 화나는  "
+1324,galloping,VBG,"  급증하는, 급속히 진행[확산]되는  "
+1325,galvayning,VBG,Not verb
+1326,gambling,VBG,Not verb
+1327,gamekeeping,VBG,Not verb
+1328,gaming,VBG,Not verb
+1329,gammoning,VBG,Not verb
+1330,ganging,VBG,Not verb
+1331,gangling,VBG,"  키가 크고 여윈, 흐느적거리는 (=lanky)  "
+1332,garbling,VBG,Not verb
+1333,gardening,VBG,Not verb
+1334,gardenmaking,VBG,Not verb
+1335,gartering,VBG,Not verb
+1336,gasfiring,VBG,Not verb
+1337,gasking,VBG,Not verb
+1338,gaslighting,VBG,Not verb
+1339,gasping,VBG,Not verb
+1340,gassing,VBG,Not verb
+1341,gathering,VBG,Not verb
+1342,gating,VBG,Not verb
+1343,gauging,VBG,  검[계]량하는.  
+1344,gaulding,VBG,Not verb
+1345,gauzewing,VBG,Not verb
+1346,gazing,VBG,Not verb
+1347,gearing,VBG,Not verb
+1348,gelding,VBG,Not verb
+1349,generating,VBG,  전기를 일으키는  
+1350,germing,VBG,Not verb
+1351,germling,VBG,Not verb
+1352,gesning,VBG,Not verb
+1353,gestening,VBG,Not verb
+1354,gestning,VBG,"  농담의; 농담을 잘하는, 익살스러운(jocose); 시시한(trivial)  "
+1355,getting,VBG,  받다      2.    
+1356,gibing,VBG,Not verb
+1357,giftling,VBG,[英]  거저[공짜로] 내주다  
+1358,giggling,VBG,"  피식 웃다, 킥킥[키득/낄낄]거리다(재미난처함초조감에서 웃는 소리)      2.    [명사]  피식 웃음, 킥킥[키득/낄낄]거림      3.    [명사][英 비격식]  장난  "
+1359,gilding,VBG,Not verb
+1360,gilling,VBG,Not verb
+1361,gimping,VBG,Not verb
+1362,ging,VBG,Not verb
+1363,ginning,VBG,Not verb
+1364,girding,VBG,"  둘러싸다, 묶다, 매다  "
+1365,girdling,VBG,Not verb
+1366,girling,VBG,Not verb
+1367,giving,VBG,Not verb
+1368,glaceing,VBG,Not verb
+1369,glancing,VBG,  비스듬히 치는  
+1370,glaring,VBG,Not verb
+1371,glassmaking,VBG,Not verb
+1372,glassworking,VBG,Not verb
+1373,glazing,VBG,Not verb
+1374,gleaming,VBG,"  빛나는, 환한  "
+1375,gleaning,VBG,Not verb
+1376,gliding,VBG,Not verb
+1377,gliffing,VBG,Not verb
+1378,glimmering,VBG,"  깜박이는, 희미하게 빛나는  "
+1379,glistening,VBG,Not verb
+1380,glittering,VBG,Not verb
+1381,gloaming,VBG,Not verb
+1382,gloating,VBG,"  (자신의 성공에) 흡족해 하다, (남의 실패를) 고소해 하다 (=crow)  "
+1383,glooming,VBG,"  어둑한, 어두침침한.  "
+1384,glorying,VBG,Not verb
+1385,glossing,VBG,  주석[해설]을 달다  
+1386,glovemaking,VBG,Not verb
+1387,gloving,VBG,Not verb
+1388,glowering,VBG,  언짢은 얼굴로 보는.  
+1389,glowing,VBG,  극찬하는  
+1390,glozing,VBG,Not verb
+1391,gluemaking,VBG,Not verb
+1392,glutting,VBG,  과잉 공급하다  
+1393,gnatling,VBG,Not verb
+1394,goalkeeping,VBG,Not verb
+1395,goatling,VBG,Not verb
+1396,gobbing,VBG,[英 속어]  침을 찍 뱉다 (=spit)  
+1397,godling,VBG,Not verb
+1398,godmaking,VBG,Not verb
+1399,goffering,VBG,Not verb
+1400,going,VBG,"  (정기적으로 또는 자주) …에 다니는 (→ocean-going, ongoing, outgoing)  "
+1401,goldbeating,VBG,Not verb
+1402,goldenwing,VBG,Not verb
+1403,goldsmithing,VBG,Not verb
+1404,gooding,VBG,Not verb
+1405,goosewing,VBG,Not verb
+1406,goring,VBG,Not verb
+1407,gosling,VBG,Not verb
+1408,gossiping,VBG,"  쑥덕공론하는, 수다스러운; 잡담조의      2.    [명사]  수다, 좌담회  "
+1409,governing,VBG,"  통치[지배]하는, 관리[운영]하는  "
+1410,grabbling,VBG,Not verb
+1411,grading,VBG,Not verb
+1412,graduating,VBG,"  (특히 대학을) 졸업하다, (학사) 학위를 받다      4.    "
+1413,grafting,VBG,Not verb
+1414,grailing,VBG,Not verb
+1415,grainering,VBG,Not verb
+1416,graining,VBG,Not verb
+1417,graping,VBG,Not verb
+1418,grappling,VBG,Not verb
+1419,grasping,VBG,[못마땅함]  욕심 많은 (=greedy)  
+1420,grassing,VBG,Not verb
+1421,gratifying,VBG,"[격식]  흐뭇한, 기쁜  "
+1422,grating,VBG,  귀에 거슬리는  
+1423,graveling,VBG,Not verb
+1424,gravemaking,VBG,Not verb
+1425,graving,VBG,Not verb
+1426,grayling,VBG,Not verb
+1427,grazing,VBG,Not verb
+1428,greening,VBG,Not verb
+1429,greenkeeping,VBG,Not verb
+1430,greenling,VBG,Not verb
+1431,greenwing,VBG,Not verb
+1432,greeting,VBG,Not verb
+1433,grieving,VBG,Not verb
+1434,grimacing,VBG,  얼굴을 찡그리다      2.    [명사]  찡그린 표정  
+1435,grinding,VBG,  끝도 없이 계속되는  
+1436,grinning,VBG,  (소리 없이) 활짝[크게] 웃다      2.    [명사]  (소리 없이) 활짝[크게] 웃음  
+1437,griping,VBG,  (배가) 갑자기 콕콕 찌르듯이 아픈  
+1438,gripping,VBG,"  (마음·시선을) 사로잡는, 눈을 떼지 못하게 하는  "
+1439,gristmilling,VBG,Not verb
+1440,groaning,VBG,"  (고통·짜증으로) 신음[끙 하는] 소리를 내다, (기뻐서) 낮게 탄성을 지르다 (=moan)      2.    "
+1441,groining,VBG,Not verb
+1442,groomling,VBG,Not verb
+1443,grooving,VBG,Not verb
+1444,groping,VBG,"  손으로 더듬는, 암중모색하는  "
+1445,grounding,VBG,Not verb
+1446,groundling,VBG,Not verb
+1447,grouping,VBG,Not verb
+1448,groveling,VBG,"  땅에 엎드린, 설설 기는; 비굴한, 천한  "
+1449,growing,VBG,"  (크기·양·정도가) 커지는, 성장[증가]하는  "
+1450,growling,VBG,  으르렁[딱딱]거리는  
+1451,grudging,VBG,  마지못해 주는[하는] (=reluctant)  
+1452,grueling,VBG,"  녹초로 만드는, 엄한      2.    [명사]  [영] 엄벌, 혼냄; 봉변, 타격  "
+1453,grunting,VBG,Not verb
+1454,gruntling,VBG,Not verb
+1455,guarding,VBG,"  지키다, 보호하다, 경비를 보다      4.    "
+1456,guessing,VBG,  추측[짐작]하다      2.    
+1457,guesting,VBG,  (방송 프로콘서트경기 등에) 게스트로 참여하다  
+1458,Guestling,VBG,Not verb
+1459,guestling,VBG,Not verb
+1460,guising,VBG,Not verb
+1461,gulleting,VBG,Not verb
+1462,gulping,VBG,Not verb
+1463,gumdigging,VBG,Not verb
+1464,gummaking,VBG,Not verb
+1465,gumming,VBG,Not verb
+1466,gunmaking,VBG,Not verb
+1467,gunning,VBG,Not verb
+1468,gunrunning,VBG,Not verb
+1469,gunsmithing,VBG,Not verb
+1470,gunstocking,VBG,Not verb
+1471,gurgling,VBG,"  콸콸[졸졸] 흐르는, 목구멍을 울리는 소리로 말하는.  "
+1472,gushing,VBG,[못마땅함]  (열의·칭찬·감정을 과장되게) 마구 쏟아 내는  
+1473,gutling,VBG,Not verb
+1474,guttering,VBG,Not verb
+1475,gutterling,VBG,Not verb
+1476,gytling,VBG,Not verb
+1477,hacking,VBG,Not verb
+1478,hading,VBG,Not verb
+1479,haircutting,VBG,  조발[이발]의  
+1480,hairdressing,VBG,  이발[조발]용의  
+1481,hairsplitting,VBG,Not verb
+1482,hairspring,VBG,Not verb
+1483,halfling,VBG,  미성년의  
+1484,halling,VBG,Not verb
+1485,halting,VBG,"  자꾸 끊어지는[중단되는], 멈칫거리는 (=hesitant)  "
+1486,hammering,VBG,Not verb
+1487,hamstring,VBG,  방해하다  
+1488,handfasting,VBG,Not verb
+1489,handgriping,VBG,Not verb
+1490,handhaving,VBG,Not verb
+1491,handling,VBG,Not verb
+1492,handrailing,VBG,Not verb
+1493,handreading,VBG,Not verb
+1494,handshaking,VBG,Not verb
+1495,handspring,VBG,Not verb
+1496,handwriting,VBG,Not verb
+1497,hanging,VBG,Not verb
+1498,hankering,VBG,Not verb
+1499,happening,VBG,[비격식]  (장소가) 신나는[멋진]  
+1500,happing,VBG,Not verb
+1501,hardening,VBG,Not verb
+1502,hardstanding,VBG,Not verb
+1503,harling,VBG,Not verb
+1504,harpwaytuning,VBG,Not verb
+1505,harrowing,VBG,"  끔찍한, 참혹한  "
+1506,hatching,VBG,Not verb
+1507,hatchling,VBG,Not verb
+1508,hatmaking,VBG,Not verb
+1509,hatting,VBG,Not verb
+1510,haunching,VBG,Not verb
+1511,hawking,VBG,Not verb
+1512,haymaking,VBG,Not verb
+1513,hazing,VBG,Not verb
+1514,heading,VBG,Not verb
+1515,headlighting,VBG,Not verb
+1516,headring,VBG,Not verb
+1517,headspring,VBG,Not verb
+1518,headworking,VBG,Not verb
+1519,healing,VBG,Not verb
+1520,hearing,VBG,Not verb
+1521,heartaching,VBG,Not verb
+1522,heartbreaking,VBG,  a heartbreaking story      가슴 아픈 이야기  
+1523,heartburning,VBG,Not verb
+1524,heartening,VBG,  It is heartening to see the determination of these young people.      이 젊은 사람들의 각오를 보니 힘이 난다.  
+1525,hearthwarming,VBG,  마음이 따뜻해지는  
+1526,hearting,VBG,Not verb
+1527,heartling,VBG,Not verb
+1528,heartsickening,VBG,"  슬픔에 잠기게 하는, 상심하게 하는.  "
+1529,heartstring,VBG,Not verb
+1530,heating,VBG,Not verb
+1531,heatmaking,VBG,Not verb
+1532,heaving,VBG,  (~이) 가득한  
+1533,hedgemaking,VBG,Not verb
+1534,hedging,VBG,Not verb
+1535,heelmaking,VBG,Not verb
+1536,heling,VBG,Not verb
+1537,helioengraving,VBG,Not verb
+1538,helmetmaking,VBG,Not verb
+1539,helping,VBG,Not verb
+1540,hempstring,VBG,Not verb
+1541,herding,VBG,Not verb
+1542,hereniging,VBG,Not verb
+1543,herling,VBG,Not verb
+1544,herring,VBG,Not verb
+1545,hesitating,VBG,"  주저하는, 머뭇거리는, 망설이는; 말을 더듬거리는.  "
+1546,hething,VBG,Not verb
+1547,hideling,VBG,Not verb
+1548,hidling,VBG,Not verb
+1549,highfaluting,VBG,Not verb
+1550,highflying,VBG,Not verb
+1551,highliving,VBG,Not verb
+1552,hilding,VBG,Not verb
+1553,hing,VBG,Not verb
+1554,hipping,VBG,Not verb
+1555,hireling,VBG,Not verb
+1556,hissing,VBG,  쉿쉿 하는  
+1557,hoarding,VBG,Not verb
+1558,hobbling,VBG,Not verb
+1559,hodening,VBG,Not verb
+1560,hogling,VBG,Not verb
+1561,hoisting,VBG,Not verb
+1562,holding,VBG,Not verb
+1563,holidaymaking,VBG,Not verb
+1564,holing,VBG,Not verb
+1565,homecrofting,VBG,Not verb
+1566,homekeeping,VBG,"  집 안에 틀어박히기를 좋아하는, 집 안에만 있는  "
+1567,homeling,VBG,Not verb
+1568,homemaking,VBG,  가사의  
+1569,hookmaking,VBG,Not verb
+1570,hooping,VBG,Not verb
+1571,horning,VBG,Not verb
+1572,horrormongering,VBG,Not verb
+1573,horsing,VBG,"  (암말이) 암내난, 발정한, 교미기의.  "
+1574,hosting,VBG,Not verb
+1575,hounding,VBG,Not verb
+1576,houseboating,VBG,Not verb
+1577,housebreaking,VBG,Not verb
+1578,housebuilding,VBG,Not verb
+1579,householding,VBG,Not verb
+1580,housekeeping,VBG,Not verb
+1581,houseling,VBG,Not verb
+1582,housemaiding,VBG,Not verb
+1583,housemating,VBG,Not verb
+1584,housewarming,VBG,Not verb
+1585,hovering,VBG,Not verb
+1586,howling,VBG,Not verb
+1587,hubmaking,VBG,Not verb
+1588,huddling,VBG,  (보통 춥거나 무서워서) 옹송그리며 모이다      2.    
+1589,hugging,VBG,  (사람을) 껴안다[포옹하다] (=embrace)      2.    
+1590,hulking,VBG,  (흔히 불안감을 줄 정도로) 거대한  
+1591,humiliating,VBG,  a humiliating defeat      굴욕스러운 패배  
+1592,humming,VBG,Not verb
+1593,hunting,VBG,Not verb
+1594,hurling,VBG,Not verb
+1595,hurting,VBG,"  [미·속어] 비참한, 아주 곤궁한, (…에) 굶주린 ((for))  "
+1596,hushing,VBG,Not verb
+1597,husking,VBG,Not verb
+1598,husting,VBG,Not verb
+1599,huttoning,VBG,Not verb
+1600,hydroforming,VBG,Not verb
+1601,hying,VBG,HIE의 현재분사  
+1602,hyperspiritualizing,VBG,Not verb
+1603,icing,VBG,Not verb
+1604,illuminating,VBG,"  이해를 돕는, 분명하게 하는  "
+1605,impending,VBG,"  곧 닥칠, 임박한 (=imminent)  "
+1606,impling,VBG,Not verb
+1607,imploring,VBG,  She gave him an imploring look.      그녀가 그에게 애원하는 눈길을 보냈다.  
+1608,imposing,VBG,"  인상적인, 눈길을 끄는  "
+1609,improving,VBG,"  개량[개선]하는, 유익한, 도움이 되는  "
+1610,inbeaming,VBG,Not verb
+1611,inbearing,VBG,Not verb
+1612,inbeing,VBG,Not verb
+1613,inbending,VBG,"[흔히 못마땅함]  (의견·결정 등을) 굽히지 않는, 고집스러운 (=inflexible)  "
+1614,inblowing,VBG,Not verb
+1615,inbreaking,VBG,Not verb
+1616,inburning,VBG,Not verb
+1617,incalving,VBG,Not verb
+1618,incohering,VBG,Not verb
+1619,incoming,VBG,Not verb
+1620,inconcluding,VBG,Not verb
+1621,inconcurring,VBG,Not verb
+1622,incorresponding,VBG,Not verb
+1623,increasing,VBG,Not verb
+1624,incrossing,VBG,Not verb
+1625,incutting,VBG,Not verb
+1626,indexing,VBG,Not verb
+1627,indiscriminating,VBG,"  무차별의, 무분별의  "
+1628,indrawing,VBG,Not verb
+1629,indulging,VBG,  (특히 좋지 않다고 여겨지는 것을) 마음껏 하다      2.    
+1630,inerring,VBG,"  틀림없는, 항상 정확한 (=unfailing)  "
+1631,inexacting,VBG,Not verb
+1632,infalling,VBG,Not verb
+1633,infighting,VBG,Not verb
+1634,infilling,VBG,Not verb
+1635,inflaming,VBG,  흥분[격앙/격분]시키다      2.    
+1636,inflowering,VBG,Not verb
+1637,infolding,VBG,Not verb
+1638,ing,VBG,Not verb
+1639,ingathering,VBG,Not verb
+1640,ingiving,VBG,Not verb
+1641,ingoing,VBG,Not verb
+1642,ingratiating,VBG,[못마땅함]  환심을 사려는  
+1643,inkling,VBG,Not verb
+1644,inkmaking,VBG,Not verb
+1645,inkslinging,VBG,Not verb
+1646,inlaying,VBG,Not verb
+1647,inlying,VBG,  안쪽[내부]의  
+1648,inning,VBG,Not verb
+1649,inoffending,VBG,Not verb
+1650,inquiring,VBG,Not verb
+1651,inring,VBG,Not verb
+1652,inrunning,VBG,Not verb
+1653,inshining,VBG,Not verb
+1654,insinking,VBG,Not verb
+1655,insinuating,VBG,Not verb
+1656,inspiring,VBG,"  (…하도록) 고무[격려/자극]하는 (→awe-inspiring), (↔uninspiring)  "
+1657,inspiriting,VBG,"  기운을 북돋우는, 고무적인  "
+1658,instanding,VBG,Not verb
+1659,instealing,VBG,Not verb
+1660,instreaming,VBG,Not verb
+1661,insulating,VBG,  절연[단열/방음]을 위한  
+1662,insulting,VBG,  모욕적인  
+1663,inswarming,VBG,Not verb
+1664,insweeping,VBG,Not verb
+1665,inswing,VBG,Not verb
+1666,intending,VBG,"  미래의, 지망하는  "
+1667,interbonding,VBG,Not verb
+1668,interbring,VBG,"  (포로정치범을) 억류하다 (→internee)      2.    [명사]  인턴, 수련의 (→house officer)      3.    [명사]  인턴사원 (→internship)  "
+1669,intercepting,VBG,Not verb
+1670,intercooling,VBG,Not verb
+1671,interesting,VBG,"  (특별하거나 신나거나 특이해서) 재미있는, 흥미로운  "
+1672,interfering,VBG,"[못마땅함]  간섭하는, 참견하기 좋아하는  "
+1673,interflashing,VBG,Not verb
+1674,intergenerating,VBG,Not verb
+1675,interlying,VBG,Not verb
+1676,intermeddling,VBG,Not verb
+1677,intermitting,VBG,Not verb
+1678,interpilastering,VBG,Not verb
+1679,interplanting,VBG,Not verb
+1680,interposing,VBG,"  (대화 중에 질문·발언을) 덧붙이다, 끼어들다      2.    "
+1681,interrupting,VBG,  (말·행동을) 방해하다[중단시키다/가로막다]      2.    
+1682,intershifting,VBG,Not verb
+1683,interthing,VBG,  시험관이나 tube를 조심스럽게 뒤집으며 섞는 기법  
+1684,interthronging,VBG,Not verb
+1685,intertrading,VBG,Not verb
+1686,intertwining,VBG,Not verb
+1687,interweaving,VBG,  (실·털실 등을) 섞어 짜다[넣다]  
+1688,intolerating,VBG,Not verb
+1689,intoxicating,VBG,Not verb
+1690,intriguing,VBG,  (특이하거나 분명한 해답이 없어서) 아주 흥미로운  
+1691,intruding,VBG,  (남이 원치 않거나 가서는 안 될 곳에) 자기 마음대로 가다[침범하다]      2.    
+1692,inturning,VBG,"  (포로정치범을) 억류하다 (→internee)      2.    [명사]  인턴, 수련의 (→house officer)      3.    [명사]  인턴사원 (→internship)  "
+1693,investigating,VBG,"  (상황·사건·범죄 등에 대해) 수사[조사]하다, 살피다      2.    "
+1694,invigorating,VBG,  an invigorating walk / shower      활기를 북돋워 주는 산책/샤워  
+1695,inviting,VBG,"  유혹[매력]적인, 솔깃한 (=attractive)  "
+1696,inwandering,VBG,Not verb
+1697,ironmaking,VBG,Not verb
+1698,ironmongering,VBG,Not verb
+1699,ironworking,VBG,Not verb
+1700,irritating,VBG,  I found her extremely irritating  나는 그녀가 몹시 거슬렸다.  
+1701,issuing,VBG,  발표[공표]하다      4.    
+1702,itching,VBG,"  [A] 가려운, …하고 싶어 못 견디는  "
+1703,iteming,VBG,Not verb
+1704,jabbering,VBG,[못마땅함]  (흥분해서 알아듣기 힘들게) 지껄이다 (=gabble)  
+1705,jacketing,VBG,Not verb
+1706,jackpudding,VBG,Not verb
+1707,jailering,VBG,  투옥[수감]하다 (=imprison)  
+1708,japing,VBG,Not verb
+1709,jarring,VBG,"  삐걱거리는, 귀[신경]에 거슬리는; <색이> 조화되지 않은; 알력의  "
+1710,jawbreaking,VBG,[구어]  발음하기 어려운  
+1711,jedding,VBG,Not verb
+1712,jeering,VBG,"  야유[조롱]하다 (=taunt)      2.    [명사]  야유, 조롱 (=taunt)  "
+1713,jenneting,VBG,Not verb
+1714,jeweling,VBG,Not verb
+1715,jing,VBG,Not verb
+1716,jingling,VBG,  (듣기 좋게) 딸랑[짤랑/댕그랑]거리다  
+1717,jobbing,VBG,"[英]  (고정된 직장이 없이 이 사람 저 사람을 위해) 여러 가지 일을 하는, 임시직의  "
+1718,joining,VBG,Not verb
+1719,jointing,VBG,Not verb
+1720,joisting,VBG,Not verb
+1721,jolting,VBG,  갑자기 거칠게[덜컥거리며] 움직이다[움직이게 하다] (=jerk)      2.    
+1722,jotting,VBG,Not verb
+1723,journeying,VBG,[격식 또는 문예체]  (특히 장거리를) 여행[이동]하다  
+1724,juggling,VBG,"  요술을 부리다, 곡예를 하다, 저글링하다  "
+1725,junketing,VBG,Not verb
+1726,junking,VBG,  폐물로 처분하다  
+1727,juring,VBG,Not verb
+1728,justifying,VBG,  옳음[타당함]을 보여 주다      2.    
+1729,jutting,VBG,  튀어나온  
+1730,keckling,VBG,"  (공적인 회의에서 발표자를) 방해하다, 야유를 퍼붓다 (=barrack)  "
+1731,keeling,VBG,"  뒤집히다, 전복되다; 뒤집다, 전복시키다 (=capsize)  "
+1732,keepering,VBG,Not verb
+1733,keeping,VBG,Not verb
+1734,kenning,VBG,Not verb
+1735,ketting,VBG,Not verb
+1736,kettlemaking,VBG,Not verb
+1737,kicking,VBG,"[비격식]  활기찬, 신나는      2.    [명사]  (특히 바닥에 누워 있는 사람을) 마구 차기  "
+1738,kidling,VBG,Not verb
+1739,killing,VBG,  기진맥진하게 만드는 (=exhausting)  
+1740,kilting,VBG,  기진맥진하게 만드는 (=exhausting)  
+1741,kindergartening,VBG,Not verb
+1742,kindling,VBG,Not verb
+1743,kingling,VBG,Not verb
+1744,kingmaking,VBG,Not verb
+1745,kirking,VBG,Not verb
+1746,kissing,VBG,  키스하는  
+1747,kiteflying,VBG,Not verb
+1748,kitling,VBG,Not verb
+1749,knapsacking,VBG,Not verb
+1750,kneading,VBG,Not verb
+1751,kneeling,VBG,  무릎을 꿇다  
+1752,knightling,VBG,Not verb
+1753,knitting,VBG,Not verb
+1754,knocking,VBG,Not verb
+1755,knotting,VBG,Not verb
+1756,knowing,VBG,  (비밀로 되어 있는 일을) 다 안다는 듯한 (→unknowing)  
+1757,knowledging,VBG,Not verb
+1758,knuckling,VBG,Not verb
+1759,knurling,VBG,Not verb
+1760,laboring,VBG,Not verb
+1761,laborsaving,VBG,  노동 절약의  
+1762,lacemaking,VBG,Not verb
+1763,lacewing,VBG,Not verb
+1764,lacing,VBG,Not verb
+1765,lacquering,VBG,  래커 칠을 하다      4.    
+1766,laddering,VBG,Not verb
+1767,lading,VBG,Not verb
+1768,ladyling,VBG,Not verb
+1769,lagging,VBG,Not verb
+1770,laking,VBG,Not verb
+1771,lalling,VBG,Not verb
+1772,lambling,VBG,Not verb
+1773,lamenting,VBG,"[격식]  애통[한탄/통탄]하다 (=bemoan, bewail)      2.    [명사][격식]  애도; 애가, 비가  "
+1774,lamping,VBG,Not verb
+1775,lampmaking,VBG,Not verb
+1776,landholding,VBG,Not verb
+1777,landing,VBG,Not verb
+1778,landlouping,VBG,Not verb
+1779,landlubbing,VBG,Not verb
+1780,landowning,VBG,  the great landowning families      많은 토지를 소유한[대지주] 가문들  
+1781,Landsting,VBG,Not verb
+1782,languishing,VBG,Not verb
+1783,lapping,VBG,Not verb
+1784,lapsing,VBG,  소멸되다      4.    
+1785,lapwing,VBG,Not verb
+1786,larking,VBG,Not verb
+1787,larkling,VBG,Not verb
+1788,laryngeating,VBG,Not verb
+1789,lasting,VBG,"  영속적인, 지속적인 (→long-lasting), (=durable)  "
+1790,lastspring,VBG,Not verb
+1791,latching,VBG,Not verb
+1792,latchstring,VBG,Not verb
+1793,lathing,VBG,Not verb
+1794,latticing,VBG,Not verb
+1795,laughing,VBG,  재미있어[즐거워] 하는  
+1796,lavishing,VBG,  기가 막히게 아름다운 (=gorgeous)  
+1797,lawbreaking,VBG,Not verb
+1798,lawgiving,VBG,Not verb
+1799,lawing,VBG,Not verb
+1800,lawmaking,VBG,Not verb
+1801,lawsuiting,VBG,Not verb
+1802,lawyerling,VBG,Not verb
+1803,laying,VBG,Not verb
+1804,leading,VBG,Not verb
+1805,leaning,VBG,Not verb
+1806,leapfrogging,VBG,  (더 높은 위치등급으로) 뛰어넘다  
+1807,leaping,VBG,Not verb
+1808,learning,VBG,Not verb
+1809,leaseholding,VBG,Not verb
+1810,leasing,VBG,Not verb
+1811,leathering,VBG,Not verb
+1812,leathermaking,VBG,Not verb
+1813,leatherwing,VBG,Not verb
+1814,leatherworking,VBG,Not verb
+1815,leavening,VBG,Not verb
+1816,leaving,VBG,Not verb
+1817,ledging,VBG,Not verb
+1818,legging,VBG,Not verb
+1819,legpulling,VBG,Not verb
+1820,lemming,VBG,Not verb
+1821,lettering,VBG,Not verb
+1822,leveling,VBG,Not verb
+1823,levining,VBG,Not verb
+1824,leysing,VBG,Not verb
+1825,licking,VBG,Not verb
+1826,lickspittling,VBG,Not verb
+1827,lifesaving,VBG,"  [A] 구명(救命)의, [미] 수난[해난] 구조의      2.    [명사]  수난[인명] 구조(법)  "
+1828,lifespring,VBG,Not verb
+1829,lifting,VBG,Not verb
+1830,lightening,VBG,Not verb
+1831,lighting,VBG,Not verb
+1832,lightning,VBG,"  번개 같은, 아주 빠른; 급작스런  "
+1833,liming,VBG,Not verb
+1834,limiting,VBG,  제한[한정]하는  
+1835,limping,VBG,Not verb
+1836,ling,VBG,Not verb
+1837,lining,VBG,Not verb
+1838,linking,VBG,Not verb
+1839,linteling,VBG,Not verb
+1840,lipping,VBG,Not verb
+1841,listening,VBG,"  주의 깊은; 골똘한, 열중한  "
+1842,listing,VBG,Not verb
+1843,littling,VBG,Not verb
+1844,living,VBG,Not verb
+1845,loading,VBG,Not verb
+1846,loaming,VBG,Not verb
+1847,loathing,VBG,Not verb
+1848,lobstering,VBG,Not verb
+1849,locking,VBG,Not verb
+1850,lockmaking,VBG,Not verb
+1851,locksmithing,VBG,Not verb
+1852,locusting,VBG,Not verb
+1853,lodging,VBG,Not verb
+1854,lofting,VBG,Not verb
+1855,logging,VBG,Not verb
+1856,logrolling,VBG,Not verb
+1857,longing,VBG,  갈망[열망]하는  
+1858,looking,VBG,"  [보통 복합어를 이루어] …으로 보이는, …한 얼굴을 한  "
+1859,looming,VBG,"  어렴풋이 보이기 시작하는, 희미하게 나타나는; 기분 나쁜, 무시무시한 (menacing).  "
+1860,looping,VBG,[미·속어]  술에 취한(looped)  
+1861,loosing,VBG,Not verb
+1862,lopping,VBG,Not verb
+1863,lording,VBG,Not verb
+1864,lordling,VBG,Not verb
+1865,loudering,VBG,Not verb
+1866,lounging,VBG,Not verb
+1867,louvering,VBG,Not verb
+1868,loveling,VBG,Not verb
+1869,lovering,VBG,Not verb
+1870,loving,VBG,Not verb
+1871,lowering,VBG,Not verb
+1872,lumbering,VBG,  (육중한 덩치로) 느릿느릿 움직이는  
+1873,lumping,VBG,"  [구어] 많은; 무거운; 부피가 큰, 커다란  "
+1874,lustring,VBG,Not verb
+1875,lutemaking,VBG,Not verb
+1876,lutestring,VBG,Not verb
+1877,luting,VBG,Not verb
+1878,lying,VBG,Not verb
+1879,mackereling,VBG,Not verb
+1880,madding,VBG,"[문예체]  미친 듯이 구는, 미치게[정말 화나게] 만드는  "
+1881,madling,VBG,Not verb
+1882,magicking,VBG,Not verb
+1883,maidling,VBG,Not verb
+1884,mainspring,VBG,Not verb
+1885,making,VBG,Not verb
+1886,mallemaroking,VBG,Not verb
+1887,malreasoning,VBG,Not verb
+1888,malting,VBG,Not verb
+1889,mangling,VBG,Not verb
+1890,manling,VBG,Not verb
+1891,mannering,VBG,Not verb
+1892,manning,VBG,"  (어떤 장소·기계에서[를]) 일하다[담당하다], …에 인원을 배치[제공]하다 (=crew, staff)  "
+1893,manslaughtering,VBG,Not verb
+1894,manslaying,VBG,Not verb
+1895,manstealing,VBG,Not verb
+1896,manstopping,VBG,Not verb
+1897,mantling,VBG,Not verb
+1898,mantuamaking,VBG,Not verb
+1899,marbling,VBG,Not verb
+1900,margining,VBG,Not verb
+1901,marking,VBG,Not verb
+1902,marrying,VBG,"  결혼하는, 결혼할(것 같은)  "
+1903,mashing,VBG,Not verb
+1904,masterling,VBG,Not verb
+1905,masting,VBG,Not verb
+1906,matchboarding,VBG,Not verb
+1907,matching,VBG,  어울리는  
+1908,matchmaking,VBG,Not verb
+1909,matmaking,VBG,  매트 제조의  
+1910,matting,VBG,Not verb
+1911,maturing,VBG,Not verb
+1912,mauling,VBG,Not verb
+1913,Maying,VBG,Not verb
+1914,meaching,VBG,Not verb
+1915,meadowing,VBG,Not verb
+1916,mealywing,VBG,Not verb
+1917,meaning,VBG,  (=meaningful (2))  
+1918,measuring,VBG,Not verb
+1919,meddling,VBG,"  참견하는, 간섭하는  "
+1920,mediating,VBG,  (해결책을 찾기 위해) 중재[조정]하다      2.    
+1921,meekling,VBG,Not verb
+1922,melting,VBG,  (애정·연민·공감을 느끼도록) 마음[애간장]을 녹이는  
+1923,menacing,VBG,"  위협적인, 해를 끼칠 듯한 (=threatening)  "
+1924,mending,VBG,Not verb
+1925,meninting,VBG,Not verb
+1926,meritmongering,VBG,Not verb
+1927,merrymaking,VBG,Not verb
+1928,merrymeeting,VBG,Not verb
+1929,merrywing,VBG,Not verb
+1930,messing,VBG,[비격식 특히 美]  엉망으로[지저분하게] 만들다      4.    
+1931,metaling,VBG,Not verb
+1932,metalworking,VBG,Not verb
+1933,miching,VBG,Not verb
+1934,microdrawing,VBG,Not verb
+1935,middling,VBG,"  (치수·품질·지위 등이) 보통[중간]의 (=moderate, unremarkable)  "
+1936,midevening,VBG,Not verb
+1937,midlenting,VBG,Not verb
+1938,midmorning,VBG,Not verb
+1939,milking,VBG,Not verb
+1940,milksopping,VBG,"  나약한, 무력한; 얼뜨기의, 겁보의.  "
+1941,millering,VBG,Not verb
+1942,milling,VBG,  떼를 지어 서성거리는  
+1943,millwrighting,VBG,Not verb
+1944,mimmocking,VBG,Not verb
+1945,mincing,VBG,[못마땅함]  섬세한 척 고상을 떠는  
+1946,minding,VBG,"  언짢아하다, 상관하다, 개의하다      4.    "
+1947,minning,VBG,Not verb
+1948,mintmaking,VBG,Not verb
+1949,miraclemongering,VBG,Not verb
+1950,misbefitting,VBG,Not verb
+1951,misclaiming,VBG,Not verb
+1952,misdoing,VBG,Not verb
+1953,misguiding,VBG,Not verb
+1954,miskenning,VBG,Not verb
+1955,misleading,VBG,"  호도[오도]하는, 오해의 소지가 있는 (=deceptive)  "
+1956,mispleading,VBG,Not verb
+1957,misproceeding,VBG,Not verb
+1958,missing,VBG,Not verb
+1959,misspelling,VBG,Not verb
+1960,mistaking,VBG,"  오해[오인]하다, 잘못 판단하다 (=misconstrue)  "
+1961,mistrusting,VBG,"  신뢰하지 않다, 불신하다 (=distrust)      2.    [명사]  불신 (=suspicion)  "
+1962,misunderstanding,VBG,Not verb
+1963,moaning,VBG,  신음하다 (=groan)      2.    
+1964,modeling,VBG,Not verb
+1965,modelmaking,VBG,Not verb
+1966,moiling,VBG,Not verb
+1967,molding,VBG,Not verb
+1968,mollifying,VBG,"  누그러뜨리는, 진정시키는 (듯한)  "
+1969,mollycoddling,VBG,"[못마땅함 구식이 되어감]  과잉보호하다, 온갖 응석을 다 받아 주다 (→coddle)  "
+1970,moneygrubbing,VBG,Not verb
+1971,moneylending,VBG,Not verb
+1972,moneymongering,VBG,Not verb
+1973,moneysaving,VBG,  돈을 절약(저축)하는  
+1974,mongering,VBG,Not verb
+1975,mooing,VBG,Not verb
+1976,mooning,VBG,Not verb
+1977,moonlighting,VBG,Not verb
+1978,moonraking,VBG,Not verb
+1979,moonshining,VBG,Not verb
+1980,moonwalking,VBG,  달 위를 걷다      2.    
+1981,moorburning,VBG,Not verb
+1982,mooring,VBG,Not verb
+1983,mooting,VBG,"[美]  (가능성이 적으므로) 고려할 가치가 없는      2.    [동사][격식]  (의견 등을) 제기하다 (=propose, put forward)  "
+1984,moping,VBG,  (아무 일도 하지 않고) 맥이 빠져 지내다 (=brood)  
+1985,morrowing,VBG,Not verb
+1986,mortifying,VBG,  How mortifying to have to apologize to him!      그에게 사과를 해야 하다니 얼마나 굴욕스러운지!  
+1987,mortling,VBG,Not verb
+1988,mosstrooping,VBG,Not verb
+1989,Mosting,VBG,Not verb
+1990,mothering,VBG,Not verb
+1991,motherling,VBG,Not verb
+1992,motoring,VBG,  자동차 운행의  
+1993,mottling,VBG,Not verb
+1994,mounting,VBG,  (흔히 우려스러울 정도로) 증가하는[커져 가는] (=growing)      2.    [명사]  (=mount)  
+1995,mourning,VBG,Not verb
+1996,mousing,VBG,Not verb
+1997,mouthing,VBG,  (소리는 내지 않고) 입 모양으로만 말하다      4.    
+1998,moving,VBG,Not verb
+1999,mowing,VBG,Not verb
+2000,mozing,VBG,Not verb
+2001,mudding,VBG,Not verb
+2002,mudslinging,VBG,Not verb
+2003,multiplepoinding,VBG,Not verb
+2004,multiplying,VBG,Not verb
+2005,mumbling,VBG,"  중얼거리는, 우물우물 씹는. mumbling·ly 부사  "
+2006,mumming,VBG,Not verb
+2007,murdering,VBG,  살해[살인]하다      4.    
+2008,murmuring,VBG,Not verb
+2009,muscling,VBG,Not verb
+2010,musing,VBG,Not verb
+2011,muttering,VBG,Not verb
+2012,mythmaking,VBG,Not verb
+2013,naething,VBG,Not verb
+2014,nagging,VBG,Not verb
+2015,nailing,VBG,"  못을 박는 데 쓰는;  훌륭한, 멋진.      2.    [부사]  훌륭하게, 멋지게.  "
+2016,nameling,VBG,Not verb
+2017,naming,VBG,Not verb
+2018,napkining,VBG,Not verb
+2019,napping,VBG,Not verb
+2020,naturing,VBG,Not verb
+2021,necking,VBG,Not verb
+2022,necromancing,VBG,Not verb
+2023,needing,VBG,"  (…을) 필요로 하다, (필수적이거나 아주 중요하므로) …해야 하다      2.    "
+2024,needlemaking,VBG,Not verb
+2025,needling,VBG,Not verb
+2026,neighboring,VBG,"  [A] 이웃의, 근처[인근]의; 인접한(adjacent)  "
+2027,nerving,VBG,Not verb
+2028,nestling,VBG,Not verb
+2029,netmaking,VBG,Not verb
+2030,netting,VBG,Not verb
+2031,nettling,VBG,[비격식 특히 英]  …을 짜증나게[(약간) 화나게] 하다 (=annoy)  
+2032,newing,VBG,Not verb
+2033,newscasting,VBG,Not verb
+2034,newsmongering,VBG,Not verb
+2035,niceling,VBG,Not verb
+2036,nickeling,VBG,Not verb
+2037,nicking,VBG,Not verb
+2038,niddering,VBG,Not verb
+2039,niding,VBG,Not verb
+2040,nievling,VBG,Not verb
+2041,nifling,VBG,Not verb
+2042,niggardling,VBG,Not verb
+2043,niggerling,VBG,Not verb
+2044,niggling,VBG,Not verb
+2045,nightwalking,VBG,Not verb
+2046,nipping,VBG,"  살을 에는 듯한, 통렬한, 신랄한  "
+2047,nithing,VBG,Not verb
+2048,nitriding,VBG,Not verb
+2049,nodding,VBG,Not verb
+2050,nogging,VBG,Not verb
+2051,noisemaking,VBG,Not verb
+2052,nonabiding,VBG,Not verb
+2053,nonabstaining,VBG,Not verb
+2054,nonaccompanying,VBG,Not verb
+2055,nonaerating,VBG,Not verb
+2056,nonalienating,VBG,Not verb
+2057,nonangling,VBG,Not verb
+2058,nonapostatizing,VBG,Not verb
+2059,nonappearing,VBG,Not verb
+2060,nonarcing,VBG,Not verb
+2061,nonballoting,VBG,Not verb
+2062,nonbasing,VBG,Not verb
+2063,nonbathing,VBG,Not verb
+2064,nonbearing,VBG,Not verb
+2065,nonbeing,VBG,Not verb
+2066,nonbelieving,VBG,Not verb
+2067,nonbleeding,VBG,Not verb
+2068,nonblooming,VBG,Not verb
+2069,nonbreeding,VBG,Not verb
+2070,nonbrowsing,VBG,Not verb
+2071,nonbudding,VBG,Not verb
+2072,nonburning,VBG,Not verb
+2073,nonbursting,VBG,Not verb
+2074,noncaking,VBG,Not verb
+2075,noncanvassing,VBG,Not verb
+2076,nonclotting,VBG,Not verb
+2077,noncoalescing,VBG,Not verb
+2078,noncoking,VBG,Not verb
+2079,noncombining,VBG,Not verb
+2080,noncoming,VBG,Not verb
+2081,noncommunicating,VBG,Not verb
+2082,noncompensating,VBG,Not verb
+2083,noncompeting,VBG,Not verb
+2084,noncomplying,VBG,Not verb
+2085,nonconceiving,VBG,Not verb
+2086,nonconciliating,VBG,Not verb
+2087,nonconcluding,VBG,Not verb
+2088,nonconflicting,VBG,Not verb
+2089,nonconforming,VBG,"  관행[규범]을 따르지 않는, 국교를 신봉하지 않는  "
+2090,noncongealing,VBG,Not verb
+2091,nonconsenting,VBG,Not verb
+2092,nonconspiring,VBG,Not verb
+2093,noncontributing,VBG,Not verb
+2094,noncopying,VBG,Not verb
+2095,noncoring,VBG,Not verb
+2096,noncorresponding,VBG,Not verb
+2097,noncorroding,VBG,Not verb
+2098,noncranking,VBG,Not verb
+2099,noncreeping,VBG,Not verb
+2100,noncrusading,VBG,Not verb
+2101,noncurling,VBG,Not verb
+2102,noncutting,VBG,Not verb
+2103,nondecaying,VBG,Not verb
+2104,nondefaulting,VBG,Not verb
+2105,nondefining,VBG,  (=non-restrictive)  
+2106,nondegerming,VBG,Not verb
+2107,nondepreciating,VBG,Not verb
+2108,nondesisting,VBG,Not verb
+2109,nondetonating,VBG,Not verb
+2110,nondialyzing,VBG,Not verb
+2111,nondisappearing,VBG,Not verb
+2112,nondischarging,VBG,Not verb
+2113,nondisparaging,VBG,Not verb
+2114,nondisqualifying,VBG,Not verb
+2115,nondissenting,VBG,Not verb
+2116,nondumping,VBG,Not verb
+2117,nonearning,VBG,Not verb
+2118,nonemanating,VBG,Not verb
+2119,nonenduring,VBG,Not verb
+2120,nonengineering,VBG,Not verb
+2121,nonequivocating,VBG,Not verb
+2122,nonerecting,VBG,Not verb
+2123,nonevolving,VBG,Not verb
+2124,nonexisting,VBG,Not verb
+2125,nonexuding,VBG,Not verb
+2126,nonfacing,VBG,Not verb
+2127,nonfinding,VBG,Not verb
+2128,nonfinishing,VBG,Not verb
+2129,nonfloating,VBG,Not verb
+2130,nonflowering,VBG,"[식물]  꽃이 피지 않는, 개화기(期)가 없는.  "
+2131,nonflowing,VBG,"[식물]  꽃이 피지 않는, 개화기(期)가 없는.  "
+2132,nonfluctuating,VBG,Not verb
+2133,nonflying,VBG,Not verb
+2134,nonfouling,VBG,Not verb
+2135,nonfreezing,VBG,"  얼지 않는, 부동(不凍)(성)의  "
+2136,nongelatinizing,VBG,Not verb
+2137,nongrooming,VBG,Not verb
+2138,nonheading,VBG,Not verb
+2139,nonhousekeeping,VBG,Not verb
+2140,nonhunting,VBG,Not verb
+2141,nonimbricating,VBG,Not verb
+2142,nonimporting,VBG,Not verb
+2143,nonincreasing,VBG,Not verb
+2144,noninquiring,VBG,Not verb
+2145,noninterfering,VBG,Not verb
+2146,nonintoxicating,VBG,Not verb
+2147,nonirritating,VBG,Not verb
+2148,nonjuring,VBG,[영국사]  신하로서의 복종 서약을 거부하는  
+2149,nonjurying,VBG,Not verb
+2150,nonlaying,VBG,Not verb
+2151,nonlicking,VBG,Not verb
+2152,nonlimiting,VBG,Not verb
+2153,nonliquefying,VBG,Not verb
+2154,nonliquidating,VBG,Not verb
+2155,nonlisting,VBG,Not verb
+2156,nonmarrying,VBG,Not verb
+2157,nonmotoring,VBG,Not verb
+2158,nonofficeholding,VBG,Not verb
+2159,nonopening,VBG,Not verb
+2160,nonoperating,VBG,  영업외의  
+2161,nonoxidating,VBG,Not verb
+2162,nonpaying,VBG,"  수지가 안 맞는, 이익이 없는.  "
+2163,nonpending,VBG,Not verb
+2164,nonperforming,VBG,Not verb
+2165,nonpolarizing,VBG,Not verb
+2166,nonpreaching,VBG,Not verb
+2167,nonproducing,VBG,Not verb
+2168,nonprofiteering,VBG,Not verb
+2169,nonpulsating,VBG,Not verb
+2170,nonpunishing,VBG,Not verb
+2171,nonputting,VBG,Not verb
+2172,nonradiating,VBG,Not verb
+2173,nonranging,VBG,Not verb
+2174,nonratifying,VBG,Not verb
+2175,nonreading,VBG,Not verb
+2176,nonreceiving,VBG,Not verb
+2177,nonrecurring,VBG,  재현하지 않는.  
+2178,nonredressing,VBG,Not verb
+2179,nonreducing,VBG,Not verb
+2180,nonregarding,VBG,Not verb
+2181,nonregenerating,VBG,Not verb
+2182,nonreigning,VBG,Not verb
+2183,nonrenouncing,VBG,Not verb
+2184,nonresisting,VBG,Not verb
+2185,nonretiring,VBG,Not verb
+2186,nonrevealing,VBG,Not verb
+2187,nonrevolting,VBG,Not verb
+2188,nonrotating,VBG,Not verb
+2189,nonsaving,VBG,Not verb
+2190,nonsawing,VBG,Not verb
+2191,nonscalding,VBG,Not verb
+2192,nonscaling,VBG,Not verb
+2193,nonscoring,VBG,Not verb
+2194,nonselfregarding,VBG,Not verb
+2195,nonselling,VBG,Not verb
+2196,nonsetting,VBG,Not verb
+2197,nonsharing,VBG,Not verb
+2198,nonshipping,VBG,Not verb
+2199,nonshredding,VBG,Not verb
+2200,nonshrinking,VBG,Not verb
+2201,nonsinging,VBG,Not verb
+2202,nonsitting,VBG,Not verb
+2203,nonskidding,VBG,Not verb
+2204,nonskipping,VBG,Not verb
+2205,nonslaveholding,VBG,Not verb
+2206,nonslipping,VBG,Not verb
+2207,nonsludging,VBG,Not verb
+2208,nonsmoking,VBG,  금연의  
+2209,nonsmutting,VBG,Not verb
+2210,nonspalling,VBG,Not verb
+2211,nonsparing,VBG,Not verb
+2212,nonsparking,VBG,Not verb
+2213,nonspeaking,VBG,Not verb
+2214,nonspinning,VBG,Not verb
+2215,nonsporeforming,VBG,Not verb
+2216,nonsporting,VBG,"  사냥개의 자질이 없는, 비(非)스포츠의  "
+2217,nonsprouting,VBG,Not verb
+2218,nonstaining,VBG,Not verb
+2219,nonstarting,VBG,"  (경주에서) 스타트하지 않는, 성공 가능성이 없는.  "
+2220,nonstooping,VBG,Not verb
+2221,nonstriking,VBG,Not verb
+2222,nonsubscribing,VBG,Not verb
+2223,nonsubsiding,VBG,Not verb
+2224,nonsupporting,VBG,Not verb
+2225,nonsustaining,VBG,"  지탱하지 못하는, 견디지 못하는; 부양[유지]하지 않는.  "
+2226,nonswearing,VBG,Not verb
+2227,nonsweating,VBG,Not verb
+2228,nonswimming,VBG,Not verb
+2229,nontarnishing,VBG,Not verb
+2230,nonteaching,VBG,"  교육[교직]과 관계 없는, 비(非) 교직[교육, 교수]의.  "
+2231,nonterminating,VBG,"  끝이 없는, 무한의.  "
+2232,nonthinking,VBG,"  생각[사고, 사색]하지 않는; 도리를 모르는.      2.    [명사]  생각[숙고]하지 않는 것.  "
+2233,nontrailing,VBG,Not verb
+2234,nontransposing,VBG,Not verb
+2235,nontraveling,VBG,Not verb
+2236,nonunderstanding,VBG,Not verb
+2237,nonusing,VBG,Not verb
+2238,nonusurping,VBG,Not verb
+2239,nonvanishing,VBG,  무(無)가[영이] 되지 않는.  
+2240,nonvisiting,VBG,Not verb
+2241,nonvoting,VBG,"  투표하지 않는, 투표권 없는, (주식이)의결권없는  "
+2242,nonwalking,VBG,Not verb
+2243,nonwasting,VBG,Not verb
+2244,nonworking,VBG,Not verb
+2245,nonyielding,VBG,Not verb
+2246,nooning,VBG,Not verb
+2247,nosing,VBG,Not verb
+2248,notching,VBG,Not verb
+2249,notwithstanding,VBG,Not verb
+2250,nourishing,VBG,nourishing food      영양가 있는 음식  
+2251,novelmongering,VBG,Not verb
+2252,nursling,VBG,Not verb
+2253,nutting,VBG,Not verb
+2254,oakling,VBG,Not verb
+2255,obliging,VBG,"  (기꺼이 남을) 도와주는, 친절한 (=helpful)  "
+2256,observing,VBG,"  관찰하는; 주의 깊은, 빈틈없는; 관찰력이 예민한  "
+2257,occulting,VBG,Not verb
+2258,offaling,VBG,Not verb
+2259,offering,VBG,Not verb
+2260,offgoing,VBG,  계속 진행 중인  
+2261,offing,VBG,Not verb
+2262,offscouring,VBG,Not verb
+2263,offspring,VBG,Not verb
+2264,oilproofing,VBG,Not verb
+2265,omnirevealing,VBG,Not verb
+2266,oncoming,VBG,  다가오는 (=approaching)  
+2267,onflowing,VBG,Not verb
+2268,ongoing,VBG,  계속 진행 중인  
+2269,onlooking,VBG,Not verb
+2270,onrushing,VBG,"  돌진하는, 앞뒤를 헤아리지 않고 내닫는  "
+2271,onstanding,VBG,Not verb
+2272,onsweeping,VBG,Not verb
+2273,onwaiting,VBG,Not verb
+2274,opening,VBG,"  첫, 시작 부분의 (↔closing)  "
+2275,operating,VBG,Not verb
+2276,opposing,VBG,Not verb
+2277,orcharding,VBG,Not verb
+2278,organing,VBG,Not verb
+2279,oscillating,VBG,Not verb
+2280,outbearing,VBG,Not verb
+2281,outblowing,VBG,Not verb
+2282,outbolting,VBG,Not verb
+2283,outbranching,VBG,Not verb
+2284,outbreaking,VBG,Not verb
+2285,outbreeding,VBG,Not verb
+2286,outbring,VBG,Not verb
+2287,outbuilding,VBG,Not verb
+2288,outcasting,VBG,Not verb
+2289,outcoming,VBG,Not verb
+2290,outcrossing,VBG,Not verb
+2291,outdwelling,VBG,Not verb
+2292,outfeeding,VBG,Not verb
+2293,outfighting,VBG,Not verb
+2294,outflanking,VBG,  측면에서 공격하다      2.    
+2295,outfling,VBG,Not verb
+2296,outgiving,VBG,"  우호적인, 호의적인; 사교적인, 외향적인  "
+2297,outgoing,VBG,Not verb
+2298,outgrowing,VBG,  (옷 등에 비해 사람의 몸 등이) 너무 커져 맞지 않게 되다 (=grow out of)      2.    
+2299,outhousing,VBG,Not verb
+2300,outing,VBG,Not verb
+2301,outjetting,VBG,Not verb
+2302,outking,VBG,Not verb
+2303,outlodging,VBG,Not verb
+2304,outlying,VBG,"  외딴, 외진  "
+2305,outpocketing,VBG,Not verb
+2306,outpouching,VBG,Not verb
+2307,outpouring,VBG,Not verb
+2308,outraging,VBG,  격분[격노]하게 만들다  
+2309,outriding,VBG,Not verb
+2310,outrigging,VBG,Not verb
+2311,outring,VBG,outring의 과거형.  
+2312,outscouring,VBG,Not verb
+2313,outsetting,VBG,Not verb
+2314,outsing,VBG,"  …보다 노래를 잘 부르다, …보다 큰 소리로 노래 부르다      2.    [자동사]  (큰 소리로) 노래 부르기 시작하다  "
+2315,outspring,VBG,Not verb
+2316,outsting,VBG,  (일자리·권좌에서) 몰아내다[쫓아내다/축출하다]  
+2317,outsweeping,VBG,Not verb
+2318,outswing,VBG,Not verb
+2319,outwing,VBG,Not verb
+2320,outwring,VBG,Not verb
+2321,overambling,VBG,Not verb
+2322,overawning,VBG,Not verb
+2323,overbearing,VBG,"[못마땅함]  고압적인, 남을 지배하려 드는 (=domineering)  "
+2324,overbeating,VBG,"[못마땅함]  고압적인, 남을 지배하려 드는 (=domineering)  "
+2325,overbeetling,VBG,Not verb
+2326,overblowing,VBG,Not verb
+2327,overboding,VBG,Not verb
+2328,overbooming,VBG,Not verb
+2329,overbragging,VBG,Not verb
+2330,overbubbling,VBG,Not verb
+2331,overcaring,VBG,Not verb
+2332,overcarking,VBG,Not verb
+2333,overcasting,VBG,Not verb
+2334,overcoating,VBG,Not verb
+2335,overcunning,VBG,  지나치게 교활한      2.    [명사]  지나치게 교활함  
+2336,overcutting,VBG,Not verb
+2337,overdeeming,VBG,Not verb
+2338,overexcelling,VBG,Not verb
+2339,overfasting,VBG,Not verb
+2340,overfling,VBG,Not verb
+2341,overflowing,VBG,  넘쳐 흐르는  
+2342,overfunctioning,VBG,Not verb
+2343,overgrasping,VBG,Not verb
+2344,overitching,VBG,Not verb
+2345,overjudging,VBG,Not verb
+2346,overjutting,VBG,Not verb
+2347,overking,VBG,Not verb
+2348,overknowing,VBG,Not verb
+2349,overliking,VBG,Not verb
+2350,overling,VBG,Not verb
+2351,overlipping,VBG,Not verb
+2352,overlying,VBG,[전문 용어]  … 위에 가로놓이다  
+2353,overmarking,VBG,Not verb
+2354,overmastering,VBG,"  지배적인, 압도하는, 제어하기 어려운.  "
+2355,overnipping,VBG,Not verb
+2356,overpending,VBG,"  낭비, 돈의 탕진  "
+2357,overpinching,VBG,Not verb
+2358,overpowering,VBG,  아주 강한[심한]  
+2359,overreaching,VBG,  (지나치게 욕심을 내다가) 도를 넘다  
+2360,overruling,VBG,  기각[각하]하다 (=override)  
+2361,overrunning,VBG,"  급속히 퍼지다[가득 차다], 들끓다      2.    "
+2362,overshadowing,VBG,Not verb
+2363,overshelving,VBG,Not verb
+2364,oversoothing,VBG,Not verb
+2365,oversparing,VBG,Not verb
+2366,overspring,VBG,Not verb
+2367,overstaring,VBG,"  (실제보다 더 중요한 것처럼) 과장하다 (=exaggerate), (↔understate)  "
+2368,overstoping,VBG,Not verb
+2369,overstring,VBG,[음악]  (피아노에) 저음부 줄 위에 고음부 줄이 비스듬히 교차하도록 현을 치다.      2.    [명사][궁술]  (활시위를) 지나치게 팽팽히 얹다(메우다).  
+2370,overstriving,VBG,Not verb
+2371,oversurviving,VBG,Not verb
+2372,overswing,VBG,Not verb
+2373,overswinging,VBG,Not verb
+2374,overswirling,VBG,Not verb
+2375,overweening,VBG,"[격식 못마땅함]  자만에 찬, 우쭐대는 (=arrogant)  "
+2376,overwhelming,VBG,"  압도적인, 너무도 강력한[엄청난], 저항[대응]하기 힘든  "
+2377,overwilling,VBG,Not verb
+2378,overwing,VBG,Not verb
+2379,owing,VBG,  (아직) 갚아야 할[빚이 있는]  
+2380,owling,VBG,Not verb
+2381,oxidizing,VBG,"[화학]  산화시키다, 녹슬게 하다 (→reduce, reduction)  "
+2382,oxywelding,VBG,Not verb
+2383,oystering,VBG,Not verb
+2384,oysterling,VBG,Not verb
+2385,pacemaking,VBG,Not verb
+2386,packmaking,VBG,Not verb
+2387,padding,VBG,Not verb
+2388,paddling,VBG,Not verb
+2389,paining,VBG,[격식]  고통스럽게 하다 (=hurt)  
+2390,painstaking,VBG,  공들인 (=thorough)  
+2391,painting,VBG,Not verb
+2392,paling,VBG,Not verb
+2393,palisading,VBG,Not verb
+2394,palleting,VBG,Not verb
+2395,paneling,VBG,Not verb
+2396,panelling,VBG,Not verb
+2397,panicmongering,VBG,Not verb
+2398,panning,VBG,Not verb
+2399,pantiling,VBG,Not verb
+2400,panting,VBG,"  헐떡거리는, 가슴이 두근거리는  "
+2401,papering,VBG,Not verb
+2402,papermaking,VBG,Not verb
+2403,parading,VBG,  퍼레이드[가두 행진]를 하다      4.    
+2404,parceling,VBG,Not verb
+2405,parcelling,VBG,[특히 英]  소포[꾸러미]를 싸다  
+2406,parching,VBG,"  바짝 말리는, 태우는[볶는, 찌는] 듯한  "
+2407,pardoning,VBG,Not verb
+2408,pargeting,VBG,Not verb
+2409,paring,VBG,Not verb
+2410,parking,VBG,Not verb
+2411,parliamenteering,VBG,Not verb
+2412,parling,VBG,Not verb
+2413,parsoning,VBG,Not verb
+2414,partitioning,VBG,Not verb
+2415,partridging,VBG,Not verb
+2416,passing,VBG,Not verb
+2417,pasting,VBG,Not verb
+2418,pastorling,VBG,Not verb
+2419,pathfinding,VBG,Not verb
+2420,patronizing,VBG,[못마땅함]  잘난[윗사람인] 체하는 (=superior)  
+2421,patterning,VBG,Not verb
+2422,patternmaking,VBG,Not verb
+2423,paving,VBG,Not verb
+2424,pawing,VBG,  발로 긁다[건드리다]      4.    
+2425,pawnbrokering,VBG,Not verb
+2426,pawnbroking,VBG,Not verb
+2427,paying,VBG,Not verb
+2428,peacebreaking,VBG,Not verb
+2429,peacemaking,VBG,"  조정[중재]하는, 화해[화평]를 가져오는  "
+2430,peacemongering,VBG,Not verb
+2431,peaking,VBG,Not verb
+2432,pearling,VBG,Not verb
+2433,peastaking,VBG,Not verb
+2434,peasticking,VBG,Not verb
+2435,peddling,VBG,Not verb
+2436,peeling,VBG,Not verb
+2437,peerling,VBG,Not verb
+2438,pegging,VBG,Not verb
+2439,Peking,VBG,Not verb
+2440,pelting,VBG,"[고어]  하찮은, 시시한(paltry)  "
+2441,penciling,VBG,Not verb
+2442,pencilling,VBG,Not verb
+2443,pendanting,VBG,Not verb
+2444,pending,VBG,Not verb
+2445,penetrating,VBG,Not verb
+2446,penmaking,VBG,Not verb
+2447,penning,VBG,Not verb
+2448,perceiving,VBG,Not verb
+2449,perduring,VBG,Not verb
+2450,perfecting,VBG,Not verb
+2451,perishing,VBG,Not verb
+2452,perjurymongering,VBG,Not verb
+2453,perking,VBG,Not verb
+2454,perplexing,VBG,  a perplexing problem      당혹스러운 문제  
+2455,persecuting,VBG,  (특히 인종·종교·정치적 이유로) 박해하다      2.    
+2456,persevering,VBG,"[호감]  인내심이 강한, 불굴의  "
+2457,persisting,VBG,Not verb
+2458,personating,VBG,Not verb
+2459,pertaining,VBG,[격식]  (특정한 상황·때에) 존재하다[적용되다]  
+2460,perturbing,VBG,[격식]  (심리적으로) 동요하게 하다 (=alarm)  
+2461,pervading,VBG,"[격식]  만연하다, (구석구석) 스며[배어]들다 (=permeate)  "
+2462,petling,VBG,Not verb
+2463,pettifogging,VBG,"[구식]  좀스러운, 사소한 (=petty)  "
+2464,pewing,VBG,Not verb
+2465,philosophastering,VBG,Not verb
+2466,philosophling,VBG,Not verb
+2467,photoengraving,VBG,Not verb
+2468,photoetching,VBG,Not verb
+2469,photofinishing,VBG,Not verb
+2470,photoprinting,VBG,Not verb
+2471,photosurveying,VBG,Not verb
+2472,phrasemaking,VBG,Not verb
+2473,phrasemongering,VBG,Not verb
+2474,phrasing,VBG,Not verb
+2475,physicking,VBG,Not verb
+2476,pickering,VBG,Not verb
+2477,picturemaking,VBG,Not verb
+2478,piddling,VBG,"[비격식 못마땅함]  하찮은, 사소한 (=trivial)  "
+2479,piecing,VBG,Not verb
+2480,piercing,VBG,Not verb
+2481,pigeonwing,VBG,Not verb
+2482,pigging,VBG,Not verb
+2483,pigling,VBG,Not verb
+2484,pigmaking,VBG,Not verb
+2485,piking,VBG,Not verb
+2486,pilastering,VBG,Not verb
+2487,pilfering,VBG,Not verb
+2488,piling,VBG,Not verb
+2489,pillaring,VBG,Not verb
+2490,pillmaking,VBG,Not verb
+2491,pillowing,VBG,[문예체]  (특히 머리를) …에 얹다[기대다]  
+2492,piloting,VBG,Not verb
+2493,pimping,VBG,"  하찮은, 인색한; [주로 방언] 허약한, 병약한  "
+2494,pinching,VBG,Not verb
+2495,pindling,VBG,"  [미·방언] 아주 작은(puny), 허약한(sickly)  "
+2496,Ping,VBG,Not verb
+2497,ping,VBG,  탱[땡/쨍] 하는 소리가 나다[소리를 내다]      3.    
+2498,pining,VBG,  (사람이 죽거나 떠난 후) 몹시 슬퍼하다[비통해 하다]  
+2499,pinking,VBG,Not verb
+2500,pinning,VBG,  (핀 등으로) 꽂다[고정시키다]      4.    
+2501,pinwing,VBG,Not verb
+2502,piping,VBG,  높은  
+2503,pitching,VBG,Not verb
+2504,pitmaking,VBG,Not verb
+2505,pitting,VBG,Not verb
+2506,pitying,VBG,  (흔히 우월감을 갖고) 동정하는  
+2507,placemaking,VBG,Not verb
+2508,placemongering,VBG,Not verb
+2509,plaiding,VBG,Not verb
+2510,plaiting,VBG,Not verb
+2511,planching,VBG,Not verb
+2512,planeting,VBG,Not verb
+2513,planking,VBG,Not verb
+2514,planting,VBG,Not verb
+2515,plantling,VBG,Not verb
+2516,plastering,VBG,Not verb
+2517,platemaking,VBG,Not verb
+2518,platting,VBG,Not verb
+2519,playgoing,VBG,Not verb
+2520,playmaking,VBG,Not verb
+2521,playmongering,VBG,Not verb
+2522,plaything,VBG,Not verb
+2523,playwrighting,VBG,Not verb
+2524,playwriting,VBG,Not verb
+2525,pleading,VBG,Not verb
+2526,pleasing,VBG,"  즐거운, 기분 좋은, 만족스러운  "
+2527,pleasuring,VBG,Not verb
+2528,plenshing,VBG,Not verb
+2529,plodding,VBG,  (특히 남이 볼 때 지겨울 정도로) 꾸준히[느릿느릿] 하는  
+2530,plotting,VBG,Not verb
+2531,plowing,VBG,Not verb
+2532,plugging,VBG,Not verb
+2533,plumbing,VBG,Not verb
+2534,plumemaking,VBG,Not verb
+2535,plumping,VBG,Not verb
+2536,plundering,VBG,"  (특히 전시에 어떤 장소를) 약탈[강탈]하다 (→pillage), (=loot)      2.    [명사]  약탈, 강탈      3.    [명사]  (특히 전시 등의) 약탈품[강탈품] (→pillage)  "
+2537,plunging,VBG,  (앞부분이 V자형으로) 깊이 패인  
+2538,plying,VBG,"  날 수 있는      2.    [명사]  비행기 여행      3.    [명사]  비행기 조종, 비행  "
+2539,pocketing,VBG,Not verb
+2540,poetastering,VBG,Not verb
+2541,poetling,VBG,Not verb
+2542,poinding,VBG,Not verb
+2543,pointing,VBG,Not verb
+2544,poisoning,VBG,Not verb
+2545,poking,VBG,Not verb
+2546,polling,VBG,Not verb
+2547,polluting,VBG,  오염시키다  
+2548,pondering,VBG,"[격식]  숙고하다, 곰곰이 생각하다 (=consider)  "
+2549,ponderling,VBG,"[격식]  숙고하다, 곰곰이 생각하다 (=consider)  "
+2550,pontooning,VBG,Not verb
+2551,poorling,VBG,Not verb
+2552,porching,VBG,Not verb
+2553,poring,VBG,Not verb
+2554,porkling,VBG,Not verb
+2555,posing,VBG,Not verb
+2556,possessing,VBG,[격식]  소유[소지/보유]하다      2.    
+2557,posting,VBG,Not verb
+2558,pothunting,VBG,Not verb
+2559,potmaking,VBG,Not verb
+2560,potwalling,VBG,Not verb
+2561,pouncing,VBG,  (공격하거나 잡으려고 확) 덮치다[덤비다]  
+2562,pounding,VBG,Not verb
+2563,pouring,VBG,"  퍼붓는 듯한, 잇따라 쏟아져 나오는.  "
+2564,pouting,VBG,"  입을 삐죽 내민, 뿌루퉁한  "
+2565,powdering,VBG,Not verb
+2566,praising,VBG,  칭찬하다 (=compliment)      4.    
+2567,prancing,VBG,  (과장되게·뽐내며) 활보하다      2.    
+2568,pranking,VBG,Not verb
+2569,prating,VBG,"  잘 떠드는, 재잘재잘 지껄이는.  "
+2570,prattling,VBG,[구식 흔히 못마땅함]  (쓸데없이 마구) 지껄이다  
+2571,prayermaking,VBG,Not verb
+2572,praying,VBG,"  (하느님께) 기도하다[빌다], 기원하다      2.    "
+2573,preaccommodating,VBG,Not verb
+2574,preaccounting,VBG,Not verb
+2575,preacherling,VBG,Not verb
+2576,preaching,VBG,Not verb
+2577,preambling,VBG,Not verb
+2578,preballoting,VBG,Not verb
+2579,prebelieving,VBG,Not verb
+2580,prebidding,VBG,Not verb
+2581,preblessing,VBG,Not verb
+2582,preblooming,VBG,Not verb
+2583,preborrowing,VBG,Not verb
+2584,prebroadcasting,VBG,Not verb
+2585,precanning,VBG,Not verb
+2586,preceding,VBG,"  [A] [보통 the ~] (시간·장소의) 이전의(previous), 앞선, 선행하는; 바로 앞의; 전술의, 상기의  "
+2587,precleaning,VBG,Not verb
+2588,precoloring,VBG,Not verb
+2589,precompounding,VBG,Not verb
+2590,precooling,VBG,Not verb
+2591,precovering,VBG,Not verb
+2592,predealing,VBG,  (과거에 있었던 다른 것보다) 먼저 지어지다[형성되다/발생하다] (↔post-date)  
+2593,predeserving,VBG,Not verb
+2594,preflavoring,VBG,Not verb
+2595,preflowering,VBG,Not verb
+2596,pregathering,VBG,Not verb
+2597,pregolfing,VBG,Not verb
+2598,pregreeting,VBG,Not verb
+2599,prehearing,VBG,Not verb
+2600,preholding,VBG,Not verb
+2601,preinsinuating,VBG,Not verb
+2602,prelaunching,VBG,Not verb
+2603,premaking,VBG,Not verb
+2604,premanufacturing,VBG,Not verb
+2605,premolding,VBG,Not verb
+2606,premorning,VBG,Not verb
+2607,prenumbering,VBG,Not verb
+2608,preoffering,VBG,Not verb
+2609,preopening,VBG,Not verb
+2610,preponderating,VBG,Not verb
+2611,prepossessing,VBG,"[격식]  (외모가) 매력적인, 보기 좋은 (→unprepossessing), (=appealing)  "
+2612,preracing,VBG,Not verb
+2613,prereckoning,VBG,Not verb
+2614,presaging,VBG,[문예체]  (보통 불길한 일의) 전조가 되다  
+2615,pressing,VBG,Not verb
+2616,presuffering,VBG,Not verb
+2617,presuming,VBG,"  주제넘은, 뻔뻔스러운, 외람된  "
+2618,pretraining,VBG,Not verb
+2619,prewilling,VBG,Not verb
+2620,pricking,VBG,Not verb
+2621,prickling,VBG,Not verb
+2622,prideling,VBG,Not verb
+2623,priestling,VBG,Not verb
+2624,priming,VBG,Not verb
+2625,princeling,VBG,Not verb
+2626,proadvertising,VBG,Not verb
+2627,probargaining,VBG,Not verb
+2628,probathing,VBG," 시험을 거친; 확실한;  효능이 입증된; (gut) 좋은, 우수한 "
+2629,probetting,VBG,Not verb
+2630,probonding,VBG,Not verb
+2631,proborrowing,VBG,Not verb
+2632,probowling,VBG,Not verb
+2633,proboxing,VBG,Not verb
+2634,probroadcasting,VBG,Not verb
+2635,probudgeting,VBG,Not verb
+2636,probuilding,VBG,Not verb
+2637,probuying,VBG,Not verb
+2638,proceeding,VBG,Not verb
+2639,proclaiming,VBG,  선언[선포]하다 (=declare)      2.    
+2640,procrastinating,VBG,[격식 못마땅함]  (해야 할 일을 보통 하기가 싫어서) 미루다[질질 끌다]  
+2641,proctorling,VBG,Not verb
+2642,proexporting,VBG,Not verb
+2643,professorling,VBG,Not verb
+2644,profiteering,VBG,Not verb
+2645,profiting,VBG,[격식]  이득[이익]을 얻다[주다]  
+2646,profitmongering,VBG,Not verb
+2647,progambling,VBG,Not verb
+2648,projecting,VBG,"  돌출한, 툭 튀어나온  "
+2649,proofing,VBG,Not verb
+2650,proofreading,VBG,Not verb
+2651,propooling,VBG,Not verb
+2652,proracing,VBG,Not verb
+2653,prosing,VBG,Not verb
+2654,protecting,VBG,Not verb
+2655,proudling,VBG,Not verb
+2656,providing,VBG,Not verb
+2657,providoring,VBG,Not verb
+2658,proving,VBG,Not verb
+2659,provoking,VBG,"  [문어] 자극하는; 약오르는, 짜증나는  "
+2660,provolunteering,VBG,Not verb
+2661,prowling,VBG,  (특히 먹이를 찾아 살금살금) 돌아다니다      2.    
+2662,prozoning,VBG,Not verb
+2663,pruning,VBG,Not verb
+2664,prying,VBG,Not verb
+2665,pseudosweating,VBG,Not verb
+2666,puckling,VBG,Not verb
+2667,puddening,VBG,Not verb
+2668,pudding,VBG,Not verb
+2669,puddling,VBG,Not verb
+2670,puffing,VBG,Not verb
+2671,pugging,VBG,Not verb
+2672,puling,VBG,"  훌쩍훌쩍(응아응아) 울고 있는, 삐악삐악 우는, 낑낑(쿵쿵)거리는(whining, whimpering).  "
+2673,punching,VBG,Not verb
+2674,purfling,VBG,Not verb
+2675,purging,VBG,Not verb
+2676,purring,VBG,"  (고양이가, 특히 기분이 좋아서) 가르랑거리다      2.    "
+2677,pushing,VBG,Not verb
+2678,pushwainling,VBG,Not verb
+2679,pussyfooting,VBG,"[비격식 보통 못마땅함]  우유부단하게 굴다, 지나치게 망설이다  "
+2680,puzzling,VBG,  one of the most puzzling aspects of the crime      그 범행에서 가장 이해가 안 되는 측면들 가운데 하나  
+2681,quaking,VBG,  떨고 있는  
+2682,quarreling,VBG,"  다투다, 언쟁을 벌이다, 싸우다  "
+2683,quarrying,VBG,Not verb
+2684,quartering,VBG,"  직각으로 부착된, [해양] 풍파가 뒤에서 엇몰아치는  "
+2685,quavering,VBG,  떨리는(tremulous)  
+2686,queening,VBG,Not verb
+2687,queesting,VBG,  탐색[탐구]하는.  
+2688,querying,VBG,"  문의[질의]하다, 의문을 제기하다      4.    "
+2689,quicksilvering,VBG,Not verb
+2690,quieting,VBG,Not verb
+2691,quiffing,VBG,Not verb
+2692,quilling,VBG,Not verb
+2693,quilting,VBG,Not verb
+2694,quisling,VBG,Not verb
+2695,quivering,VBG,"  떨리는, 진동하는, 떨고 있는(trembling)  "
+2696,quoining,VBG,Not verb
+2697,rabbeting,VBG,Not verb
+2698,racegoing,VBG,Not verb
+2699,racing,VBG,Not verb
+2700,racketing,VBG,Not verb
+2701,racking,VBG,"  고문하는; 몸을 괴롭히는, 심한 <두통·기침·치통>      2.    [명사][석공]  (벽돌·돌 등의) 계단 모양 쌓기  "
+2702,radicating,VBG,Not verb
+2703,radiobroadcasting,VBG,Not verb
+2704,raffing,VBG,Not verb
+2705,ragging,VBG,Not verb
+2706,raging,VBG,Not verb
+2707,railing,VBG,Not verb
+2708,railroading,VBG,Not verb
+2709,raising,VBG,Not verb
+2710,raking,VBG,  빠른  
+2711,rambling,VBG,Not verb
+2712,ramping,VBG,Not verb
+2713,randing,VBG,Not verb
+2714,ranging,VBG,  범위가 ~에 이르는  
+2715,ranting,VBG,Not verb
+2716,raping,VBG,"  강간하다 (→rapist)      2.    [명사]  강간 (→date rape, rapist)      3.    [명사][문예체]  (어떤 지역에 대한) 훼손[짓밟기]  "
+2717,rapping,VBG,Not verb
+2718,rashing,VBG,Not verb
+2719,rasping,VBG,Not verb
+2720,ratcatching,VBG,Not verb
+2721,ratching,VBG,Not verb
+2722,ratepaying,VBG,Not verb
+2723,rattling,VBG,Not verb
+2724,raveling,VBG,Not verb
+2725,ravening,VBG,"[문예체]  먹이를 찾아 날뛰는, 게걸스러운  "
+2726,raving,VBG,Not verb
+2727,ravishing,VBG,  기가 막히게 아름다운 (=gorgeous)  
+2728,razormaking,VBG,Not verb
+2729,reaching,VBG,Not verb
+2730,reading,VBG,Not verb
+2731,realizing,VBG,"  실현하는; 확실히 이해하는, 실감하는  "
+2732,rearling,VBG,Not verb
+2733,reasoning,VBG,Not verb
+2734,reassuring,VBG,"  안심시키는, 걱정[불안감]을 없애 주는  "
+2735,reawakening,VBG,  (어떤 감정·기억을) 다시 불러일으키다[되살리다/환기시키다] (=rekindle)  
+2736,rebeginning,VBG,Not verb
+2737,rebilling,VBG,Not verb
+2738,rebring,VBG,Not verb
+2739,recasting,VBG,Not verb
+2740,reckling,VBG,Not verb
+2741,reckoning,VBG,Not verb
+2742,reconciling,VBG,  (두 가지 이상의 생각·요구 등을) 조화시키다      2.    
+2743,recording,VBG,Not verb
+2744,recruiting,VBG,Not verb
+2745,recurring,VBG,Not verb
+2746,reddening,VBG,Not verb
+2747,redding,VBG,Not verb
+2748,redoubling,VBG,  (노력 등을) 배가(倍加)[강화]하다  
+2749,reducing,VBG,Not verb
+2750,redwing,VBG,Not verb
+2751,reeding,VBG,Not verb
+2752,reedling,VBG,Not verb
+2753,reedmaking,VBG,Not verb
+2754,reefing,VBG,"[전문 용어]  축범하다, 돛의 크기를 줄이다  "
+2755,reeming,VBG,Not verb
+2756,refining,VBG,Not verb
+2757,reflecting,VBG,"  반사하는, 반영하는.  "
+2758,refling,VBG,Not verb
+2759,refracting,VBG,Not verb
+2760,refreshing,VBG,Not verb
+2761,refrigerating,VBG,Not verb
+2762,refueling,VBG,  연료 보급(용)의.  
+2763,refusing,VBG,Not verb
+2764,regarding,VBG,Not verb
+2765,regrating,VBG,  후회하다      2.    
+2766,rehearing,VBG,Not verb
+2767,rejoicing,VBG,Not verb
+2768,reking,VBG,Not verb
+2769,relapsing,VBG,Not verb
+2770,relenting,VBG,  (거부하다가 마침내) 동의하다 (=give in)      2.    
+2771,relieving,VBG,Not verb
+2772,relishing,VBG,"  (어떤 것을 대단히) 즐기다[좋아하다] (=enjoy)      2.    [명사]  (큰) 즐거움[기쁨]      3.    [명사]  렐리시(과일, 채소에 양념을 해서 걸쭉하게 끓인 뒤 차게 식혀 고기, 치즈 등에 얹어 먹는 소스)  "
+2773,remonstrating,VBG,"  증거[실례]를 들어가며 보여주다, 입증[실증]하다      2.    "
+2774,removing,VBG,Not verb
+2775,rendering,VBG,Not verb
+2776,renneting,VBG,Not verb
+2777,repaying,VBG,  (빌린 돈을) 갚다[상환하다]      2.    
+2778,repelling,VBG,[격식]  (공격 대상을) 격퇴하다[물리치다]      2.    
+2779,reprimanding,VBG,[격식]  질책하다 (=rebuke)  
+2780,rering,VBG,[비격식]  (…하고 싶어) 몸이 근질거리는  
+2781,resing,VBG,Not verb
+2782,resisting,VBG,  (어떤 일을 받아들이지 않고) 저항[반대]하다 (=oppose)      2.    
+2783,resitting,VBG,Not verb
+2784,resounding,VBG,Not verb
+2785,respecting,VBG,Not verb
+2786,respring,VBG,Not verb
+2787,resting,VBG,Not verb
+2788,restraining,VBG,  (특히 물리력을 동원하여) 저지[제지]하다      2.    
+2789,restring,VBG,  (현악기·운동 라켓의) 줄을 다시 매다[바꾸다]  
+2790,resuing,VBG,Not verb
+2791,resulting,VBG,Not verb
+2792,resurrectioning,VBG,Not verb
+2793,retaining,VBG,[전문 용어]  (어떤 것을 제자리에) 고정시키는  
+2794,retarding,VBG,Not verb
+2795,retelling,VBG,Not verb
+2796,retiring,VBG,"  남과 잘 어울리지 않는, 내성적인 (=shy)  "
+2797,retouching,VBG,Not verb
+2798,retreating,VBG,Not verb
+2799,retting,VBG,Not verb
+2800,retying,VBG,Not verb
+2801,revealing,VBG,Not verb
+2802,reversing,VBG,Not verb
+2803,reviling,VBG,[격식]  매도하다  
+2804,reviving,VBG,Not verb
+2805,revolting,VBG,"  혐오스러운, 역겨운 (=disgusting)  "
+2806,revolving,VBG,  회전하는  
+2807,rewarding,VBG,Not verb
+2808,rhoding,VBG,Not verb
+2809,rhymemaking,VBG,Not verb
+2810,ribbing,VBG,Not verb
+2811,ribroasting,VBG,Not verb
+2812,richling,VBG,Not verb
+2813,ridding,VBG,Not verb
+2814,riddling,VBG,Not verb
+2815,ridgeling,VBG,Not verb
+2816,ridging,VBG,Not verb
+2817,ridgling,VBG,Not verb
+2818,riding,VBG,Not verb
+2819,rifling,VBG,Not verb
+2820,rigging,VBG,Not verb
+2821,rigling,VBG,Not verb
+2822,rimmaking,VBG,Not verb
+2823,ring,VBG,  …을 둘러[에워]싸다      4.    
+2824,ringgiving,VBG,Not verb
+2825,ringing,VBG,Not verb
+2826,ringmaking,VBG,Not verb
+2827,rinsing,VBG,Not verb
+2828,rioting,VBG,Not verb
+2829,ripening,VBG,Not verb
+2830,ripping,VBG,"[英 구식]  훌륭한, 멋진  "
+2831,rippling,VBG,  잔물결[파문](모양)을 이루다[일으키다]      4.    
+2832,riprapping,VBG,Not verb
+2833,ripsnorting,VBG,Not verb
+2834,rising,VBG,Not verb
+2835,ritling,VBG,Not verb
+2836,riverling,VBG,Not verb
+2837,riveting,VBG,"[호감]  관심을 사로잡는, 눈을 못 떼게 하는 (=engrossing)  "
+2838,riving,VBG,Not verb
+2839,roading,VBG,Not verb
+2840,roaming,VBG,Not verb
+2841,roaring,VBG,Not verb
+2842,roasting,VBG,Not verb
+2843,robbing,VBG,Not verb
+2844,robing,VBG,[격식]  가운[예복]을 입히다  
+2845,rocking,VBG,"  흔들리는; [미·학생속어] 굉장한, 멋있는      2.    [명사]  흔들림, 진동  "
+2846,rockling,VBG,Not verb
+2847,rodding,VBG,Not verb
+2848,roding,VBG,Not verb
+2849,rogueling,VBG,Not verb
+2850,roguing,VBG,Not verb
+2851,roistering,VBG,[구식]  떠들썩하니 노는  
+2852,rollermaking,VBG,Not verb
+2853,rollerskating,VBG,Not verb
+2854,rollicking,VBG,"  신나는, 흥겨운 (=exuberant)      2.    [명사][英  비격식]  나무람, 꾸지람  "
+2855,rolling,VBG,Not verb
+2856,romancing,VBG,"  (사실이 아니거나 과장된) 모험담을 들려주다, (이야기를) 신나게[그럴듯하게] 하다      4.    "
+2857,romping,VBG,  (떠들어 대며) 즐겁게 뛰놀다      2.    [명사]  (유희적인) 성관계      3.    [명사]  액션[모험]이 많은 오락물(책연극영화)  
+2858,roofing,VBG,Not verb
+2859,rootling,VBG,"  (식물이) 뿌리를 내리다, 뿌리 내리게 하다      4.    "
+2860,ropedancing,VBG,Not verb
+2861,ropelaying,VBG,Not verb
+2862,ropemaking,VBG,Not verb
+2863,roping,VBG,Not verb
+2864,rotating,VBG,  선회하는  
+2865,rotting,VBG,"  (자연스럽게 서서히) 썩다[부식/부패하다]; 썩히다, 부식[부패]시키다 (→rotten), (=decompose)      2.    [명사]  썩음, 부식, 부패 (→dry rot, wet rot)      3.    [명사]  상황 악화  "
+2866,roughhousing,VBG,"[美 비격식]  난투를 벌이다; 시끄럽게 놀다, 야단법석을 떨다  "
+2867,roughing,VBG,Not verb
+2868,roughstring,VBG,Not verb
+2869,rounding,VBG,Not verb
+2870,rousing,VBG,Not verb
+2871,rousting,VBG,"[美]  (사람을 어디에서) 밀어내다, 방해하다  "
+2872,routing,VBG,Not verb
+2873,roving,VBG,"  이동해 다니는, 방랑하는  "
+2874,rowing,VBG,Not verb
+2875,rubbing,VBG,Not verb
+2876,rubbishing,VBG,"[구어]  시시한, 쓸데없는  "
+2877,ruching,VBG,Not verb
+2878,ruckling,VBG,Not verb
+2879,ruffling,VBG,Not verb
+2880,rugging,VBG,Not verb
+2881,rugmaking,VBG,Not verb
+2882,ruing,VBG,[구식 또는 격식]  후회하다 (=regret)  
+2883,ruling,VBG,  지배[통치]하는  
+2884,rumbling,VBG,Not verb
+2885,rumbowling,VBG,Not verb
+2886,ruminating,VBG,"[격식]  심사숙고하다, 곰곰이 생각하다 (=ponder)  "
+2887,rumrunning,VBG,Not verb
+2888,running,VBG,Not verb
+2889,rushing,VBG,"  <움직임이> 격한, 성급한; <상거래 등이> 활발한, 대성황의  "
+2890,russeting,VBG,Not verb
+2891,rustling,VBG,Not verb
+2892,saberwing,VBG,Not verb
+2893,sacking,VBG,Not verb
+2894,sackmaking,VBG,Not verb
+2895,sacrificing,VBG,"  희생하다, 희생시키다      4.    "
+2896,sacring,VBG,Not verb
+2897,saddening,VBG,Not verb
+2898,saddling,VBG,Not verb
+2899,safeblowing,VBG,Not verb
+2900,safebreaking,VBG,Not verb
+2901,safecracking,VBG,Not verb
+2902,safekeeping,VBG,Not verb
+2903,safemaking,VBG,Not verb
+2904,sagging,VBG,Not verb
+2905,saging,VBG,Not verb
+2906,sailflying,VBG,Not verb
+2907,sailing,VBG,Not verb
+2908,sailmaking,VBG,Not verb
+2909,sailoring,VBG,Not verb
+2910,sailorizing,VBG,Not verb
+2911,saintling,VBG,Not verb
+2912,salading,VBG,Not verb
+2913,salting,VBG,Not verb
+2914,saltmaking,VBG,Not verb
+2915,salvaging,VBG,Not verb
+2916,sampling,VBG,Not verb
+2917,sandaling,VBG,Not verb
+2918,sanderling,VBG,Not verb
+2919,sanding,VBG,Not verb
+2920,sandling,VBG,Not verb
+2921,sapling,VBG,Not verb
+2922,sapphirewing,VBG,Not verb
+2923,sapping,VBG,Not verb
+2924,sarking,VBG,Not verb
+2925,sashing,VBG,Not verb
+2926,satisfying,VBG,"  만족스러운, 만족감을 주는  "
+2927,saucemaking,VBG,Not verb
+2928,sauntering,VBG,  한가로이[느긋하게] 걷다 (=stroll)  
+2929,saving,VBG,Not verb
+2930,savoying,VBG,Not verb
+2931,sawing,VBG,Not verb
+2932,sawmaking,VBG,Not verb
+2933,sawmilling,VBG,Not verb
+2934,saying,VBG,Not verb
+2935,scabbling,VBG,Not verb
+2936,scaffolding,VBG,Not verb
+2937,scalding,VBG,"  델 것 같은, 델 정도로 뜨거운  "
+2938,scalewing,VBG,Not verb
+2939,scaling,VBG,Not verb
+2940,scalloping,VBG,Not verb
+2941,scalping,VBG,Not verb
+2942,scambling,VBG,Not verb
+2943,scamping,VBG,Not verb
+2944,scandalmongering,VBG,  남의 험담을 일삼는      2.    [명사]  험담하기  
+2945,scandalmonging,VBG,Not verb
+2946,scanning,VBG,Not verb
+2947,scantling,VBG,Not verb
+2948,scaremongering,VBG,Not verb
+2949,scarping,VBG,Not verb
+2950,scarring,VBG,Not verb
+2951,scathing,VBG,  (비판이) 준열한[통렬한/가차 없는] (=withering)  
+2952,scattering,VBG,Not verb
+2953,scatterling,VBG,Not verb
+2954,scavenging,VBG,Not verb
+2955,scenting,VBG,  냄새로 찾아내다      4.    
+2956,schapping,VBG,Not verb
+2957,schelling,VBG,Not verb
+2958,scheming,VBG,"[격식]  책략[모사]을 꾸미는, 획책하는  "
+2959,schilling,VBG,Not verb
+2960,schoolgoing,VBG,Not verb
+2961,schooling,VBG,Not verb
+2962,schoolkeeping,VBG,Not verb
+2963,schoolmastering,VBG,Not verb
+2964,schoolteaching,VBG,Not verb
+2965,scintillating,VBG,"  재기 넘치는, 아주 재미있는  "
+2966,scintling,VBG,Not verb
+2967,scissoring,VBG,Not verb
+2968,scoffing,VBG,"  비웃음, 조소.  "
+2969,scolding,VBG,Not verb
+2970,scooping,VBG,  (큰 숟갈 같은 것으로) 뜨다[파다]      4.    
+2971,scorching,VBG,Not verb
+2972,scorekeeping,VBG,Not verb
+2973,scoring,VBG,Not verb
+2974,scotching,VBG,"  방지하다, 중단시키다  "
+2975,scourging,VBG,"[문예체]  괴롭히다, 고통을 안겨 주다      4.    "
+2976,scouring,VBG,Not verb
+2977,scouting,VBG,Not verb
+2978,scowling,VBG,"  노려[쏘아]보다 (=glower)      2.    [명사]  노려봄, 쏘아봄  "
+2979,scragging,VBG,Not verb
+2980,scraggling,VBG,Not verb
+2981,scrambling,VBG,Not verb
+2982,scranning,VBG,Not verb
+2983,scraping,VBG,Not verb
+2984,scrapling,VBG,Not verb
+2985,scrapping,VBG,Not verb
+2986,scratchcarding,VBG,Not verb
+2987,scratching,VBG,Not verb
+2988,scrattling,VBG,Not verb
+2989,screaking,VBG,Not verb
+2990,screaming,VBG,Not verb
+2991,screeching,VBG,"  새된 소리를 지르는, [미·속어] 술에 취한  "
+2992,screening,VBG,Not verb
+2993,screwing,VBG,  나사로 고정시키다 (→unscrew)      4.    
+2994,scribbling,VBG,Not verb
+2995,scribing,VBG,Not verb
+2996,scrivening,VBG,Not verb
+2997,scrounging,VBG,[비격식 못마땅함]  (공짜로) 얻어 내다[우려내다] (=cadge)  
+2998,sculpturing,VBG,Not verb
+2999,scumbling,VBG,Not verb
+3000,scumming,VBG,Not verb
+3001,scutching,VBG,Not verb
+3002,scuttling,VBG,"  종종걸음을 치다, 총총[허둥지둥] 가다 (=scurry)      2.    "
+3003,seafaring,VBG,"  항해의, 선원의, 해양 관련업의  "
+3004,seagoing,VBG,  원양 항로용[항해용]의  
+3005,sealing,VBG,Not verb
+3006,seaming,VBG,Not verb
+3007,searching,VBG,"  탐색하는, 살피는; 엄중한, 면밀한  "
+3008,searing,VBG,Not verb
+3009,seascouting,VBG,Not verb
+3010,seasoning,VBG,Not verb
+3011,seating,VBG,Not verb
+3012,secluding,VBG,"[격식]  (다른 사람들로부터) 은둔하다, 고립시키다  "
+3013,sedging,VBG,Not verb
+3014,seducing,VBG,"  유혹하다, 꾀다(특히 자기보다 어리거나 경험 없는 사람을 자기와 성관계를 갖도록 하는 것)      2.    "
+3015,seedling,VBG,Not verb
+3016,seeing,VBG,"  <사람이> 눈이 보이는, 시력[통찰력]이 있는, [the ~, 명사적, 복수 취급] 눈이 보이는 사람들  "
+3017,seeking,VBG,Not verb
+3018,seeming,VBG,"[격식]  외견상의, 겉보기의 (=apparent)  "
+3019,seething,VBG,Not verb
+3020,seizing,VBG,Not verb
+3021,selling,VBG,Not verb
+3022,semiburrowing,VBG,Not verb
+3023,semiclimbing,VBG,Not verb
+3024,semiconducting,VBG,  반도체의  
+3025,semidrying,VBG,  (기름이) 반건성(半乾性)의.  
+3026,semifitting,VBG,Not verb
+3027,semifloating,VBG,Not verb
+3028,semifluctuating,VBG,[의학]  (촉진(觸診)에서) 파동치는 것 같은.  
+3029,semifoaming,VBG,Not verb
+3030,semiforbidding,VBG,Not verb
+3031,semimarking,VBG,Not verb
+3032,semiring,VBG,Not verb
+3033,semirotating,VBG,Not verb
+3034,semiseafaring,VBG,Not verb
+3035,semisightseeing,VBG,Not verb
+3036,semismelting,VBG,Not verb
+3037,semisporting,VBG,Not verb
+3038,semiwaking,VBG,Not verb
+3039,sending,VBG,"  (특히 우편·이메일·무선 등으로) 보내다, 발송하다      2.    "
+3040,separating,VBG,Not verb
+3041,serging,VBG,Not verb
+3042,serving,VBG,Not verb
+3043,setting,VBG,Not verb
+3044,settling,VBG,Not verb
+3045,sewing,VBG,Not verb
+3046,shackling,VBG,  (…에게) 족쇄[쇠고랑]를 채우다      2.    
+3047,shading,VBG,Not verb
+3048,shadowboxing,VBG,Not verb
+3049,shadowing,VBG,Not verb
+3050,shafting,VBG,Not verb
+3051,shaking,VBG,Not verb
+3052,shambling,VBG,"  어물거리는; 느릿느릿한, 꾸물거리는  "
+3053,shamming,VBG,[보통 못마땅함]  허위의 (=FALSE)  
+3054,shammocking,VBG,Not verb
+3055,shaping,VBG,Not verb
+3056,sharpshooting,VBG,Not verb
+3057,shattering,VBG,Not verb
+3058,shaveling,VBG,Not verb
+3059,shaving,VBG,Not verb
+3060,shawling,VBG,Not verb
+3061,sheading,VBG,Not verb
+3062,shealing,VBG,Not verb
+3063,shearing,VBG,Not verb
+3064,shearling,VBG,Not verb
+3065,sheathing,VBG,Not verb
+3066,shedding,VBG,Not verb
+3067,sheepbiting,VBG,Not verb
+3068,sheepherding,VBG,Not verb
+3069,sheepkeeping,VBG,Not verb
+3070,sheepling,VBG,Not verb
+3071,sheepshearing,VBG,Not verb
+3072,sheepstealing,VBG,Not verb
+3073,sheering,VBG,Not verb
+3074,sheeting,VBG,Not verb
+3075,sheetling,VBG,Not verb
+3076,sheetwriting,VBG,Not verb
+3077,shellacking,VBG,Not verb
+3078,shellblowing,VBG,Not verb
+3079,shelling,VBG,Not verb
+3080,shelving,VBG,Not verb
+3081,shepherdling,VBG,Not verb
+3082,shielding,VBG,Not verb
+3083,shieldling,VBG,Not verb
+3084,shieling,VBG,Not verb
+3085,shifting,VBG,Not verb
+3086,shilling,VBG,Not verb
+3087,shimmering,VBG,"  희미하게 빛나다, (빛을 받아) 어른[일렁]거리다      2.    [명사]  (일렁이는 듯한) 희미한 빛  "
+3088,shinaniging,VBG,Not verb
+3089,shingling,VBG,Not verb
+3090,shining,VBG,Not verb
+3091,shinning,VBG,Not verb
+3092,shipbreaking,VBG,Not verb
+3093,shipowning,VBG,Not verb
+3094,shirring,VBG,Not verb
+3095,shirting,VBG,Not verb
+3096,shirtmaking,VBG,Not verb
+3097,shivering,VBG,Not verb
+3098,shocking,VBG,Not verb
+3099,shoebinding,VBG,Not verb
+3100,shoeing,VBG,Not verb
+3101,shoemaking,VBG,Not verb
+3102,shoestring,VBG,[비격식]  돈이 아주 적게 드는  
+3103,shooting,VBG,Not verb
+3104,shopbreaking,VBG,Not verb
+3105,shopkeeping,VBG,Not verb
+3106,shoplifting,VBG,Not verb
+3107,shoregoing,VBG,Not verb
+3108,shoring,VBG,Not verb
+3109,shorling,VBG,Not verb
+3110,shortcoming,VBG,Not verb
+3111,shortening,VBG,Not verb
+3112,shouldering,VBG,  (책임을) 짊어지다[떠맡다/받아들이다]      4.    
+3113,shouting,VBG,Not verb
+3114,showboating,VBG,[비격식 흔히 못마땅함]  과시하다      2.    [명사][美]  순회공연선  
+3115,showing,VBG,Not verb
+3116,shredding,VBG,Not verb
+3117,shrilling,VBG,Not verb
+3118,shrinking,VBG,"  움츠리는, 겁내는  "
+3119,shriving,VBG,Not verb
+3120,shrouding,VBG,Not verb
+3121,shucking,VBG,Not verb
+3122,shufflewing,VBG,Not verb
+3123,shuffling,VBG,Not verb
+3124,shunting,VBG,Not verb
+3125,shuttering,VBG,Not verb
+3126,shutting,VBG,"  (문 등을[이]) 닫다[닫히다], (눈을) 감다, (책을) 덮다      2.    "
+3127,sickening,VBG,Not verb
+3128,sickling,VBG,Not verb
+3129,sideling,VBG,"  비스듬한, 옆으로 기운; 경사진  "
+3130,sidesplitting,VBG,"  포복절도케 하는, 배꼽빼게 하는  "
+3131,siding,VBG,Not verb
+3132,sidling,VBG,Not verb
+3133,siering,VBG,Not verb
+3134,sifting,VBG,Not verb
+3135,sighing,VBG,"  한숨을 쉬다, 한숨짓다      2.    "
+3136,sightening,VBG,Not verb
+3137,sighting,VBG,Not verb
+3138,silting,VBG,Not verb
+3139,silvering,VBG,Not verb
+3140,silverling,VBG,Not verb
+3141,silversmithing,VBG,Not verb
+3142,silverwing,VBG,Not verb
+3143,simling,VBG,Not verb
+3144,sing,VBG,  노래하다      2.    
+3145,singeing,VBG,Not verb
+3146,singing,VBG,Not verb
+3147,sinsring,VBG,Not verb
+3148,Siping,VBG,Not verb
+3149,siping,VBG,Not verb
+3150,sipling,VBG,Not verb
+3151,sirening,VBG,Not verb
+3152,sistering,VBG,Not verb
+3153,sitting,VBG,Not verb
+3154,sizing,VBG,Not verb
+3155,sizzing,VBG,Not verb
+3156,sizzling,VBG,Not verb
+3157,skating,VBG,Not verb
+3158,skeeling,VBG,Not verb
+3159,skelping,VBG,Not verb
+3160,sketching,VBG,Not verb
+3161,skeyting,VBG,Not verb
+3162,skidding,VBG,Not verb
+3163,skiffling,VBG,Not verb
+3164,skiing,VBG,Not verb
+3165,skijoring,VBG,Not verb
+3166,skilling,VBG,Not verb
+3167,skimming,VBG,Not verb
+3168,skinking,VBG,"[스코]  <액체·수프 등이> 싱거운, 묽은  "
+3169,skinning,VBG,Not verb
+3170,skipping,VBG,Not verb
+3171,skirling,VBG,Not verb
+3172,skirmishing,VBG,  소규모 충돌[작은 언쟁]을 벌이다  
+3173,skirting,VBG,Not verb
+3174,skiving,VBG,Not verb
+3175,skraeling,VBG,Not verb
+3176,skulking,VBG,[못마땅함]  (특히 나쁜 짓을 꾸미며) 몰래 숨다[살금살금 숨다]  
+3177,skyscraping,VBG,"  마천루와 같은, 매우 높은.  "
+3178,skywriting,VBG,Not verb
+3179,slabbing,VBG,Not verb
+3180,slacking,VBG,Not verb
+3181,slagging,VBG,Not verb
+3182,slaking,VBG,Not verb
+3183,slammocking,VBG,Not verb
+3184,slandering,VBG,  중상모략[비방]하다 (→libel)  
+3185,slanting,VBG,"  비스듬한, 비스듬히 기운  "
+3186,slapping,VBG,Not verb
+3187,slashing,VBG,Not verb
+3188,slatemaking,VBG,Not verb
+3189,slating,VBG,Not verb
+3190,slatting,VBG,Not verb
+3191,slaveholding,VBG,Not verb
+3192,slaveling,VBG,Not verb
+3193,slavering,VBG,Not verb
+3194,slaving,VBG,  노예처럼[고되게] 일하다  
+3195,slaying,VBG,[구식 또는 문예체]  (전쟁·싸움에서) 죽이다      2.    
+3196,sledding,VBG,Not verb
+3197,sledging,VBG,Not verb
+3198,sleeking,VBG,Not verb
+3199,sleeping,VBG,Not verb
+3200,sleepwaking,VBG,Not verb
+3201,sleepwalking,VBG,  몽유병의  
+3202,sleeting,VBG,Not verb
+3203,sleighing,VBG,Not verb
+3204,slewing,VBG,"  휙 돌다[미끄러지다], 휙 돌리다[미끄러뜨리다]      2.    [명사][비격식 특히 美]  많음, 다수, 대량  "
+3205,slicing,VBG,Not verb
+3206,slicking,VBG,Not verb
+3207,sliding,VBG,Not verb
+3208,slighting,VBG,slighting remarks      무시하는 발언  
+3209,sling,VBG,"[비격식 특히 英]  (되는 대로아무렇게나 휙) 던지다[내던지다] (→mud-slinging), (=chuck)      2.    "
+3210,slinging,VBG,Not verb
+3211,slinking,VBG,  살금살금[슬그머니] 움직이다 (=creep)  
+3212,slipping,VBG,Not verb
+3213,slipstring,VBG,Not verb
+3214,slithering,VBG,Not verb
+3215,slitting,VBG,Not verb
+3216,sliving,VBG,Not verb
+3217,slogging,VBG,Not verb
+3218,sloping,VBG,"  경사진(inclined), 비탈진(slanting), 비스듬한(oblique)  "
+3219,slopmaking,VBG,Not verb
+3220,slopping,VBG,  (용기 안에서 넘칠 정도로) 출렁[찰랑]거리다      2.    
+3221,slopselling,VBG,Not verb
+3222,slotting,VBG,Not verb
+3223,slouching,VBG,  구부정한 자세로 앉은[선].  
+3224,slowgoing,VBG,Not verb
+3225,slubbering,VBG,[문예체]  잠을 자다  
+3226,slubbing,VBG,Not verb
+3227,sluggarding,VBG,Not verb
+3228,slugging,VBG,Not verb
+3229,sluicing,VBG,  (물줄기를 이용하여) 씻다      3.    
+3230,slumbering,VBG,[문예체]  잠을 자다  
+3231,slumming,VBG,[비격식]  (평소 자기가 익숙한 곳보다) 형편없는 곳에 다니다  
+3232,smacking,VBG,Not verb
+3233,smalling,VBG,Not verb
+3234,smarting,VBG,Not verb
+3235,smashing,VBG,[구식 英 비격식]  기막히게 좋은[즐거운] (=great)  
+3236,smattering,VBG,Not verb
+3237,smelling,VBG,  (특정한) 냄새[향]가 나다      2.    
+3238,smilemaking,VBG,Not verb
+3239,smiling,VBG,Not verb
+3240,smirking,VBG,  (=smirkily)  
+3241,smithing,VBG,Not verb
+3242,smiting,VBG,"  세게 치다[때리다], 공격하다, 벌하다      2.    "
+3243,smitting,VBG,Not verb
+3244,smocking,VBG,Not verb
+3245,smoking,VBG,Not verb
+3246,smokyseeming,VBG,Not verb
+3247,smoothing,VBG,Not verb
+3248,smothering,VBG,Not verb
+3249,smuggling,VBG,Not verb
+3250,snakeholing,VBG,Not verb
+3251,snakeling,VBG,Not verb
+3252,snaking,VBG,Not verb
+3253,snapping,VBG,Not verb
+3254,snatching,VBG,Not verb
+3255,sneaking,VBG,"  (감정을) 남몰래 품고 있는, 은밀한; (마음속에 의혹 등이) 왠지 모르게 드는  "
+3256,sneckdrawing,VBG,Not verb
+3257,sneering,VBG,"  조소하는, 비꼬아 말하는.  "
+3258,sneeshing,VBG,Not verb
+3259,sneezing,VBG,Not verb
+3260,snickdrawing,VBG,Not verb
+3261,snickering,VBG,[특히 美]  (=snigger)  
+3262,sniffing,VBG,"  코를 훌쩍이는, 킁킁거리며 냄새를 맡는.  "
+3263,sniggering,VBG,[英]  (기분 나쁘게) 킬킬[키득]거리다 (=titter)      2.    [명사][英]  (기분 나쁘게) 킬킬[키득]거림 (=titter)  
+3264,sniping,VBG,Not verb
+3265,snipping,VBG,"  (가위로 싹둑) 자르다      2.    [명사]  (가위로 싹둑) 자르기, 싹둑 (자르는 소리)      3.    [명사]  금속 절단용 가위  "
+3266,sniveling,VBG,"[경멸]  징징대는, 불평을 늘어놓는  "
+3267,snobbing,VBG,  흐느껴 우는  
+3268,snobling,VBG,Not verb
+3269,snoeking,VBG,Not verb
+3270,snooding,VBG,Not verb
+3271,snoring,VBG,Not verb
+3272,snorting,VBG,"  코를 킁킁거리는, 코웃음치는.  "
+3273,snowshoeing,VBG,Not verb
+3274,snubbing,VBG,"  모욕하다, 무시하다 (=cold-shoulder)      2.    "
+3275,snuffing,VBG,Not verb
+3276,snuffling,VBG,  코를 훌쩍이다 (=sniff)      2.    
+3277,snying,VBG,Not verb
+3278,soaking,VBG,"  완전히 다 젖은, 흠뻑 젖은 (=sopping)  "
+3279,soapmaking,VBG,Not verb
+3280,soaring,VBG,"  날아오르는, 원대한, 급상승하는      2.    [명사]  활상(滑翔), 글라이더 활공  "
+3281,sobbing,VBG,  흐느껴 우는  
+3282,sobering,VBG,"  번쩍 정신이 들게 하는, 심각[진지]하게 만드는  "
+3283,sociologizing,VBG,Not verb
+3284,sockmaking,VBG,Not verb
+3285,sodding,VBG,[英  금기어  속어]  빌어먹을  
+3286,softening,VBG,Not verb
+3287,softling,VBG,Not verb
+3288,sogging,VBG,  (오랫동안) 괴롭히다      4.    
+3289,soiling,VBG,Not verb
+3290,soldering,VBG,Not verb
+3291,soldiering,VBG,Not verb
+3292,soliciting,VBG,"[격식]  간청[요청]하다, 얻으려고[구하려고] 하다      2.    "
+3293,soliloquizing,VBG,Not verb
+3294,sonneting,VBG,Not verb
+3295,soothing,VBG,  a soothing voice / lotion      마음을 달래 주는 목소리/진정 효과가 있는 로션  
+3296,soothsaying,VBG,Not verb
+3297,sopping,VBG,[비격식]  흠뻑 다 젖은 (=soaking)  
+3298,sorcering,VBG,Not verb
+3299,sorning,VBG,Not verb
+3300,sorrowing,VBG,[문예체]  (대단히) 슬퍼하다  
+3301,soughing,VBG,[문예체]  솨솨 불다  
+3302,soulsaving,VBG,Not verb
+3303,sounding,VBG,Not verb
+3304,soundproofing,VBG,Not verb
+3305,souring,VBG,Not verb
+3306,sourling,VBG,Not verb
+3307,southing,VBG,Not verb
+3308,spacesaving,VBG,"  공간 절약의, 공간을 적게 차지하는, 소형의      2.    [명사]  공간[스페이스] 절약  "
+3309,spacing,VBG,Not verb
+3310,spading,VBG,Not verb
+3311,spalding,VBG,Not verb
+3312,spalling,VBG,Not verb
+3313,spaning,VBG,Not verb
+3314,spanking,VBG,Not verb
+3315,sparing,VBG,"  (~을) 조금만 쓰는[아끼는], (~에) 인색한  "
+3316,sparking,VBG,Not verb
+3317,sparkling,VBG,Not verb
+3318,sparling,VBG,Not verb
+3319,sparring,VBG,Not verb
+3320,spattering,VBG,Not verb
+3321,spatting,VBG,Not verb
+3322,spawning,VBG,Not verb
+3323,spaying,VBG,Not verb
+3324,speaking,VBG,Not verb
+3325,spearing,VBG,Not verb
+3326,specking,VBG,Not verb
+3327,speckling,VBG,Not verb
+3328,spectaclemaking,VBG,Not verb
+3329,speeching,VBG,Not verb
+3330,speechmaking,VBG,  연설을 하는.  
+3331,speedboating,VBG,Not verb
+3332,speeding,VBG,Not verb
+3333,speering,VBG,Not verb
+3334,spelding,VBG,Not verb
+3335,speldring,VBG,Not verb
+3336,spellbinding,VBG,  마음을 완전히 사로잡는 (=enthralling)  
+3337,spelling,VBG,Not verb
+3338,sperling,VBG,Not verb
+3339,spewing,VBG,Not verb
+3340,spicing,VBG,Not verb
+3341,spiderling,VBG,Not verb
+3342,spiffing,VBG,"[英  구식  비격식]  아주 좋은, 훌륭한 (=excellent)  "
+3343,spiking,VBG,Not verb
+3344,spiling,VBG,Not verb
+3345,spindling,VBG,"  가늘고 긴 (사람·물건), 홀쭉한 (사람)  "
+3346,spinning,VBG,Not verb
+3347,spiring,VBG,Not verb
+3348,spiriting,VBG,Not verb
+3349,spirketing,VBG,Not verb
+3350,spirling,VBG,Not verb
+3351,spitting,VBG,Not verb
+3352,splashing,VBG,Not verb
+3353,splathering,VBG,Not verb
+3354,splicing,VBG,Not verb
+3355,splitting,VBG,  (두통이) 머리가 빠개지는 듯한  
+3356,spoiling,VBG,"  망치다, 버려 놓다, 못쓰게 만들다 (=ruin)      2.    "
+3357,sponging,VBG,Not verb
+3358,sponsing,VBG,Not verb
+3359,spooning,VBG,Not verb
+3360,spoonmaking,VBG,Not verb
+3361,sporeforming,VBG,Not verb
+3362,sporeling,VBG,Not verb
+3363,sporting,VBG,Not verb
+3364,sportling,VBG,Not verb
+3365,spotting,VBG,Not verb
+3366,spouting,VBG,Not verb
+3367,sprawling,VBG,  제멋대로 뻗어[퍼져] 나가는  
+3368,spreading,VBG,Not verb
+3369,springing,VBG,Not verb
+3370,springmaking,VBG,Not verb
+3371,sprinkling,VBG,Not verb
+3372,sprouting,VBG,Not verb
+3373,sproutling,VBG,Not verb
+3374,spurling,VBG,Not verb
+3375,spurwing,VBG,Not verb
+3376,sputtering,VBG,  (엔진·불길 등이) 펑펑 하는[털털거리는] 소리를 내다 (=splutter)      2.    
+3377,squabbling,VBG,  (하찮은 일로) 옥신각신하다[(티격태격) 다투다] (=bicker)  
+3378,squaring,VBG,Not verb
+3379,squatting,VBG,Not verb
+3380,squawking,VBG,  (크게) 꽥꽥[깍깍] 울다      2.    
+3381,squeaking,VBG,  (그렇게 크지 않게) 끽[찍] 하는 소리를 내다      2.    
+3382,squealing,VBG,  (높고 길게) 끼익[꽤액/꺄악] 하는 소리를 내다      2.    
+3383,squeezing,VBG,Not verb
+3384,squelching,VBG,  (물기 있는 것이 달라붙듯이) 쩌억 쩍 소리가 나다[질벅거리다]      2.    
+3385,squibling,VBG,Not verb
+3386,squinting,VBG,  눈을 가늘게 뜨고[찡그리고] 보다(밝은 빛을 피하거나 무엇을 더 잘 보려고 취하는 동작을 나타냄)      2.    
+3387,squireling,VBG,Not verb
+3388,squirming,VBG,  (초조하거나 불편하거나 하여 몸을) 꿈틀[꼼지락]대다 (=wriggle)      2.    
+3389,squirting,VBG,"  (액체가스 등을 가늘게) 찍 짜다[내뿜다/뿌리다], 찍 나오다[뿌려지다] (=spurt)      2.    "
+3390,stabbing,VBG,  찌르는[쑤시는] 듯한  
+3391,stabling,VBG,Not verb
+3392,staddling,VBG,  (양쪽으로) 다리를 벌리고 올라앉다[서다]      2.    
+3393,stagecoaching,VBG,Not verb
+3394,staggering,VBG,"  (너무 엄청나서) 충격적인, 믿기 어려운 (=astounding)  "
+3395,staghunting,VBG,Not verb
+3396,staging,VBG,Not verb
+3397,staining,VBG,Not verb
+3398,stairbuilding,VBG,Not verb
+3399,staling,VBG,Not verb
+3400,stalking,VBG,Not verb
+3401,stalling,VBG,Not verb
+3402,stammering,VBG,"  말을 더듬는, 더듬으며 말하는  "
+3403,stamping,VBG,Not verb
+3404,standing,VBG,Not verb
+3405,stapling,VBG,Not verb
+3406,starchmaking,VBG,Not verb
+3407,stargazing,VBG,Not verb
+3408,staring,VBG,Not verb
+3409,starling,VBG,Not verb
+3410,starring,VBG,  (영화연극 등에서) 주연[주역]을 맡다      4.    
+3411,starting,VBG,Not verb
+3412,startling,VBG,Not verb
+3413,starveling,VBG,Not verb
+3414,staving,VBG,"[美]  강력한, 굉장한.  "
+3415,staymaking,VBG,Not verb
+3416,steading,VBG,Not verb
+3417,steadying,VBG,Not verb
+3418,stealing,VBG,"  (슬쩍) 훔치는, 도벽이 있는; [고어] 살그머니 하는  "
+3419,steamboating,VBG,Not verb
+3420,steaming,VBG,Not verb
+3421,steaning,VBG,Not verb
+3422,steckling,VBG,Not verb
+3423,steeling,VBG,Not verb
+3424,steelmaking,VBG,Not verb
+3425,steeplechasing,VBG,Not verb
+3426,steering,VBG,Not verb
+3427,steerling,VBG,Not verb
+3428,steeving,VBG,Not verb
+3429,stelling,VBG,Not verb
+3430,stemming,VBG,Not verb
+3431,stenching,VBG,Not verb
+3432,stencilmaking,VBG,Not verb
+3433,stepping,VBG,Not verb
+3434,stereotyping,VBG,Not verb
+3435,stevedoring,VBG,Not verb
+3436,sticking,VBG,Not verb
+3437,stickling,VBG,Not verb
+3438,stiffening,VBG,Not verb
+3439,stifling,VBG,  a stifling room      숨이 막히는 방  
+3440,stilling,VBG,Not verb
+3441,sting,VBG,"  쏘다, 찌르다      2.    "
+3442,stingareeing,VBG,Not verb
+3443,stinging,VBG,Not verb
+3444,stinking,VBG,Not verb
+3445,stippling,VBG,Not verb
+3446,stirring,VBG,"  마음을 뒤흔드는, 신나는  "
+3447,stitching,VBG,Not verb
+3448,stockbreeding,VBG,Not verb
+3449,stockbroking,VBG,Not verb
+3450,stockholding,VBG,Not verb
+3451,stocking,VBG,Not verb
+3452,stockjobbing,VBG,Not verb
+3453,stockjudging,VBG,Not verb
+3454,stockkeeping,VBG,Not verb
+3455,stockmaking,VBG,Not verb
+3456,stockriding,VBG,Not verb
+3457,stocktaking,VBG,Not verb
+3458,stomaching,VBG,"  즐기다, 참다, 견디다      3.    "
+3459,stonelaying,VBG,Not verb
+3460,stoning,VBG,Not verb
+3461,stooping,VBG,"  꾸부리는, 허리를 굽히는.  "
+3462,stoothing,VBG,Not verb
+3463,stoping,VBG,Not verb
+3464,stopping,VBG,"  멎는, 정차하는; 막는  "
+3465,storekeeping,VBG,Not verb
+3466,storkling,VBG,Not verb
+3467,storming,VBG,"[英]  대단히 감동적인, 에너지가 넘치는  "
+3468,storytelling,VBG,"  이야기를 하는, [구어] 거짓말을 하는      2.    [명사]  [U] 이야기하기, [구어] 거짓말하기  "
+3469,stouring,VBG,Not verb
+3470,stovemaking,VBG,Not verb
+3471,stowing,VBG,Not verb
+3472,strackling,VBG,Not verb
+3473,straddling,VBG,  (양쪽으로) 다리를 벌리고 올라앉다[서다]      2.    
+3474,straggling,VBG,"  낙오한, 일행에서 떨어진, <행렬 등이> 흩어져 나아가는, <마을·집 등이> 흩어져 있는, <머리털이> 헝클어진, <가지 등이> 멋대로 뻗는  "
+3475,straining,VBG,Not verb
+3476,straitlacing,VBG,Not verb
+3477,stranding,VBG,Not verb
+3478,strangeling,VBG,Not verb
+3479,strangling,VBG,"  교살하다, 목 졸라 죽이다      2.    "
+3480,strapping,VBG,[비격식]  건장한  
+3481,strayling,VBG,Not verb
+3482,streaming,VBG,Not verb
+3483,streamling,VBG,  유선형으로 하다      2.    
+3484,streetwalking,VBG,Not verb
+3485,strengthening,VBG,Not verb
+3486,stridling,VBG,Not verb
+3487,strifemaking,VBG,Not verb
+3488,strikebreaking,VBG,Not verb
+3489,striking,VBG,Not verb
+3490,string,VBG,  (특히 장식을 위해 끈이나 줄로) 묶다[매달다]      4.    
+3491,stringing,VBG,Not verb
+3492,stringmaking,VBG,Not verb
+3493,stripling,VBG,Not verb
+3494,stripping,VBG,Not verb
+3495,striving,VBG,[격식]  분투하다  
+3496,stroking,VBG,Not verb
+3497,stromming,VBG,Not verb
+3498,strouding,VBG,Not verb
+3499,struggling,VBG,"  발버둥이 치는; 기를 쓰는, 분투하는  "
+3500,strutting,VBG,"  점잔 빼며[으스대며] 걷는; 거드름 부리는, 젠체하는  "
+3501,stuckling,VBG,Not verb
+3502,studding,VBG,Not verb
+3503,stuffing,VBG,Not verb
+3504,stumbling,VBG,  발부리에 걸리는  
+3505,stumpling,VBG,Not verb
+3506,stunning,VBG,Not verb
+3507,stuttering,VBG,"  말을 더듬는, 입속에서 중얼거리는.  "
+3508,styling,VBG,Not verb
+3509,subalternating,VBG,Not verb
+3510,subascending,VBG,Not verb
+3511,subbing,VBG,Not verb
+3512,subdividing,VBG,Not verb
+3513,subduing,VBG,  진압하다 (=defeat)      2.    
+3514,subflooring,VBG,Not verb
+3515,subheading,VBG,Not verb
+3516,subking,VBG,Not verb
+3517,submeaning,VBG,Not verb
+3518,submeeting,VBG,Not verb
+3519,submetering,VBG,Not verb
+3520,subordinating,VBG,Not verb
+3521,subsiding,VBG,"  가라앉다, 진정되다      2.    "
+3522,substituting,VBG,"  대신하다, 대치[교체]되다; 대용[교체/대치]하다  "
+3523,succeeding,VBG,"  계속해서 일어나는, 계속되는, 다음의 (following)  "
+3524,sucking,VBG,Not verb
+3525,suckling,VBG,Not verb
+3526,suffering,VBG,Not verb
+3527,sufficing,VBG,[격식]  충분하다  
+3528,suffocating,VBG,Not verb
+3529,suggesting,VBG,  (아이디어·계획을) 제안[제의]하다 (=propose)      2.    
+3530,suing,VBG,"  고소하다, 소송을 제기하다      2.    "
+3531,summering,VBG,Not verb
+3532,summerling,VBG,Not verb
+3533,sundowning,VBG,Not verb
+3534,sunsetting,VBG,Not verb
+3535,sunshining,VBG,Not verb
+3536,superaccommodating,VBG,Not verb
+3537,supercombing,VBG,Not verb
+3538,superdomineering,VBG,Not verb
+3539,superdying,VBG,Not verb
+3540,superexacting,VBG,Not verb
+3541,superexceeding,VBG,Not verb
+3542,superimpending,VBG,Not verb
+3543,superprinting,VBG,Not verb
+3544,superweening,VBG,Not verb
+3545,suppering,VBG,Not verb
+3546,supping,VBG,"[북잉글랜드 영어 또는 구식]  홀짝홀짝 마시다, 홀짝거리다  "
+3547,supplicating,VBG,  간청하는  
+3548,suppling,VBG,  (특히 대량으로) 공급[제공]하다  
+3549,supporting,VBG,Not verb
+3550,supposing,VBG,Not verb
+3551,surfacing,VBG,Not verb
+3552,surfboarding,VBG,Not verb
+3553,surging,VBG,Not verb
+3554,surpassing,VBG,"  빼어난, 뛰어난; 우수[탁월]한; 비상한, 놀랄 만한      2.    [부사][고어·시어]  뛰어나게, 탁월하여  "
+3555,surrounding,VBG,"  인근의, 주위의  "
+3556,surveying,VBG,Not verb
+3557,surviving,VBG,"  살아 남은, 잔존한.  "
+3558,sustaining,VBG,Not verb
+3559,swacking,VBG,Not verb
+3560,swaddling,VBG,Not verb
+3561,swaggering,VBG,"  뽐내며 걷는, 뻐기는  "
+3562,swaling,VBG,Not verb
+3563,swallowling,VBG,Not verb
+3564,swanking,VBG,[구식 英 비격식 못마땅함]  으스대다  
+3565,swanmarking,VBG,Not verb
+3566,swapping,VBG,Not verb
+3567,swarming,VBG,Not verb
+3568,swartrutting,VBG,Not verb
+3569,swashbucklering,VBG,Not verb
+3570,swashbuckling,VBG,  <과거를 배경으로 모험·액션·칼싸움 등이 넘치는>  
+3571,swashing,VBG,Not verb
+3572,swaying,VBG,  (전후좌우로 천천히) 흔들리다[흔들다]      2.    
+3573,sweating,VBG,Not verb
+3574,sweeping,VBG,Not verb
+3575,sweetening,VBG,Not verb
+3576,sweethearting,VBG,Not verb
+3577,sweeting,VBG,Not verb
+3578,sweetling,VBG,Not verb
+3579,swelling,VBG,Not verb
+3580,sweltering,VBG,  (=stifling)  
+3581,swimming,VBG,Not verb
+3582,swindling,VBG,Not verb
+3583,swing,VBG,  (전후좌우로) 흔들리다[흔들다]      2.    
+3584,swingeing,VBG,Not verb
+3585,swinging,VBG,[구식 비격식]  활기차고 멋진  
+3586,swirring,VBG,Not verb
+3587,swishing,VBG,"  휙[쌩] 소리를 내며 움직이다, 휙[쌩] 소리를 내며 움직이게 하다[휘두르다]      2.    [명사]  휙[쌩] 소리를 내며 움직이기, 휙[쌩] 하는 소리  "
+3588,swissing,VBG,"  휙[쌩] 소리를 내며 움직이다, 휙[쌩] 소리를 내며 움직이게 하다[휘두르다]      2.    [명사]  휙[쌩] 소리를 내며 움직이기, 휙[쌩] 하는 소리  "
+3589,switching,VBG,Not verb
+3590,swooning,VBG,"  기절하는, 졸도하는.  "
+3591,swordfishing,VBG,Not verb
+3592,swording,VBG,Not verb
+3593,swordmaking,VBG,Not verb
+3594,sympathizing,VBG,"  동정하다, 측은히 여기다      2.    "
+3595,tablemaking,VBG,Not verb
+3596,tabling,VBG,Not verb
+3597,tacking,VBG,Not verb
+3598,tackling,VBG,Not verb
+3599,taffymaking,VBG,Not verb
+3600,tailing,VBG,Not verb
+3601,tailoring,VBG,Not verb
+3602,taking,VBG,Not verb
+3603,talebearing,VBG,  고자질하는  
+3604,talecarrying,VBG,Not verb
+3605,talemongering,VBG,Not verb
+3606,taletelling,VBG,  (=talebearing)  
+3607,talking,VBG,Not verb
+3608,tallowing,VBG,"  (무엇을 하도록) 허락하다, 용납하다      2.    "
+3609,tallowmaking,VBG,Not verb
+3610,tamping,VBG,[웨일스 영어  비격식]  몹시 화가 난  
+3611,tangling,VBG,"  헝클리다, 헝클어지다  "
+3612,tankmaking,VBG,Not verb
+3613,tanling,VBG,Not verb
+3614,tanning,VBG,Not verb
+3615,tapamaking,VBG,Not verb
+3616,tapemaking,VBG,Not verb
+3617,tapering,VBG,"  끝이 뾰족해진[가늘어진]; 점점 적어지는, 체감의  "
+3618,tapermaking,VBG,Not verb
+3619,tapestring,VBG,Not verb
+3620,tapping,VBG,Not verb
+3621,tarrying,VBG,[옛글투 또는 문예체]  지체하다 (=linger)  
+3622,tasksetting,VBG,Not verb
+3623,tasselmaking,VBG,Not verb
+3624,tasting,VBG,Not verb
+3625,tatting,VBG,Not verb
+3626,tattling,VBG,[비격식 못마땅함 특히 美]  고자질하다 (=tell on sb)  
+3627,tattooing,VBG,Not verb
+3628,taunting,VBG,"  놀리다, 비웃다, 조롱하다      2.    [명사]  놀림, 비웃음, 조롱  "
+3629,taxeating,VBG,Not verb
+3630,taxgathering,VBG,Not verb
+3631,taxing,VBG,  (육체적·정신적으로) 아주 힘든[부담이 큰] (=demanding)  
+3632,taxpaying,VBG,Not verb
+3633,teaching,VBG,Not verb
+3634,teamaking,VBG,Not verb
+3635,teaming,VBG,Not verb
+3636,tearing,VBG,"  (잡아) 찢는, 쥐어뜯는; [구어] 사납게 날뛰는, 맹렬한(violent)      2.    [부사]  맹렬히, 냅다, 미친 듯이  "
+3637,teasing,VBG,"  짓궂게 괴롭히는, 들볶는; 귀찮은, 성가신  "
+3638,teatling,VBG,Not verb
+3639,teeming,VBG,  (사람들·동물들 등이) 바글[와글]거리는  
+3640,teething,VBG,Not verb
+3641,teeting,VBG,Not verb
+3642,teletyping,VBG,Not verb
+3643,telling,VBG,Not verb
+3644,temporizing,VBG,"  임시변통의, 타협적인; 기회주의적인, 영합적인  "
+3645,tempting,VBG,"  솔깃한, 구미가 당기는  "
+3646,tenderling,VBG,Not verb
+3647,tentmaking,VBG,Not verb
+3648,terracing,VBG,Not verb
+3649,terrifying,VBG,  It was a terrifying experience.      그것은 무서운 경험이었다.  
+3650,testing,VBG,"  아주 힘든, 힘겨운  "
+3651,thanksgiving,VBG,Not verb
+3652,thatching,VBG,Not verb
+3653,theatergoing,VBG,  연극 구경 가는  
+3654,thermosetting,VBG,  <가소물(可塑物) 등이> 열경화성(熱硬化性)의(opp. thermoplastic)      2.    [명사]  열경화성  
+3655,thickening,VBG,Not verb
+3656,thicknessing,VBG,Not verb
+3657,thiefmaking,VBG,Not verb
+3658,thieving,VBG,Not verb
+3659,thigging,VBG,Not verb
+3660,thimblemaking,VBG,Not verb
+3661,thimblerigging,VBG,Not verb
+3662,thinking,VBG,"  이지적인, 사고력[분별력] 있는  "
+3663,thinkling,VBG,Not verb
+3664,thinning,VBG,Not verb
+3665,thirdling,VBG,Not verb
+3666,thirling,VBG,Not verb
+3667,thirsting,VBG,[옛글투]  목이 마르다  
+3668,thomasing,VBG,Not verb
+3669,thoroughgoing,VBG,Not verb
+3670,thrashing,VBG,Not verb
+3671,threadmaking,VBG,Not verb
+3672,threatening,VBG,Not verb
+3673,threeling,VBG,Not verb
+3674,thrilling,VBG,"  황홀한, 흥분되는, 아주 신나는  "
+3675,thring,VBG,Not verb
+3676,thriving,VBG,  a thriving industry      번창하는 산업  
+3677,throating,VBG,Not verb
+3678,throttling,VBG,Not verb
+3679,throughganging,VBG,Not verb
+3680,throughgoing,VBG,Not verb
+3681,throwing,VBG,  던지다      2.    
+3682,thrusting,VBG,"  자기 주장이 강한, 공격적인, 몹시 뽐내는  "
+3683,thudding,VBG,  (낮게 둔탁한 소리를 내며) 쿵[퍽/툭] 치다[떨어지다]      3.    
+3684,thumbstring,VBG,Not verb
+3685,thumping,VBG,[비격식]  막대한 (=huge)  
+3686,thunderbearing,VBG,Not verb
+3687,thundering,VBG,Not verb
+3688,thwacking,VBG,  탁[찰싹] 때리다[치다]  
+3689,thwarting,VBG,  (계획 등을) 좌절시키다 (=frustrate)  
+3690,ticketing,VBG,Not verb
+3691,ticking,VBG,Not verb
+3692,tickling,VBG,Not verb
+3693,tiddling,VBG,  (어린 아이가) 걸음마타다[아장아장 걷다]      2.    
+3694,tiddlywinking,VBG,Not verb
+3695,tidemaking,VBG,Not verb
+3696,tiding,VBG,Not verb
+3697,tiemaking,VBG,Not verb
+3698,tigerling,VBG,Not verb
+3699,tilemaking,VBG,Not verb
+3700,tiling,VBG,Not verb
+3701,tillering,VBG,Not verb
+3702,tilting,VBG,"  기울다, (뒤로) 젖혀지다, 갸우뚱하다; 기울이다, (뒤로) 젖히다 (=tip)      2.    "
+3703,tiltmaking,VBG,Not verb
+3704,timbering,VBG,Not verb
+3705,timberling,VBG,Not verb
+3706,timeling,VBG,Not verb
+3707,timesaving,VBG,  시간 절약의  
+3708,timeserving,VBG,"  시류에 편승하는, 기회[편의]주의적인, 지조 없는      2.    [명사]  기회주의, 편의주의, 무절조  "
+3709,timetaking,VBG,Not verb
+3710,timing,VBG,Not verb
+3711,ting,VBG,Not verb
+3712,tingling,VBG,"  톡톡 쏘는, 얼얼하게 하는  "
+3713,tining,VBG,TINE2의 현재 분사.  
+3714,tinkling,VBG,Not verb
+3715,tinning,VBG,Not verb
+3716,tinselmaking,VBG,Not verb
+3717,tinsmithing,VBG,Not verb
+3718,tinting,VBG,Not verb
+3719,tinworking,VBG,Not verb
+3720,tipping,VBG,Not verb
+3721,tiptoeing,VBG,Not verb
+3722,tiremaking,VBG,Not verb
+3723,tiring,VBG,"  피곤하게 만드는, 피곤한 (=exhausting)  "
+3724,tithing,VBG,Not verb
+3725,titillating,VBG,"  흥을 돋우는, 기분 좋게 자극하는  "
+3726,titling,VBG,Not verb
+3727,tittering,VBG,  킥킥거리다 (=giggle)  
+3728,tjanting,VBG,Not verb
+3729,toadling,VBG,Not verb
+3730,toffing,VBG,Not verb
+3731,toiling,VBG,  (장시간) 힘들게[고생스럽게] 일하다 (=slave away)      2.    
+3732,tolling,VBG,"  (종소리가 천천히 일정하게 나도록, 특히 조종(弔鐘)을) 울리다  "
+3733,tomorrowing,VBG,Not verb
+3734,tonguing,VBG,Not verb
+3735,toolbuilding,VBG,Not verb
+3736,toolholding,VBG,Not verb
+3737,tooling,VBG,Not verb
+3738,toolmaking,VBG,Not verb
+3739,toolmarking,VBG,Not verb
+3740,toothaching,VBG,Not verb
+3741,toothdrawing,VBG,Not verb
+3742,toothing,VBG,Not verb
+3743,topcoating,VBG,Not verb
+3744,topmaking,VBG,Not verb
+3745,topping,VBG,Not verb
+3746,torchbearing,VBG,Not verb
+3747,tormenting,VBG,Not verb
+3748,torsioning,VBG,Not verb
+3749,torturing,VBG,  고문하다      4.    
+3750,tossing,VBG,  (가볍게아무렇게나) 던지다      2.    
+3751,tottering,VBG,"  비틀거리는, 흔들거리는; 위태로운, 불안정한; 쓰러질 듯한. ~·ly  "
+3752,totting,VBG,Not verb
+3753,touching,VBG,"  감동적인, 감정적이 되게 하는 (=moving)  "
+3754,touring,VBG,Not verb
+3755,toweling,VBG,Not verb
+3756,towering,VBG,Not verb
+3757,towing,VBG,Not verb
+3758,townfaring,VBG,Not verb
+3759,townling,VBG,Not verb
+3760,toying,VBG,Not verb
+3761,toymaking,VBG,Not verb
+3762,tracing,VBG,Not verb
+3763,tracklaying,VBG,"  궤도 부설에 쓰이는, <차가> 무한 궤도식의      2.    [명사]  선로 부설 (공사)  "
+3764,tractioneering,VBG,Not verb
+3765,traducing,VBG,[격식]  비방[중상]하다  
+3766,trailing,VBG,"  질질 끌리는, 길게 나부끼는 <연기·구름 ((등))>, 기는 <덩굴 ((등))>  "
+3767,trailmaking,VBG,Not verb
+3768,traitorling,VBG,Not verb
+3769,trammeling,VBG,"[격식]  (움직임·활동을) 구속[제한]하다 (→untrammelled), (=restrict)  "
+3770,tramming,VBG,Not verb
+3771,tranquilizing,VBG,Not verb
+3772,transcending,VBG,[격식]  초월하다  
+3773,transferring,VBG,Not verb
+3774,transforming,VBG,  변형시키다 (=convert)      2.    
+3775,transgressing,VBG,[격식]  (도덕적·법적 한계를) 넘어서다[벗어나다]  
+3776,transmuting,VBG,"[격식]  바꾸다, 변화시키다 (=transform)  "
+3777,transporting,VBG,Not verb
+3778,trapezing,VBG,Not verb
+3779,trapmaking,VBG,Not verb
+3780,trapping,VBG,Not verb
+3781,trapshooting,VBG,Not verb
+3782,traveling,VBG,Not verb
+3783,traversing,VBG,Not verb
+3784,treading,VBG,Not verb
+3785,treating,VBG,  (특정한 태도로) 대하다[다루다/취급하다/대우하다]      2.    
+3786,treeling,VBG,Not verb
+3787,treemaking,VBG,Not verb
+3788,trembling,VBG,"  떨리는, 전율하는  "
+3789,trenchermaking,VBG,Not verb
+3790,trepanning,VBG,Not verb
+3791,trestling,VBG,Not verb
+3792,tricking,VBG,"  속이다, 속임수를 쓰다  "
+3793,trickling,VBG,"  똑똑 떨어지는, 졸졸 흐르는.  "
+3794,trickstering,VBG,Not verb
+3795,trifling,VBG,"[격식]  하찮은, 사소한 (=trivial)  "
+3796,trilling,VBG,Not verb
+3797,trimming,VBG,Not verb
+3798,tripling,VBG,Not verb
+3799,tripping,VBG,Not verb
+3800,trithing,VBG,Not verb
+3801,triumphing,VBG,"  승리를 거두다, 이기다  "
+3802,troching,VBG,Not verb
+3803,trolling,VBG,Not verb
+3804,troublemaking,VBG,Not verb
+3805,troubling,VBG,"  괴롭히다, 애 먹이다      4.    "
+3806,troughing,VBG,Not verb
+3807,trousering,VBG,Not verb
+3808,trowing,VBG,  던지다      2.    
+3809,trucebreaking,VBG,Not verb
+3810,trucemaking,VBG,Not verb
+3811,truckling,VBG,  굽실거리는.  
+3812,trumpeting,VBG,  자랑스럽게[열렬히] 알리다      4.    
+3813,trundling,VBG,  (천천히 시끄러운 소리를 내며) 굴러가다[굴리다/(굴려서) 나르다]      2.    
+3814,trunking,VBG,Not verb
+3815,trussing,VBG,Not verb
+3816,trussmaking,VBG,Not verb
+3817,trusting,VBG,  사람을 믿는 (경향이 있는)  
+3818,truthtelling,VBG,Not verb
+3819,Trying,VBG,"  괴로운, 힘든  "
+3820,trying,VBG,"  괴로운, 힘든  "
+3821,trysting,VBG,Not verb
+3822,tubbing,VBG,Not verb
+3823,tubemaking,VBG,Not verb
+3824,tubing,VBG,Not verb
+3825,tubmaking,VBG,Not verb
+3826,tucking,VBG,Not verb
+3827,tuffing,VBG,Not verb
+3828,tufthunting,VBG,"  명사와 가까워지려고 하는, 권문(權門)에 알랑거리는; 아첨하는.  "
+3829,tufting,VBG,Not verb
+3830,tugging,VBG,Not verb
+3831,tumbling,VBG,Not verb
+3832,tunemaking,VBG,Not verb
+3833,tuning,VBG,Not verb
+3834,tunneling,VBG,Not verb
+3835,tunnelmaking,VBG,Not verb
+3836,turfing,VBG,"  떼를 입히다, 잔디를 깔다  "
+3837,turning,VBG,Not verb
+3838,turtling,VBG,Not verb
+3839,twaddling,VBG,Not verb
+3840,twanking,VBG,Not verb
+3841,twattling,VBG,Not verb
+3842,twiddling,VBG,"[英]  (손가락으로) 빙빙 돌리다[배배 꼬다](흔히 초조하거나 따분해서 하는 행동을 나타냄)      2.    [명사][英]  돌리기, 꼬기, 비틀기      3.    [명사][英]  꽈배기 무늬, 물결무늬; (음악에서 장식적) 떨림음  "
+3843,twilling,VBG,Not verb
+3844,twinemaking,VBG,Not verb
+3845,twinkling,VBG,Not verb
+3846,twinling,VBG,  (~을) 휘감다[휘감기게 하다]  
+3847,twinning,VBG,Not verb
+3848,twisting,VBG,Not verb
+3849,twitcheling,VBG,Not verb
+3850,twittering,VBG,  (새가) 지저귀다[짹짹거리다]      2.    
+3851,twoling,VBG,Not verb
+3852,tying,VBG,"  매는, 묶은; 구속적인  "
+3853,tyking,VBG,"  매는, 묶은; 구속적인  "
+3854,tympaning,VBG,Not verb
+3855,typesetting,VBG,Not verb
+3856,typewriting,VBG,Not verb
+3857,tyrannizing,VBG,"  압제하다, 폭군같이 굴다 (→tyrant)  "
+3858,ulling,VBG,Not verb
+3859,ulstering,VBG,Not verb
+3860,unaccommodating,VBG,"  순종하지 않는, 불친절한  "
+3861,unaccompanying,VBG,Not verb
+3862,unaccusing,VBG,Not verb
+3863,unacting,VBG,Not verb
+3864,unadmitting,VBG,Not verb
+3865,unadvancing,VBG,Not verb
+3866,unadventuring,VBG,Not verb
+3867,unadvertising,VBG,Not verb
+3868,unaffecting,VBG,Not verb
+3869,unaging,VBG,  늙지 않는(ageless).  
+3870,unaiding,VBG,Not verb
+3871,unailing,VBG,Not verb
+3872,unamusing,VBG,"  재미없는, 즐겁지 않은. ~·ly  "
+3873,unannoying,VBG,Not verb
+3874,unappertaining,VBG,Not verb
+3875,unappetizing,VBG,"  맛없는, 입맛 떨어지게 하는 (↔appetizing)  "
+3876,unapprehending,VBG,Not verb
+3877,unapproaching,VBG,Not verb
+3878,unarousing,VBG,Not verb
+3879,unarresting,VBG,"  재미없는, 시시한  "
+3880,unaspiring,VBG,"  향상심 없는, 공명심 없는, 현상에 만족하고 있는  "
+3881,unassisting,VBG,Not verb
+3882,unassuaging,VBG,Not verb
+3883,unassuring,VBG,Not verb
+3884,unatoning,VBG,Not verb
+3885,unavenging,VBG,Not verb
+3886,unawakening,VBG,Not verb
+3887,unawaking,VBG,Not verb
+3888,unbalancing,VBG,  (어떤 일·상황의) 평형을 깨뜨리다      2.    
+3889,unbearing,VBG,Not verb
+3890,unbehaving,VBG,Not verb
+3891,unbeholding,VBG,Not verb
+3892,unbelieving,VBG,"[격식]  믿지 않는, 못 믿겠다는 듯한  "
+3893,unbelonging,VBG,Not verb
+3894,unbeseeming,VBG,"  어울리지 않는, 알맞지 않은, 부적당한  "
+3895,unbetraying,VBG,Not verb
+3896,unblemishing,VBG,Not verb
+3897,unbluffing,VBG,Not verb
+3898,unblushing,VBG,"  부끄러워하지 않는, 염치없는, 뻔뻔스러운; 얼굴을 붉히지 않는  "
+3899,unboasting,VBG,Not verb
+3900,unboding,VBG,Not verb
+3901,unbracing,VBG,Not verb
+3902,unbreaking,VBG,Not verb
+3903,unburning,VBG,Not verb
+3904,unbuying,VBG,Not verb
+3905,uncharging,VBG,Not verb
+3906,unclashing,VBG,Not verb
+3907,unclearing,VBG,Not verb
+3908,uncling,VBG,Not verb
+3909,uncloying,VBG,Not verb
+3910,uncoagulating,VBG,Not verb
+3911,uncoaxing,VBG,Not verb
+3912,uncombining,VBG,Not verb
+3913,uncompounding,VBG,Not verb
+3914,uncompromising,VBG,"  타협하지 않는, 단호한  "
+3915,unconcatenating,VBG,Not verb
+3916,unconciliating,VBG,Not verb
+3917,unconcurring,VBG,Not verb
+3918,uncondoling,VBG,Not verb
+3919,unconfessing,VBG,Not verb
+3920,unconfiding,VBG,Not verb
+3921,unconfining,VBG,Not verb
+3922,unconfirming,VBG,Not verb
+3923,unconflicting,VBG,Not verb
+3924,unconniving,VBG,Not verb
+3925,unconserving,VBG,Not verb
+3926,unconsidering,VBG,Not verb
+3927,unconsoling,VBG,Not verb
+3928,unconsulting,VBG,Not verb
+3929,uncontenting,VBG,Not verb
+3930,uncontrolling,VBG,Not verb
+3931,uncording,VBG,Not verb
+3932,uncorresponding,VBG,Not verb
+3933,uncouching,VBG,Not verb
+3934,uncourting,VBG,Not verb
+3935,uncoveting,VBG,"  덮개를 벗기다, 뚜껑을 열다      2.    "
+3936,uncraving,VBG,Not verb
+3937,uncrediting,VBG,Not verb
+3938,uncreeping,VBG,Not verb
+3939,uncrowning,VBG,Not verb
+3940,uncrumpling,VBG,Not verb
+3941,undallying,VBG,Not verb
+3942,undecaying,VBG,Not verb
+3943,undeciding,VBG,Not verb
+3944,undefaming,VBG,Not verb
+3945,undefaulting,VBG,Not verb
+3946,undeliberating,VBG,Not verb
+3947,undeluding,VBG,Not verb
+3948,undemurring,VBG,Not verb
+3949,undepending,VBG,Not verb
+3950,undepressing,VBG,Not verb
+3951,underbearing,VBG,Not verb
+3952,underbeveling,VBG,Not verb
+3953,underbuilding,VBG,Not verb
+3954,underceiling,VBG,Not verb
+3955,underclothing,VBG,Not verb
+3956,undercovering,VBG,Not verb
+3957,undercutting,VBG,Not verb
+3958,underdoing,VBG,Not verb
+3959,underdrumming,VBG,Not verb
+3960,underfeeling,VBG,Not verb
+3961,underfilling,VBG,Not verb
+3962,underframing,VBG,Not verb
+3963,undergirding,VBG,Not verb
+3964,undergoing,VBG,  (특히 변화·안 좋은 일 등을) 겪다[받다]  
+3965,undergraining,VBG,Not verb
+3966,undergroundling,VBG,Not verb
+3967,underhanging,VBG,Not verb
+3968,underlaying,VBG,Not verb
+3969,underliking,VBG,Not verb
+3970,underling,VBG,Not verb
+3971,underlodging,VBG,Not verb
+3972,underlying,VBG,Not verb
+3973,undermining,VBG,Not verb
+3974,underpinning,VBG,Not verb
+3975,underrating,VBG,"  과소평가하다 (→overrate, underestimate)  "
+3976,underriding,VBG,Not verb
+3977,underselling,VBG,Not verb
+3978,undersetting,VBG,Not verb
+3979,undersettling,VBG,Not verb
+3980,underspring,VBG,Not verb
+3981,understocking,VBG,Not verb
+3982,understrapping,VBG,Not verb
+3983,understring,VBG,Not verb
+3984,underthroating,VBG,Not verb
+3985,undervaluing,VBG,"  과소평가하다, 경시하다; 시세보다 싸게 평가하다 (↔overvalue)  "
+3986,underwing,VBG,  날개 밑에 있는  
+3987,underworking,VBG,Not verb
+3988,underwriting,VBG,Not verb
+3989,undeserting,VBG,Not verb
+3990,undeserving,VBG,[격식]  (…을) 가질[받을] 자격이 없는 (↔deserving)  
+3991,undesigning,VBG,"  이기적인 의도가 없는, 아무런 야심[꿍꿍이속]도 없는, 성실한(sincere)  "
+3992,undesiring,VBG,Not verb
+3993,undesponding,VBG,Not verb
+3994,undeteriorating,VBG,Not verb
+3995,undetesting,VBG,Not verb
+3996,undetracting,VBG,Not verb
+3997,undisappearing,VBG,Not verb
+3998,undiscerning,VBG,"  분간[판별] 못하는, 분별없는; 지각[감각]이 둔한  "
+3999,undisowning,VBG,Not verb
+4000,undispatching,VBG,Not verb
+4001,undisproving,VBG,Not verb
+4002,undisputing,VBG,Not verb
+4003,undissembling,VBG,"  시치미떼지 않는, 솔직한(frank).  "
+4004,undistracting,VBG,Not verb
+4005,undisturbing,VBG,Not verb
+4006,undiverging,VBG,Not verb
+4007,undiverting,VBG,Not verb
+4008,undividing,VBG,Not verb
+4009,undivining,VBG,Not verb
+4010,undivorcing,VBG,Not verb
+4011,undonating,VBG,Not verb
+4012,undoubting,VBG,"  의심하지 않는, 의문을 갖지 않는, 확신하는  "
+4013,undreading,VBG,Not verb
+4014,undrinking,VBG,Not verb
+4015,undripping,VBG,Not verb
+4016,undrooping,VBG,Not verb
+4017,undwindling,VBG,Not verb
+4018,undying,VBG,"  불멸의, 영원한 (=eternal)  "
+4019,unechoing,VBG,Not verb
+4020,unedifying,VBG,[격식  특히 英]  볼썽사나운 (→edifying)  
+4021,unelectrifying,VBG,Not verb
+4022,unemerging,VBG,Not verb
+4023,unencumbering,VBG,Not verb
+4024,unendowing,VBG,Not verb
+4025,unenjoying,VBG,Not verb
+4026,unenquiring,VBG,Not verb
+4027,unentertaining,VBG,"  즐거움을 주지 않는, 마음에 위안이 되지 않는, 재미없는.  "
+4028,unenvying,VBG,"  시샘하지 않는, 부러워하지 않는.  "
+4029,unexcelling,VBG,Not verb
+4030,unexciting,VBG,"  재미있지 않은, 따분한 (↔exciting)  "
+4031,unexclaiming,VBG,Not verb
+4032,unexcluding,VBG,Not verb
+4033,unexcusing,VBG,Not verb
+4034,unexisting,VBG,Not verb
+4035,unexpanding,VBG,Not verb
+4036,unexpecting,VBG,Not verb
+4037,unexpiring,VBG,Not verb
+4038,unexplaining,VBG,Not verb
+4039,unexporting,VBG,Not verb
+4040,unexpostulating,VBG,Not verb
+4041,unextenuating,VBG,Not verb
+4042,unfainting,VBG,Not verb
+4043,unfalling,VBG,Not verb
+4044,unfaltering,VBG,Not verb
+4045,unfasting,VBG,Not verb
+4046,unfatiguing,VBG,Not verb
+4047,unfaultfinding,VBG,Not verb
+4048,unfawning,VBG,Not verb
+4049,unfearing,VBG,  겁[두려움] 없는  
+4050,unfeeing,VBG,"  무정한, 냉정한  "
+4051,unfeigning,VBG,Not verb
+4052,unfelicitating,VBG,Not verb
+4053,unfidgeting,VBG,Not verb
+4054,unfighting,VBG,Not verb
+4055,unfishing,VBG,Not verb
+4056,unflaming,VBG,  흥분[격앙/격분]시키다      2.    
+4057,unflickering,VBG,"  (빛 따위가) 깜박거리지 않는, (나뭇잎 따위가) 흔들리지 않는.  "
+4058,unflinching,VBG,  (힘들거나 위험한 상황에도) 수그러들지[위축되지] 않는 (=steadfast)  
+4059,unfloating,VBG,Not verb
+4060,unflying,VBG,Not verb
+4061,unfolding,VBG,Not verb
+4062,unforbearing,VBG,Not verb
+4063,unforbidding,VBG,Not verb
+4064,unforeseeing,VBG,Not verb
+4065,unforgetting,VBG,Not verb
+4066,unforgiving,VBG,Not verb
+4067,unfretting,VBG,Not verb
+4068,ungaining,VBG,Not verb
+4069,ungainsaying,VBG,Not verb
+4070,ungalling,VBG,Not verb
+4071,ungerminating,VBG,Not verb
+4072,ungesting,VBG,[전문 용어]  (음식·약 등을) 삼키다[먹다]  
+4073,ungiving,VBG,Not verb
+4074,unglistening,VBG,Not verb
+4075,unglittering,VBG,Not verb
+4076,unglorifying,VBG,Not verb
+4077,ungossiping,VBG,Not verb
+4078,ungraduating,VBG,Not verb
+4079,ungrasping,VBG,Not verb
+4080,ungratifying,VBG,Not verb
+4081,ungrieving,VBG,Not verb
+4082,ungrowing,VBG,Not verb
+4083,ungrudging,VBG,"  아끼지 않는, 옹졸하지 않은, 활수한; 쾌히 하는, 진심의  "
+4084,ungrumbling,VBG,Not verb
+4085,unhairing,VBG,Not verb
+4086,unharming,VBG,  해를 끼치지 않는.  
+4087,unhasting,VBG,Not verb
+4088,unheeding,VBG,"  주의를 기울이지 않는, 부주의한  "
+4089,unhelping,VBG,Not verb
+4090,unhesitating,VBG,  주저하지 않는  
+4091,unhoping,VBG,Not verb
+4092,unhurrying,VBG,Not verb
+4093,unhurting,VBG,Not verb
+4094,unhushing,VBG,Not verb
+4095,unimposing,VBG,Not verb
+4096,uninjuring,VBG,Not verb
+4097,uninnovating,VBG,Not verb
+4098,uninstructing,VBG,Not verb
+4099,uninteresting,VBG,"  흥미롭지 못한, 재미없는  "
+4100,unintermitting,VBG,Not verb
+4101,unintoxicating,VBG,Not verb
+4102,unintruding,VBG,Not verb
+4103,uninviting,VBG,"  마음을 끌지 못하는, 매력 없는 (↔inviting)  "
+4104,uniting,VBG,Not verb
+4105,unjudging,VBG,Not verb
+4106,unkindling,VBG,Not verb
+4107,unkneeling,VBG,Not verb
+4108,unknowing,VBG,[격식]  자신도 모르는[알아채지 못하는] (→knowing)  
+4109,unlaboring,VBG,Not verb
+4110,unlagging,VBG,Not verb
+4111,unlearning,VBG,Not verb
+4112,unlettering,VBG,Not verb
+4113,unlifting,VBG,Not verb
+4114,unliking,VBG,Not verb
+4115,unlistening,VBG,Not verb
+4116,unloafing,VBG,Not verb
+4117,unlocking,VBG,  (열쇠로) 열다 (↔lock)      2.    
+4118,unloosening,VBG,Not verb
+4119,unloving,VBG,"  애정이 없는, 상냥하지 않은  "
+4120,unmarching,VBG,Not verb
+4121,unmarrying,VBG,Not verb
+4122,unmasking,VBG,"  가면을 벗기다, 정체를 드러내다 (=expose)  "
+4123,unmating,VBG,Not verb
+4124,unmenacing,VBG,Not verb
+4125,unmenstruating,VBG,Not verb
+4126,unmeriting,VBG,"  받을 자격이 없는, 노력 없이 얻은  "
+4127,unmiscarrying,VBG,Not verb
+4128,unmisgiving,VBG,Not verb
+4129,unmistrusting,VBG,Not verb
+4130,unmoderating,VBG,Not verb
+4131,unmolesting,VBG,Not verb
+4132,unmollifying,VBG,Not verb
+4133,unmonopolizing,VBG,Not verb
+4134,unmourning,VBG,Not verb
+4135,unnoting,VBG,Not verb
+4136,unnourishing,VBG,Not verb
+4137,unobserving,VBG,"  주의하지 않는, 방심하고 있는  "
+4138,unoccurring,VBG,Not verb
+4139,unoffending,VBG,"  해[죄]가 없는, 남의 감정을 해치지 않는, 성나게 하지 않는  "
+4140,unopening,VBG,Not verb
+4141,unoperating,VBG,Not verb
+4142,unoscillating,VBG,Not verb
+4143,unoverflowing,VBG,Not verb
+4144,unowing,VBG,Not verb
+4145,unpaining,VBG,Not verb
+4146,unpalpitating,VBG,Not verb
+4147,unpaying,VBG,Not verb
+4148,unpermitting,VBG,Not verb
+4149,unpersevering,VBG,Not verb
+4150,unperspiring,VBG,Not verb
+4151,unpitying,VBG,  동정심을 보이지 않는  
+4152,unplaying,VBG,Not verb
+4153,unplugging,VBG,  (전기) 플러그를 뽑다 (↔plug sth in)  
+4154,unpolluting,VBG,Not verb
+4155,unposing,VBG,Not verb
+4156,unpossessing,VBG,Not verb
+4157,unpreaching,VBG,Not verb
+4158,unpreparing,VBG,  준비하지 않고 있는  
+4159,unpreponderating,VBG,Not verb
+4160,unprepossessing,VBG,"[격식]  매력 없는, 호감을 주지 못하는 (=unattractive) (→prepossessing)  "
+4161,unprevaricating,VBG,Not verb
+4162,unprojecting,VBG,Not verb
+4163,unpronouncing,VBG,Not verb
+4164,unprotesting,VBG,"  반대[반항, 항의]하지 않는  "
+4165,unpunctuating,VBG,Not verb
+4166,unpunishing,VBG,Not verb
+4167,unpursuing,VBG,Not verb
+4168,unquaking,VBG,Not verb
+4169,unqualifying,VBG,  자격을 잃게 하는  
+4170,unquestioning,VBG,"[격식]  아무 의문 없이 하는, 의심하지 않는  "
+4171,unquieting,VBG,Not verb
+4172,unquivering,VBG,Not verb
+4173,unraveling,VBG,Not verb
+4174,unraving,VBG,Not verb
+4175,unreassuring,VBG,Not verb
+4176,unrecalling,VBG,Not verb
+4177,unrecording,VBG,Not verb
+4178,unrecurring,VBG,Not verb
+4179,unredeeming,VBG,Not verb
+4180,unreflecting,VBG,Not verb
+4181,unrefracting,VBG,Not verb
+4182,unrefraining,VBG,Not verb
+4183,unrefreshing,VBG,  상쾌하지 않은.  
+4184,unrefusing,VBG,Not verb
+4185,unrefuting,VBG,Not verb
+4186,unregretting,VBG,Not verb
+4187,unrehearsing,VBG,Not verb
+4188,unrelaxing,VBG,"  해이하지 않은, 긴장된 그대로의.  "
+4189,unrelinquishing,VBG,Not verb
+4190,unremaining,VBG,Not verb
+4191,unremitting,VBG,[격식]  끊임없는  
+4192,unremonstrating,VBG,Not verb
+4193,unrepenting,VBG,  후회하지 않는.  
+4194,unrepining,VBG,  불평을 하지 않는  
+4195,unreplying,VBG,Not verb
+4196,unreproaching,VBG,Not verb
+4197,unrepulsing,VBG,Not verb
+4198,unrequiting,VBG,Not verb
+4199,unresenting,VBG,"  분개하지 않는, 원망하지 않는.  "
+4200,unresisting,VBG,"  저항하지 않는, 온순한.  "
+4201,unresolving,VBG,Not verb
+4202,unresponding,VBG,Not verb
+4203,unresting,VBG,"  침착하지 않은, 동요하고 있는  "
+4204,unretaliating,VBG,Not verb
+4205,unretreating,VBG,Not verb
+4206,unreturning,VBG,Not verb
+4207,unrevealing,VBG,Not verb
+4208,unrevenging,VBG,Not verb
+4209,unrevolving,VBG,Not verb
+4210,unrewarding,VBG,  보람이 없는 (↔rewarding)  
+4211,unriddling,VBG,Not verb
+4212,unring,VBG,Not verb
+4213,unrioting,VBG,Not verb
+4214,unripening,VBG,Not verb
+4215,unripping,VBG,Not verb
+4216,unrising,VBG,Not verb
+4217,unroofing,VBG,Not verb
+4218,unruffling,VBG,Not verb
+4219,unruminating,VBG,Not verb
+4220,unrustling,VBG,Not verb
+4221,unsacrificing,VBG,Not verb
+4222,unsagging,VBG,Not verb
+4223,unsanctifying,VBG,Not verb
+4224,unsanctioning,VBG,Not verb
+4225,unsatisfying,VBG,  만족감을 주지 못 하는 (↔satisfying)  
+4226,unscintillating,VBG,Not verb
+4227,unscowling,VBG,Not verb
+4228,unscratching,VBG,Not verb
+4229,unscrewing,VBG,"  (병뚜껑 같은 것을 돌려서) 열다, 열리다      2.    "
+4230,unsealing,VBG,Not verb
+4231,unsecreting,VBG,Not verb
+4232,unsettling,VBG,  불안하게[동요하게] 만드는  
+4233,unsexing,VBG,Not verb
+4234,unshaking,VBG,Not verb
+4235,unsharing,VBG,Not verb
+4236,unsheathing,VBG,Not verb
+4237,unshifting,VBG,Not verb
+4238,unshivering,VBG,Not verb
+4239,unsignifying,VBG,Not verb
+4240,unsinking,VBG,Not verb
+4241,unslacking,VBG,Not verb
+4242,unsleeping,VBG,"  잠자지 않는, 밤샘하는; 쉬지 않는  "
+4243,unsling,VBG,Not verb
+4244,unslipping,VBG,Not verb
+4245,unsloughing,VBG,Not verb
+4246,unsmirking,VBG,Not verb
+4247,unsmoking,VBG,Not verb
+4248,unsoftening,VBG,Not verb
+4249,unsolacing,VBG,Not verb
+4250,unspeculating,VBG,Not verb
+4251,unsphering,VBG,Not verb
+4252,unspring,VBG,Not verb
+4253,unspringing,VBG,Not verb
+4254,unstaggering,VBG,Not verb
+4255,unstaying,VBG,Not verb
+4256,unsteadying,VBG,Not verb
+4257,unsticking,VBG,  <비행기를> 이륙시키다      2.    
+4258,unstimulating,VBG,"  자극하지 않는, 감동시키지 않는, 변화가 없고 단조로운.  "
+4259,unsting,VBG,Not verb
+4260,unstooping,VBG,Not verb
+4261,unstriking,VBG,Not verb
+4262,unstring,VBG,Not verb
+4263,unstuttering,VBG,Not verb
+4264,unsufficing,VBG,Not verb
+4265,unsupporting,VBG,Not verb
+4266,unswarming,VBG,Not verb
+4267,unswathing,VBG,Not verb
+4268,unswaying,VBG,Not verb
+4269,unswooning,VBG,Not verb
+4270,unsystematizing,VBG,Not verb
+4271,untainting,VBG,Not verb
+4272,untalking,VBG,Not verb
+4273,untarrying,VBG,Not verb
+4274,untasting,VBG,Not verb
+4275,untaxing,VBG,Not verb
+4276,unteaching,VBG,Not verb
+4277,unteeming,VBG,Not verb
+4278,untelling,VBG,Not verb
+4279,untempting,VBG,Not verb
+4280,unterrifying,VBG,Not verb
+4281,untestifying,VBG,Not verb
+4282,unthawing,VBG,Not verb
+4283,unthinking,VBG,"[격식]  생각이 없는, 무모한, 경솔한 (=thoughtless)  "
+4284,unthinning,VBG,Not verb
+4285,unthreatening,VBG,Not verb
+4286,unthriving,VBG,Not verb
+4287,untoadying,VBG,Not verb
+4288,untopping,VBG,Not verb
+4289,untrading,VBG,Not verb
+4290,untravelling,VBG,Not verb
+4291,untreading,VBG,Not verb
+4292,untrifling,VBG,Not verb
+4293,untripping,VBG,Not verb
+4294,untrusting,VBG,Not verb
+4295,untrying,VBG,Not verb
+4296,untuning,VBG,Not verb
+4297,untwining,VBG,Not verb
+4298,untwisting,VBG,Not verb
+4299,ununderstanding,VBG,Not verb
+4300,unupbraiding,VBG,Not verb
+4301,unusurping,VBG,Not verb
+4302,unvacillating,VBG,Not verb
+4303,unvanishing,VBG,Not verb
+4304,unvarying,VBG,[격식]  불변의  
+4305,unvolunteering,VBG,Not verb
+4306,unvoyaging,VBG,Not verb
+4307,unwalking,VBG,Not verb
+4308,unwandering,VBG,Not verb
+4309,unwarping,VBG,Not verb
+4310,unwassailing,VBG,Not verb
+4311,unwasting,VBG,"[고어]  줄지 않는, 불변의.  "
+4312,unweaving,VBG,Not verb
+4313,unweighing,VBG,Not verb
+4314,unwhining,VBG,Not verb
+4315,unwilting,VBG,Not verb
+4316,unwincing,VBG,"  과민하지 않은 ; 겁내지 않는, 기가 꺾이지 않는, 꿈쩍도 않는 ; 담담한.  "
+4317,unwinding,VBG,Not verb
+4318,unwinking,VBG,Not verb
+4319,unwinning,VBG,Not verb
+4320,unwithholding,VBG,Not verb
+4321,unwitting,VBG,  자신도 모르는  
+4322,unworking,VBG,Not verb
+4323,unworshipping,VBG,Not verb
+4324,unwotting,VBG,  자신도 모르는  
+4325,unwresting,VBG,Not verb
+4326,uparching,VBG,Not verb
+4327,upbraiding,VBG,"  나무라는, 비난하는      2.    [명사]  비난, 비판  "
+4328,upbulging,VBG,Not verb
+4329,upfling,VBG,Not verb
+4330,uplifting,VBG,  희망[행복감]을 주는  
+4331,uplying,VBG,Not verb
+4332,uprighting,VBG,Not verb
+4333,uprising,VBG,Not verb
+4334,upsetting,VBG,  속상하게 하는  
+4335,upstanding,VBG,"[격식]  강직한, 정직한 (=upright)  "
+4336,upswing,VBG,Not verb
+4337,upwring,VBG,Not verb
+4338,urging,VBG,"  재촉하는, 성가신  "
+4339,urticating,VBG,Not verb
+4340,usurping,VBG,[격식]  (왕좌·권좌 등을) 빼앗다[찬탈하다]  
+4341,vacillating,VBG,Not verb
+4342,vanishing,VBG,Not verb
+4343,vaporing,VBG,Not verb
+4344,varnishing,VBG,Not verb
+4345,vasemaking,VBG,Not verb
+4346,vasoconstricting,VBG,Not verb
+4347,vasodilating,VBG,  혈관을 확장시키는.  
+4348,vatmaking,VBG,Not verb
+4349,vaulting,VBG,Not verb
+4350,vaunting,VBG,  자랑하는  
+4351,veiling,VBG,Not verb
+4352,veilmaking,VBG,Not verb
+4353,veining,VBG,Not verb
+4354,velveting,VBG,Not verb
+4355,vending,VBG,[격식]  팔다  
+4356,veneering,VBG,Not verb
+4357,ventilating,VBG,"  환기[통풍]에 도움이 되는, 환기[통풍]용의.  "
+4358,versemaking,VBG,Not verb
+4359,versemongering,VBG,Not verb
+4360,vespering,VBG,Not verb
+4361,vesting,VBG,Not verb
+4362,vetchling,VBG,Not verb
+4363,vialmaking,VBG,Not verb
+4364,vibrating,VBG,"  진동하는, 떨리는.  "
+4365,victualing,VBG,Not verb
+4366,vierling,VBG,Not verb
+4367,viking,VBG,Not verb
+4368,vineyarding,VBG,Not verb
+4369,vintaging,VBG,Not verb
+4370,violinmaking,VBG,Not verb
+4371,violmaking,VBG,Not verb
+4372,viperling,VBG,Not verb
+4373,visiting,VBG,  (교수가) 객원의  
+4374,vitalizing,VBG,Not verb
+4375,voicing,VBG,Not verb
+4376,voiding,VBG,Not verb
+4377,volleying,VBG,"  (공이 땅에 닿기 전에) 맞받아치다[차다], 발리볼을 치다[차다]  "
+4378,vomiting,VBG,Not verb
+4379,voting,VBG,Not verb
+4380,vowmaking,VBG,Not verb
+4381,vraicking,VBG,Not verb
+4382,vying,VBG,Not verb
+4383,wadding,VBG,Not verb
+4384,waddling,VBG,  (오리처럼) 뒤뚱뒤뚱 걷다  
+4385,wading,VBG,Not verb
+4386,wadmaking,VBG,Not verb
+4387,wafermaking,VBG,Not verb
+4388,waganging,VBG,Not verb
+4389,wagering,VBG,[구식 또는 격식]  (내기경마 도박 등에서) (돈을) 걸다 (=bet)      3.    
+4390,wageworking,VBG,  임금 노동의.      2.    [명사]  임금 노동.  
+4391,waggling,VBG,"[비격식]  (상하·좌우로) 흔들다[움직거리다]; 흔들리다, 움직이다  "
+4392,wagling,VBG,Not verb
+4393,wagonmaking,VBG,Not verb
+4394,wainscoting,VBG,Not verb
+4395,waistcoating,VBG,Not verb
+4396,waisting,VBG,Not verb
+4397,waitering,VBG,Not verb
+4398,waiting,VBG,Not verb
+4399,wakening,VBG,Not verb
+4400,waking,VBG,  깨어 있는(시간에 대해 씀)  
+4401,waling,VBG,Not verb
+4402,walking,VBG,"[비격식]  걸어 다니는, 살아 있는  "
+4403,walling,VBG,Not verb
+4404,walloping,VBG,  아주 큰  
+4405,wallpapering,VBG,  벽지를 바르다  
+4406,wambling,VBG,Not verb
+4407,wandering,VBG,Not verb
+4408,waning,VBG,Not verb
+4409,wanting,VBG,Not verb
+4410,wappenschawing,VBG,Not verb
+4411,wapping,VBG,Not verb
+4412,warbling,VBG,[유머]  (특히 높고 불안정한 목소리로) 노래하다      2.    
+4413,wardholding,VBG,Not verb
+4414,warding,VBG,Not verb
+4415,waremaking,VBG,Not verb
+4416,warfaring,VBG,Not verb
+4417,Waring,VBG,Not verb
+4418,warming,VBG,Not verb
+4419,warmongering,VBG,Not verb
+4420,warning,VBG,Not verb
+4421,warping,VBG,Not verb
+4422,washing,VBG,Not verb
+4423,waspling,VBG,Not verb
+4424,waspnesting,VBG,Not verb
+4425,wasting,VBG,  (질환이) 소모성의  
+4426,watching,VBG,Not verb
+4427,watchmaking,VBG,Not verb
+4428,watering,VBG,Not verb
+4429,waterlogging,VBG,Not verb
+4430,waterproofing,VBG,Not verb
+4431,wattling,VBG,Not verb
+4432,wavering,VBG,Not verb
+4433,waving,VBG,Not verb
+4434,waxing,VBG,Not verb
+4435,waxmaking,VBG,Not verb
+4436,waxwing,VBG,Not verb
+4437,waxworking,VBG,Not verb
+4438,wayfaring,VBG,"[문어]  (도보) 여행을 하는(itinerant)      2.    [명사][문어]  도보 여행, 여행  "
+4439,waygoing,VBG,"[주로 스코]  떠나가는, 떠나가는 사람의      2.    [명사][주로 스코]  떠나감, 고별  "
+4440,waying,VBG,Not verb
+4441,waysliding,VBG,Not verb
+4442,weakening,VBG,Not verb
+4443,weakling,VBG,Not verb
+4444,wealthmaking,VBG,Not verb
+4445,weanling,VBG,  젖을 막 뗀 어린애[새끼 짐승]의  
+4446,weaponmaking,VBG,Not verb
+4447,weaponshowing,VBG,Not verb
+4448,wearing,VBG,  (정신적·육체적으로) 몹시 지치게 하는 (=exhausting)  
+4449,weatherboarding,VBG,Not verb
+4450,weathering,VBG,Not verb
+4451,weathermaking,VBG,Not verb
+4452,weatherproofing,VBG,Not verb
+4453,weaving,VBG,Not verb
+4454,webbing,VBG,Not verb
+4455,webmaking,VBG,Not verb
+4456,wedging,VBG,Not verb
+4457,weedling,VBG,Not verb
+4458,weening,VBG,Not verb
+4459,weeping,VBG,  가지가 늘어진  
+4460,weighing,VBG,Not verb
+4461,weighting,VBG,Not verb
+4462,weiring,VBG,Not verb
+4463,welcoming,VBG,Not verb
+4464,welding,VBG,Not verb
+4465,welfaring,VBG,Not verb
+4466,welling,VBG,Not verb
+4467,wellmaking,VBG,Not verb
+4468,wellring,VBG,Not verb
+4469,wellspring,VBG,Not verb
+4470,welting,VBG,Not verb
+4471,westering,VBG,"  서쪽으로 향하는, 서쪽으로 기우는 ((보통 태양에 대하여))  "
+4472,westing,VBG,Not verb
+4473,wetting,VBG,Not verb
+4474,whacking,VBG,"[英  비격식]  엄청난, 어마어마한(크기·양을 강조), (=whopping)  "
+4475,whaling,VBG,Not verb
+4476,wharfing,VBG,Not verb
+4477,wheedling,VBG,  감언으로 꾀는.  
+4478,wheeling,VBG,Not verb
+4479,wheelmaking,VBG,Not verb
+4480,wheelwrighting,VBG,Not verb
+4481,whelpling,VBG,Not verb
+4482,whiffling,VBG,Not verb
+4483,whimling,VBG,Not verb
+4484,whimpering,VBG,"  훌쩍이다, 훌쩍이며 말하다      2.    [명사]  (사람이) 훌쩍거림, (동물이) 낑낑거림  "
+4485,whing,VBG,Not verb
+4486,whipking,VBG,Not verb
+4487,whipmaking,VBG,Not verb
+4488,whipping,VBG,Not verb
+4489,whirling,VBG,"  소용돌이 치는, 선회[회전]하는.  "
+4490,whisking,VBG,  (달걀 등을) 휘젓다[휘저어 거품을 내다] (=beat)      2.    
+4491,whispering,VBG,"  속삭이는 듯한, 살랑거리는, 소문을 좋아하는      2.    [명사]  속삭임, 소곤거림, 낮은 소리로 이야기함  "
+4492,whistlewing,VBG,Not verb
+4493,whistling,VBG,"  휘파람을 부는, 휘파람 같은 소리를 내는      2.    [명사]  휘파람, 휘파람 같은 소리; 휘파람 불기      3.    [명사][수의학]  (말 등의) 천식  "
+4494,whitening,VBG,Not verb
+4495,whitewing,VBG,Not verb
+4496,whiting,VBG,Not verb
+4497,whitling,VBG,Not verb
+4498,whittling,VBG,Not verb
+4499,whizzing,VBG,Not verb
+4500,whooping,VBG,  (기쁨흥분 등으로) 와 하고 함성을 지르다  
+4501,whopping,VBG,[비격식]  엄청 큰  
+4502,whoremonging,VBG,Not verb
+4503,whuttering,VBG,Not verb
+4504,wicketkeeping,VBG,Not verb
+4505,wicking,VBG,Not verb
+4506,wifeling,VBG,Not verb
+4507,wigging,VBG,Not verb
+4508,wigmaking,VBG,Not verb
+4509,wildcatting,VBG,"  성급한[성마른] 사람의, 투기 기업을 하는.  "
+4510,wildering,VBG,Not verb
+4511,wilding,VBG,"[시어]  야생의, 재배[사육]되지 않은  "
+4512,wildling,VBG,Not verb
+4513,willmaking,VBG,Not verb
+4514,wincing,VBG,  (통증·당혹감으로 얼굴 표정이) 움찔하고 놀라다[움찔하다]  
+4515,windbracing,VBG,Not verb
+4516,winding,VBG,  구불구불한  
+4517,windjamming,VBG,Not verb
+4518,windling,VBG,Not verb
+4519,windowmaking,VBG,Not verb
+4520,windring,VBG,Not verb
+4521,winebibbing,VBG,Not verb
+4522,winegrowing,VBG,Not verb
+4523,wing,VBG,[문예체]  (어디로) 날아가다      4.    
+4524,winking,VBG,Not verb
+4525,winning,VBG,Not verb
+4526,winnowing,VBG,Not verb
+4527,wintering,VBG,Not verb
+4528,winterkilling,VBG,Not verb
+4529,winterling,VBG,Not verb
+4530,wiredancing,VBG,Not verb
+4531,wiremaking,VBG,Not verb
+4532,wirepulling,VBG,Not verb
+4533,wireworking,VBG,Not verb
+4534,wiring,VBG,Not verb
+4535,wirling,VBG,"  소용돌이 치는, 선회[회전]하는.  "
+4536,wiseling,VBG,Not verb
+4537,wishing,VBG,Not verb
+4538,witchering,VBG,  (사람의) 기를 죽이는[위축시키는]  
+4539,witching,VBG,"  마력이 있는, 매혹적인; 마녀가 횡행하는      2.    [명사]  마법, 마술; 매력, 매혹  "
+4540,withdrawing,VBG,"  (뒤로) 물러나다, 철수하다; 빼내다, 철수시키다 (=pull out)      2.    "
+4541,withering,VBG,  (사람의) 기를 죽이는[위축시키는]  
+4542,witling,VBG,Not verb
+4543,wittering,VBG,[英 비격식 보통 못마땅함]  씨부렁거리다  
+4544,witting,VBG,"[드물게]  알면서 하는, 고의의, 짐짓 …하는      2.    [명사][방언]  지식  "
+4545,wobbling,VBG,"  흔들거리는, 흔들거리게[비틀거리게] 하는  "
+4546,wolfling,VBG,Not verb
+4547,wondering,VBG,"  [A] 이상히 여기는, 이상한 듯한, 경탄하는  "
+4548,wondermongering,VBG,Not verb
+4549,woning,VBG,Not verb
+4550,wonning,VBG,Not verb
+4551,wonting,VBG,Not verb
+4552,woodcutting,VBG,Not verb
+4553,wooding,VBG,Not verb
+4554,woodworking,VBG,Not verb
+4555,wooing,VBG,"  구애하는, 매혹적인  "
+4556,woolding,VBG,Not verb
+4557,woolgathering,VBG,"  방심한, 얼빠진, 멍한      2.    [명사]  방심, 부질없는 공상      3.    [명사]  양털 걷어 모으기  "
+4558,woolgrowing,VBG,Not verb
+4559,woolshearing,VBG,Not verb
+4560,woolsorting,VBG,Not verb
+4561,woolworking,VBG,Not verb
+4562,wordbuilding,VBG,Not verb
+4563,wording,VBG,Not verb
+4564,wordmaking,VBG,Not verb
+4565,wordmongering,VBG,Not verb
+4566,working,VBG,Not verb
+4567,worldling,VBG,Not verb
+4568,worldmaking,VBG,Not verb
+4569,worming,VBG,Not verb
+4570,wormling,VBG,Not verb
+4571,worrying,VBG,"  걱정스러운, 걱정되는, 우려되는  "
+4572,worsening,VBG,worsening weather conditions      악화되고 있는 기상 상태  
+4573,wounding,VBG,  마음을 상하게 하는  
+4574,wrappering,VBG,Not verb
+4575,wrapping,VBG,Not verb
+4576,wreathmaking,VBG,Not verb
+4577,wrecking,VBG,  구난[건물 해체] 작업에 종사하는  
+4578,wresting,VBG,Not verb
+4579,wrestling,VBG,Not verb
+4580,wring,VBG,  (빨래를) 짜다      2.    
+4581,writerling,VBG,Not verb
+4582,writhing,VBG,Not verb
+4583,writing,VBG,Not verb
+4584,writmaking,VBG,Not verb
+4585,wrongdoing,VBG,Not verb
+4586,xeroprinting,VBG,Not verb
+4587,yachting,VBG,Not verb
+4588,yanking,VBG,[비격식]  홱 잡아당기다  
+4589,yapping,VBG,  요란하게 짖어 대다      2.    
+4590,yarding,VBG,Not verb
+4591,yawning,VBG,Not verb
+4592,yealing,VBG,Not verb
+4593,yeanling,VBG,"  갓 태어난, 어린  "
+4594,yearling,VBG,Not verb
+4595,yearning,VBG,Not verb
+4596,yearnling,VBG,Not verb
+4597,yeasting,VBG,Not verb
+4598,yelling,VBG,"  소리[고함]치다, 소리 지르다, 외치다      2.    [명사]  고함, 외침      3.    [명사][美]  (스포츠 경기 때 단체로 하는) 응원의 함성  "
+4599,yellowing,VBG,Not verb
+4600,yeorling,VBG,Not verb
+4601,yesterevening,VBG,Not verb
+4602,yestermorning,VBG,Not verb
+4603,yielding,VBG,Not verb
+4604,yokemating,VBG,Not verb
+4605,yoking,VBG,  (마소에게) 멍에를 씌우다[멍에를 씌워 (수레 등에) 매다]      4.    
+4606,youngling,VBG,"  젊은(young, youthful)  "
+4607,yowlring,VBG,  (비통하게) 울부짖다 (=wail)  
+4608,zincing,VBG,Not verb
+4609,zing,VBG,  윙윙[쌩쌩] 소리가 나게 움직이다[움직이게 하다]      2.    
+4610,zipping,VBG,  지퍼를 잠그다[채우다] (→unzip)      4.    
+4611,zoning,VBG,Not verb
+4612,zoografting,VBG,Not verb

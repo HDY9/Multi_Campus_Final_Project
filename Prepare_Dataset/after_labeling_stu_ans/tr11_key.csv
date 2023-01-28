@@ -1,0 +1,982 @@
+,"11. The weather is clear at high pressure, but cloudy at low pressure. Why isn't it clear and cloudy at low pressure? Let's explain in detail using knowledge about the relationship between air pressure and weather. ",airflow vehicle,condensation,insulated expansion,air pressure difference
+0,I don't know.,0,0,0,0
+1,Because the atmosphere rises under low pressure,0,0,0,0
+2,"At high pressure, there is a downward airflow to keep the clouds clear",0,0,0,0
+3,"High pressure lowering airflow, low pressure rising airflow",0,0,0,0
+4,The low pressure is caused by rising air currents,0,0,0,0
+5,"This is because water vapor on the surface evaporates into the sky through rising air currents, forming clouds at low pressures",0,0,0,0
+6,This is because the wind blows from high pressure to low pressure.,0,0,0,0
+7,"At high pressure, a downward airflow occurs, resulting in clear weather without clouds.",0,0,0,0
+8,"This is because rising air currents occur at low pressures, creating clouds well.",0,0,0,0
+9,"""The atmospheric pressure flows from high to low, creating clouds",0,0,0,0
+10,"""",0,0,0,0
+11,"This is because falling air flow is generated at high pressure and clouds cannot be generated in the air, and rising air flow is generated at low pressure and clouds may be generated in the air.",0,0,0,0
+12,This is because clouds can form under low pressure and cause rain.,0,0,0,0
+13,"In the low pressure, a lot of rising air flows occur, so relatively more clouds gather compared to the surrounding area. Therefore, there is a high probability of rain.",0,0,0,0
+14,This is because rising air currents appear in low pressure.,0,0,0,0
+15,"In low pressure, air clumps in many directions form a lot of clouds.",0,0,0,0
+16,It is because clouds form during low pressure.,0,0,0,0
+17,"At low pressure, the air is light and goes up, making it cloudy.",0,0,0,0
+18,The low pressure is because of the heavy rain,0,0,0,0
+19,It is because there are many clouds due to the low pressure.,0,0,0,0
+20,This is because rising air currents occur at high pressures and low pressures.,0,0,0,0
+21,"At high pressure, the weather is clear due to downward airflow, but at low pressure, the weather is cloudy due to upward airflow.",0,0,0,0
+22,"High pressure is a descending air current, so it is clear because there is no cloud",0,0,0,0
+23,"This is because there are no clouds due to the development of rising air currents at high pressures, and a lot of clouds are generated because of the development of falling air currents at low pressures.",0,0,0,0
+24,"The low pressure is clouded by rising air currents. High pressure is a rainy day if there is a cloud due to the downward airflow, and if there is no cloud, it becomes a clear day.",0,0,0,0
+25,"At low pressure, it is cloudy because rising air currents form and water vapor rises and condenses to form clouds.",0,0,0,0
+26,"If the air pressure is high, a downward airflow is generated, so clouds cannot be generated, and if the air pressure is low, an upward airflow is generated and clouds are generated.",0,0,0,0
+27,"Because air travels from high pressure to low pressure, there are many wires such as cold front and warm front in low pressure",0,0,0,0
+28,"The weather is heavily influenced by atmospheric pressure. The base moves from high pressure to low pressure. Therefore, the relatively high-pressure area is clearer than the relatively low-pressure area.",0,0,0,0
+29,Clear due to rising airflow,0,0,0,0
+30,"At low pressure, as air enters from the surroundings, upward airflow occurs in the center, and the rise of air generates clouds, so it is not clear and cloudy.",0,0,0,0
+31,I don't know,0,0,0,0
+32,"Since the air is clear,",0,0,0,0
+33,I don't know,0,0,0,0
+34,I don't know,0,0,0,0
+35,I don't know,0,0,0,0
+36,I don't know,0,0,0,0
+37,I don't know,0,0,0,0
+38,I don't know,0,0,0,0
+39,I don't know!,0,0,0,0
+40,I don't know,0,0,0,0
+41,I don't know.,0,0,0,0
+42,I don't know.,0,0,0,0
+43,I don't know.,0,0,0,0
+44,I don't know.,0,0,0,0
+45,I don't know,0,0,0,0
+46,The reason is that it blocks everything with clouds,0,0,0,0
+47,I don't know,0,0,0,0
+48,I don't know,0,0,0,0
+49,I don't know,0,0,0,0
+50,I don't know,0,0,0,0
+51,In front of the meat when it's low pressure,0,0,0,0
+52,the condition of rain falling rain,0,0,0,0
+53,It's probably because the air pressure is low,0,0,0,0
+54,"This is because the lower the air pressure, the more cloudy the weather is.",0,0,0,0
+55,"This is because the lower the air pressure, the more cloudy the weather is.",0,0,0,0
+56,In front of the meat when it's low pressure,0,0,0,0
+57,"The low pressure causes clouds to rise in the surrounding air. Well, that's what it is, but what is a cloud? It's something that's out of reach, out of touch, out of substance. It's like our dreams, our happiness, those clouds. It only happens when we go up high in the sky.",0,0,0,0
+58,The reason why it's clear and cloudy under low pressure is because of the steam. Because it's full,0,0,0,0
+59,"The weather is cloudy when the air pressure is low, and the weather is good when it is high",0,0,0,0
+60,Because the air pressure is low,0,0,0,0
+61,Because the pressure rises above the sky,0,0,0,0
+62,This is because water vapor gathers due to low air pressure.,0,0,0,0
+63,"If the air pressure is high, the amount of air is high and clear, but if the air pressure is low, the amount of air is low and cloudy.",0,0,0,0
+64,"The air pressure is low, so water vapor gathers",0,0,0,0
+65,at a low air pressure,0,0,0,0
+66,Because it's before it rains,0,0,0,0
+67,I don't know,0,0,0,0
+68,be a stranger to,0,0,0,0
+69,It's low pressure,0,0,0,0
+70,This is because air pressure controls the weather.,0,0,0,0
+71,This is because low pressure cannot eliminate bad weather.,0,0,0,0
+72,Because the air pressure is low,0,0,0,0
+73,The weather is clear when the air pressure rises,0,0,0,0
+74,I don't know...,0,0,0,0
+75,The air pressure is low at low pressure,0,0,0,0
+76,"""High pressure: There are not many clouds.",0,0,0,0
+77,"Low pressure: There is a lot of fog.""",0,0,0,0
+78,"Lower air currents occur under high pressure and upward air currents occur under low pressure. The pressure in the atmosphere decreases as it goes up and down, so the weather is cloudy under low pressure.",0,0,0,0
+79,"If the air pressure is low, the surrounding air will gather",0,0,0,0
+80,Because there's an atmosphere,0,0,0,0
+81,This is because the weather becomes cloudy when the air pressure is lowered.,0,0,0,0
+82,"At high pressure, the air rises and clouds rise sideways",0,0,0,0
+83,I don't remember,0,0,0,0
+84,Because of the fog,0,0,0,0
+85,I don't understand.,0,0,0,0
+86,I don't understand.,0,0,0,0
+87,I don't know,0,0,0,0
+88,"At high pressure, there are not many clouds because the concentration of air is high, but at low pressure, there are many clouds because the concentration is low.",0,0,0,0
+89,I don't know.,0,0,0,0
+90,The air pressure goes up,0,0,0,0
+91,"If the air pressure is low, the air at the bottom rises and the weather becomes cloudy.",0,0,0,0
+92,I don't know.,0,0,0,0
+93,I don't know.,0,0,0,0
+94,This is because there are more clouds as the air pressure decreases.,0,0,0,0
+95,The air pressure is low.I don't know;;;,0,0,0,0
+96,Because the temperatures are different between high and low pressure,0,0,0,0
+97,The weather is cloudy because there are many clouds at low pressure.,0,0,0,0
+98,"I don't know.""The reason why the weather is clear at high pressure is because the clouds go out at low pressure",0,0,0,0
+99,"""Because clouds come into the low pressure.""",0,0,0,0
+100,"When it is low pressure, clouds come down and it is cloudy, and high pressure seems to be dry because of the high air pressure.",0,0,0,0
+101,"At high pressures, the weather is more sunny because clouds are less than low pressures.",0,0,0,0
+102,"As the pressure of the air gets better, the water vapor expands, and as it expands, the volume increases, so the weather is cloudy at low pressure than at high pressure",0,0,0,0
+103,"Low pressure is literally when air pressure, air pressure is low. When the pressure of the air is low, the water vapor expands as it goes up into the sky, which naturally leads to more clouds.",0,0,0,0
+104,I don't know.,0,0,0,0
+105,??105.0,0,0,0,0
+106,The clouds came down during the low pressure.,0,0,0,0
+107,I don't know,0,0,0,0
+108,High pressure and low pressure are different,0,0,0,0
+109,I don't know.,0,0,0,0
+110,Clouds or fogs come down from above,0,0,0,0
+111,Because the air pressure is low,0,0,0,0
+112,h,0,0,0,0
+113,High pressure has a lot of air pressure and low pressure has a lot of air pressure,0,0,0,0
+114,I'm in a low pressure,0,0,0,0
+115,I don't know,0,0,0,0
+116,I don't know~,0,0,0,0
+117,I don't know,0,0,0,0
+118,Because the air pressure is low,0,0,0,0
+119,The high pressure is clear and the weather is cloudy over there,0,0,0,0
+120,very well,0,0,0,0
+121,I don't know,0,0,0,0
+122,Because the air comes with the clouds,0,0,0,0
+123,"The low pressure is, uh, cheap",0,0,0,0
+124,I don't know.,0,0,0,0
+125,High pressure has a lot of air pressure and low pressure doesn't have a lot of air pressure,0,0,0,0
+126,"If the air pressure is high, it's heavy, and the air comes down and collides with the earth's crust and spreads",0,0,0,0
+127,"The meat is good, but it's not good there",0,0,0,0
+128,at a high pressure,0,0,0,0
+129,??129.0,0,0,0,0
+130,Weather news,0,0,0,0
+131,because the air pressure is different,0,0,0,0
+132,I don't know.,0,0,0,0
+133,It's far away,0,0,0,0
+134,(Laughing),0,0,0,0
+135,"The air pressure is high and low, so you can see whether it rains or not",0,0,0,0
+136,I don't know.,0,0,0,0
+137,It's because it's high and low pressure,0,0,0,0
+138,There's not a lot of air,0,0,0,0
+139,I don't know.,0,0,0,0
+140,I don't know.,0,0,0,0
+141,This is because the air pressure is low.,0,0,0,0
+142,The weather is cloudy at low pressure because of the low atmospheric pressure.,0,0,0,0
+143,Because the air is not good,0,0,0,0
+144,Because there's a lot of steam,0,0,0,0
+145,I don't know,0,0,0,0
+146,I don't know.,0,0,0,0
+147,Enemy,0,0,0,0
+148,"There is a lot of air at high pressures, and there is less air at low pressure.",0,0,0,0
+149,Clouds increase as the air goes up.,0,0,0,0
+150,.,0,0,0,0
+151,"At the center of the low pressure, air containing water vapor rises upward, and as the temperature of the air decreases, the water vapor condenses to form clouds. Therefore, the weather can be cloudy, rain or snow.",0,0,0,0
+152,I don't know.,0,0,0,0
+153,The weather is cloudy because of the low pressure,0,0,0,0
+154,I don't know.,0,0,0,0
+155,"At the center of the low pressure, air containing water vapor rises upward, and as the temperature of the air decreases, the water vapor condenses to form clouds. Therefore, the weather can be cloudy, rain or snow",0,0,0,0
+156,"At the center of the low pressure, air containing water vapor rises upward, and as the temperature of the air decreases, the water vapor condenses to form clouds. Therefore, the weather can be cloudy, rain or snow.",0,0,0,0
+157,I don't know.,0,0,0,0
+158,"At low pressure, the air rises and clouds form",0,0,0,0
+159,"At the center of the low pressure, air containing water vapor rises upward, and as the temperature of the air decreases, the water vapor condenses to form clouds. Therefore, the weather can be cloudy, rain or snow.",0,0,0,0
+160,Umm,0,0,0,0
+161,It depends on the air pressure,0,0,0,0
+162,This is because the air pressure itself is low.,0,0,0,0
+163,c??163.0,0,0,0,0
+164,It's blurry,0,0,0,0
+165,"At the center of the low pressure, air containing water vapor rises upward, and as the temperature of the air decreases, the water vapor condenses and clouds. Therefore, the weather can be cloudy, rain or snow",0,0,0,0
+166,This is because the low pressure rises and creates clouds,0,0,0,0
+167,This is because clouds are formed as the low pressure rises,0,0,0,0
+168,"The weather may be cloudy, rain or snow.",0,0,0,0
+169,.,0,0,0,0
+170,"When the air pressure is low, there is nothing pressing the air, so water floats",0,0,0,0
+171,I don't understand.,0,0,0,0
+172,"At the center of the low pressure, air containing water vapor rises upward, and as the temperature of the air decreases, the water vapor condenses to form clouds. Therefore, the weather can be cloudy, rain or snow.",0,0,0,0
+173,"In the high pressure, the atmosphere sinks down and the low pressure rises upward, creating a lot of clouds, so the high pressure is sunny and the low pressure is cloudy.",0,0,0,0
+174,"At the center of the low pressure, air containing water vapor rises upward, and as the temperature of the air decreases, the water vapor condenses to form clouds.",0,0,0,0
+175,"Because the wind goes from high pressure to low pressure, low pressure causes clouds by evaporating water.",0,0,0,0
+176,"At the center of the low pressure, air containing water vapor rises upward, and as the temperature of the air decreases, the water vapor condenses to form clouds.",0,0,0,0
+177,"The weather is cloudy, rain or snow.",0,0,0,0
+178,"At the center of the low pressure, air containing water vapor rises upward, and as the temperature of the air decreases, the water vapor condenses to form clouds. More clouds cloud over.",0,0,0,0
+179,This is because air at high pressure moves from high pressure to low pressure because air at low pressure descends and air at low pressure rises.,0,0,0,0
+180,This is because air moves from high pressure to low pressure.,0,0,0,0
+181,Because the clouds gather in front of the meat,0,0,0,0
+182,The steam condenses and it rains and snows,0,0,0,0
+183,I don't know,0,0,0,0
+184,because of the low air pressure,0,0,0,0
+185,There are a lot of clouds,0,0,0,0
+186,I don't know.,0,0,0,0
+187,I don't know.,0,0,0,0
+188,It's cold because the temperature is low,0,0,0,0
+189,The weather is cloudy because there are many clouds when the air pressure is lowered,0,0,0,0
+190,I don't know.,0,0,0,0
+191,I don't know,0,0,0,0
+192,"During the low pressure, there was no cloud",0,0,0,0
+193,The low pressure is down,0,0,0,0
+194,"High pressure is clear due to high temperatures, but low pressure is cloudy due to low temperatures.",0,0,0,0
+195,It's because it's humid if the air pressure is low,0,0,0,0
+196,"Because when it's low pressure, it's humid",0,0,0,0
+197,I don't know.It's low pressure,0,0,0,0
+198,Because the atmospheric pressure is lowered.,0,0,0,0
+199,I don't know!,0,0,0,0
+200,"It evaporates less during high pressure, but it evaporates a lot during low pressure",0,0,0,0
+201,Clouds come down,0,0,0,0
+202,.,0,0,0,0
+203,I don't know.,0,0,0,0
+204,"Low pressure is low, so there is a high probability of rain",0,0,0,0
+205,I don't know,0,0,0,0
+206,I don't know.,0,0,0,0
+207,Moisture goes down from high pressure to low pressure,0,0,0,0
+208,"At high pressure, the air pressure is lowered by moisture in the air",0,0,0,0
+209,I don't know,0,0,0,0
+210,I have no idea.,0,0,0,0
+211,Air pressure is the pressure of air and the weather doesn't know when it will change,0,0,0,0
+212,"At low pressure, the air is low, so the clouds look cloudy, and at high pressure, the air is high, so the clouds seem to be high and invisible.",0,0,0,0
+213,"High pressure is clear because the air above goes down and the clouds are pushed out by the wind, but low pressure causes the air below to go up and the clouds to flock.",0,0,0,0
+214,"The low pressure seems to be clear because the air is low, so it rains, and the air is high at high pressure.",0,0,0,0
+215,I'm not sure.,0,0,0,0
+216,Because the air pressure is low,0,0,0,0
+217,"If it's high pressure, it's on the clouds, so things like fine dust can't penetrate the clouds, so the high pressure is clear and the low pressure is cloudy",0,0,0,0
+218,""" The barometer is low (weak in the air.), the air is a cloudy and rain clouds go up.",0,0,0,0
+219,,0,0,0,0
+220,"The barometer is high air pressure if it is relatively clean and make it down. In other words, higher air pressure is low, the rainy and sunny. The typhoon is a fire in a very low atmospheric pressure bad weather is what happens. """,0,0,0,0
+221,I don't know.,0,0,0,0
+222,Lack of time.,0,0,0,0
+223,The barometer is lower than around.,0,0,0,0
+224,I don't know.,0,0,0,0
+225,?,0,0,0,0
+226,Literally means low pressure weather is low.,0,0,0,0
+227,From weather,0,0,0,0
+228,From weather,0,0,0,0
+229,I don't know.,0,0,0,0
+230,..,0,0,0,0
+231,Cold,0,0,0,0
+232,Black smoke rose through.,0,0,0,0
+233,"Twat our m??? ã??keotong, but we absolutely have to neokuankeo, but we absolutely have to neopum nr ?n his wife by I mueot ?r??hanchwaneo ?ã nacheo ??nungneoneot ??chaneoongachwaneolchwa to Beijing underworld ---------- ________________________ ------------",0,0,0,0
+234,"The weather is different from region to region, as well.",0,0,0,0
+235,Don't know,0,0,0,0
+236,I don't know.,0,0,0,0
+237,I'm not sure.,0,0,0,0
+238,Press down lots of clouds in the cyclone,0,0,0,0
+239,It's down there,0,0,0,0
+240,I don't know,0,0,0,0
+241,It's foggy under low pressure,0,0,0,0
+242,There's a lot of fine dust,0,0,0,0
+243,I have no idea.,0,0,0,0
+244,I doubt it.,0,0,0,0
+245,Clouds can't come together under high pressure,0,0,0,0
+246,I have no idea.,0,0,0,0
+247,Clouds can't gather if the air pressure is high,0,0,0,0
+248,?,0,0,0,0
+249,........!,0,0,0,0
+250,"If it's low pressure, it's gloomy.",0,0,0,0
+251,Dark clouds form well under low pressure,0,0,0,0
+252,People don't have a clear face under low pressure,0,0,0,0
+253,"I think the word ""low pressure"" makes you look depressed and drained",0,0,0,0
+254,Let's not involve humans in barometric pressure,0,0,0,0
+255,I don't know. It would be great if it was sunny every day.,0,0,0,0
+256,High pressure meat...Delicious meat,0,0,0,0
+257,"When the air pressure is low, the surrounding air gathers to fill the air pressure, so it is cloudy and windy.",0,0,0,0
+258,I don't know why it's cloudy,0,0,0,0
+259,The low pressure is near the sea,0,0,0,0
+260,I don't know,0,0,0,0
+261,I don't know,0,0,0,0
+262,Clouds gather under low pressure,0,0,0,0
+263,I don't know.,0,0,0,0
+264,This is because the low pressure contains a lot of water vapor.,0,0,0,0
+265,This is because low air pressure is unstable.,0,0,0,0
+266,be due to low air pressure,0,0,0,0
+267,Because high pressure is high pressure and low pressure is low pressure,0,0,0,0
+268,This is because high pressure is a downward airflow and low pressure is an upward airflow.,0,0,0,0
+269,I don't know,0,0,0,0
+270,I don't know,0,0,0,0
+271,I don't know.,0,0,0,0
+272,I don't know.,0,0,0,0
+273,Mogg??273.0,0,0,0,0
+274,I don't know.,0,0,0,0
+275,Clouds are made well because the wind blows from high pressure to low pressure.,0,0,0,0
+276,The low pressure causes the air to rise,0,0,0,0
+277,The wind blew from high pressure to low pressure,0,0,0,0
+278,I don't know,0,0,0,0
+279,Why?,0,0,0,0
+280,It creates a cloud,0,0,0,0
+281,"At low pressure, air rises and condenses at high altitudes.",0,0,0,0
+282,This is because rising air flow occurs and water vapor inside the air condenses.,0,0,0,0
+283,The low pressure is cloudy with the condensation of water vapor due to the rising air current.,0,1,0,0
+284,"The weather is cloudy because rising air currents occur at low pressure, which makes the copper better formed.",0,0,0,0
+285,"This is because low air pressure increases air density and increases pressure, reducing saturated water vapor.",0,0,0,0
+286,"Because rising air currents occur at low pressures, clouds are generated and cloudy weather is created.",0,0,0,0
+287,"The low pressure is an upward airflow, so a lot of cloud generation occurs through insulation expansion.",0,0,0,0
+288,"When the air pressure is low, the air in the area rises and condenses, so clouds are formed and cloudy.",0,0,0,0
+289,Clouds are created by rising air currents.,0,0,0,0
+290,The air rises upward and condenses the water vapor into a cloud.,0,0,0,0
+291,The air is easy to rise and clouds are formed easily.,0,0,0,0
+292,"The low pressure creates a rising air current, so clouds are created by adiabatic expansion.",0,0,0,0
+293,"Air rises from the center, creating clouds",0,0,0,0
+294,The rising air current condenses the water vapor.,0,0,0,0
+295,"At low pressure, the air is easy to rise and clouds are easy to form.",0,0,0,0
+296,SulphurIt's low pressure,0,0,0,0
+297,I don't know,0,0,0,0
+298,It's cloudy,0,0,0,0
+299,"If it's under pressure, there will be clouds",0,0,0,0
+300,This is because air gathers from the surrounding atmosphere when the air pressure is low.,0,0,0,0
+301,I don't know.,0,0,0,0
+302,"As the air goes up, the water vapor goes up, creating clouds, and therefore cloudy weather",0,0,0,0
+303,This is because the pressure of the gas is high at high pressure and the pressure is low at low pressure.,0,0,0,0
+304,"At high pressure, the gas pressure is high, and at low pressure, the air pressure is low",0,0,0,0
+305,"At high pressure, the air pressure presses the clouds, so the weather is clear, and at low pressure, the air pressure decreases and the clouds become larger.",0,0,0,0
+306,"The weather is clear because the sun is shining in the meat lab, but the low pressure is low, so the weather is cloudy",0,0,0,0
+307,"The weather is clear because the high pressure is sunny, but the low pressure is cloudy because the temperature is low.",0,0,0,0
+308,"The high pressure is sunny, so the weather is clear, but the low pressure is low, so the weather is cloudy",0,0,0,0
+309,"The air under pressure gradually expands and the temperature also decreases. At a certain level, clouds are formed by reaching saturation. Clouds also increase the chance of rain.",0,0,0,0
+310,"This is because as soon as the high pressure passes, the low pressure develops and the weather becomes clear or cloudy periodically",0,0,0,0
+311,"""At low pressures, water vapor condenses into clouds, so it rains or becomes cloudy",0,0,0,0
+312,"The weather is clear because it is an environment where water vapor condenses and becomes difficult to form clouds at high pressure.""",0,0,0,0
+313,"At low pressure, the air rises, increasing volume and increasing humidity, making it cloudy.",0,0,0,0
+314,"When the temperature of the air decreases during low pressure, water vapor condenses to form clouds, causing the weather to become cloudy, rain or snow, and the air above it descends from the center of the high pressure.",0,0,0,0
+315,"If the air pressure is low, the cloud is pushed down close to the ground. The fog created by it makes the weather cloudy!",0,0,0,0
+316,"High pressure is sunny, so the weather is clear, but low pressure is cloudy because the temperature is low.",0,0,0,0
+317,Don't know,0,0,0,0
+318,"Low pressure makes clouds cloudy. In the high pressure zone, there is a downward air current, so the weather is clear.",0,0,0,0
+319,"The weather is clear because the high pressure is sunny, but the low pressure is cloudy because the temperature is low.",0,0,0,0
+320,Low pressure causes clouds to flow. The weather is clear because there is a downward air current in the high atmosphere,0,0,0,0
+321,"High pressure goes to places where air pressure is higher than the surrounding area, and the air becomes dry, so it generally shows clear weather.",0,0,0,0
+322,,0,0,0,0
+323,,0,0,0,0
+324,Think of low pressure as the opposite of high pressure.,0,0,0,0
+325,"""",0,0,0,0
+326,"The low pressure is cloudy with more clouds, and the high pressure has a downward airflow, so the weather is clear.",0,0,0,0
+327,"""",0,0,0,0
+328,"""Low atmospheric pressure is due to the active upward movement of air due to rising air currents, which creates favorable conditions for cloud formation, creating cloudy and rainy weather",0,0,0,0
+329,"""",0,0,0,0
+330,"At high pressures, they try to disperse water vapor, so there's not much cloud, but at low pressures, it's the opposite",0,0,0,0
+331,This is because air is sent up and condensed from the center of the low pressure.,0,0,0,0
+332,"When the temperature of air decreases at low pressure, water vapor condenses to form clouds, making the weather cloudy, rain or snow, and when high pressure, clear weather appears as the air above comes down from the center of high pressure.",0,0,0,0
+333,"""At high pressures, wind blows clockwise in the Northern Hemisphere, creating a downward airflow",0,0,0,0
+334,"When clouds come down to the ground, they disappear because they heat up",0,0,0,0
+335,"On the other hand, low pressure is because the wind blows counterclockwise in the Northern Hemisphere",0,0,0,0
+336,Clouds increase and become quiet due to rising air currents,0,0,0,0
+337,"""",0,0,0,0
+338,"At high pressure, air cannot rise and scatters, preventing cloud generation, leading to clear weather in areas of high pressure, and low pressure creates good conditions for clouds to generate, creating cloudy and rainy weather.",0,0,0,0
+339,"In the high pressure, the wind blows from the center of the high atmospheric pressure to the low area, and the wind descends from the top to replenish, and the air is insulated and compressed to increase the temperature, which makes the air dry, showing clear weather. At low pressure, the air pressure is lower than the surrounding air pressure, and the wind blows from the high atmosphere to the center of the low air pressure. As the air rises and expands, the temperature decreases and becomes saturated",0,0,0,0
+340,Because there are a lot of clouds in the low pressure,0,0,0,0
+341,"""Air moves from high to low pressure because it moves from high to low pressure, which creates a downward airflow at high pressure, resulting in less clouds and a downward airflow at low pressure, which causes water vapor to rise into the sky",0,0,0,0
+342,"The steam that rises into the sky condenses, becomes clouds, and the weather becomes cloudy.""",0,0,0,0
+343,I don't know.,0,0,0,0
+344,??344.0,0,0,0,0
+345,I don't know,0,0,0,0
+346,It's low pressure,0,0,0,0
+347,I don't know.,0,0,0,0
+348,I don't understand.,0,0,0,0
+349,I don't understand.,0,0,0,0
+350,I don't know,0,0,0,0
+351,M and D,0,0,0,0
+352,I don't know,0,0,0,0
+353,I don't understand.,0,0,0,0
+354,I don't understand.,0,0,0,0
+355,I don't know,0,0,0,0
+356,I don't know.,0,0,0,0
+357,Gravity,0,0,0,0
+358,I don't know.,0,0,0,0
+359,I don't understand.,0,0,0,0
+360,"At low pressure, there is a lot of water vapor in the air, so it looks cloudy, and at high pressure, it is average, so it is not cloudy.",0,0,0,0
+361,I don't understand.,0,0,0,0
+362,I don't know.,0,0,0,0
+363,I don't know,0,0,0,0
+364,I don't know.,0,0,0,0
+365,Don't know,0,0,0,0
+366,I don't understand.,0,0,0,0
+367,I don't know,0,0,0,0
+368,I don't know,0,0,0,0
+369,I don't know,0,0,0,0
+370,Low air pressure creates a lot of clouds and cloudy weather,0,0,0,0
+371,"The weather is upsetting, I don't know",0,0,0,0
+372,M and D,0,0,0,0
+373,I don't understand.,0,0,0,0
+374,Low pressure is low and high pressure is high,0,0,0,0
+375,"The weather is clear because water evaporation does not occur well at high pressure. On the other hand, low pressure is cloudy because water evaporation easily occurs.",0,0,0,0
+376,"In low-pressure areas, rising air currents occur due to low air pressure, making it easy for clouds to form, making it easy for cloudy weather to appear.",0,0,0,0
+377,Explain with answer number 9!,0,0,0,0
+378,"It's because it's low pressure. You don't feel good when your energy is low, right? It's the same as that",0,0,0,0
+379,"In the low pressure, the weather is cloudy due to a rise in temperature, and in the high pressure, the weather is clear because the temperature decreases and no cloud is generated.",0,0,0,0
+380,"Since the air pressure is low and the wind blows in that direction, it will be cloudy with a lot of clouds.",0,0,0,0
+381,"In the low pressure, clouds are formed due to rising temperatures, and in the high pressure, the weather is sunny because there are no clouds due to falling temperatures.",0,0,0,0
+382,"The low pressure produces an upward airflow, which lowers the pressure and brings the surrounding atmosphere together to fill the empty air. That would create a lot of clouds because it was windy and an upward airflow. That's why it's cloudy. In the case of high pressure, it is the opposite because there is a downward airflow.",0,0,0,0
+383,"Rising air currents occur in low-pressure areas, so clouds form well and rain frequently. After all, the low-pressure area is mainly cloudy with frequent rain.",0,0,0,0
+384,"The low pressure causes the air to rise with rising air currents, forming insulation expansion, creating many clouds. Therefore, the weather is cloudy in the weather is cloudy.",0,0,0,0
+385,"Low pressure causes humid air on the ground to go up because the air is trying to go up. Therefore, it is cloudy because clouds are easily formed.",0,0,0,0
+386,This is because rising air currents develop.,0,0,0,0
+387,"Low pressure refers to a state in which air is not near the surface but rises to the sky. Because of this, clouds are formed and it rains a lot, so it is humid, and the weather is cloudy.",0,0,0,0
+388,This is because clouds form in the center of the low pressure.,0,0,0,0
+389,I like meat,0,0,0,0
+390,There are a lot of rainy days in the low pressure,0,0,0,0
+391,There are a lot of rainy days in low pressure,0,0,0,0
+392,I don't know...,0,0,0,0
+393,I don't know,0,0,0,0
+394,That's the difference between high and low pressure,0,0,0,0
+395,The air is compressed under low pressureI don't know,0,0,0,0
+396,It's 8?ã??396.0,0,0,0,0
+397,I don't know,0,0,0,0
+398,I don't know,0,0,0,0
+399,Low pressure is low,0,0,0,0
+400,I don't know.,0,0,0,0
+401,?¹ã»?ã?±ã?ã¹,0,0,0,0
+402,"If the air pressure is low, there will be a lot of clouds",0,0,0,0
+403,Country.,0,0,0,0
+404,I don't know,0,0,0,0
+405,High pressure has a lot of air pressure and low pressure has a lot of air pressure,0,0,0,0
+406,The earth is amazing,0,0,0,0
+407,I don't know,0,0,0,0
+408,M and D,0,0,0,0
+409,It is because the air is high at high pressure and the air is low at low pressure,0,0,0,0
+410,Because the air pressure is all different,0,0,0,0
+411,I don't know,0,0,0,0
+412,Because the air pressure is low,0,0,0,0
+413,I don't know.,0,0,0,0
+414,"Heat rises high, so the weather is clear under high pressure and cloudy under low pressure.",0,0,0,0
+415,I don't know,0,0,0,0
+416,"Because there's no air at high pressure,",0,0,0,0
+417,I don't know.,0,0,0,0
+418,"There's not much air at high pressure, and there's a lot of air at low pressure",0,0,0,0
+419,Because of the difference in air pressure.,0,0,0,0
+420,Because the air pressure is low,0,0,0,0
+421,"""The Air""",0,0,0,0
+422,"""",0,0,0,0
+423,Low pressure is bad because there is less air than caution,0,0,0,0
+424,Let's play games now,0,0,0,0
+425,high pressure,0,0,0,0
+426,I don't know.,0,0,0,0
+427,There is no cloud at high pressure and the air is dark at that time,0,0,0,0
+428,High pressure will be good weather because air goes up and low pressure will be bad weather because clouds come down.,0,0,0,0
+429,The low pressure is not good,0,0,0,0
+430,The front of the meat is the gate where the fresh air from above comes in,0,0,0,0
+431,"The low pressure creates clouds for the air below to go up, and the high pressure is good weather for the air above to go down",0,0,0,0
+432,Because a ball of air comes down from the sky to the ground,0,0,0,0
+433,"At low pressure, the air above comes down.",0,0,0,0
+434,The low pressure is cloudy because the air underwater is dry,0,0,0,0
+435,"At the center of the low pressure, air containing water vapor rises upward, and as the temperature of the air decreases, the water vapor condenses to form clouds.",0,0,0,0
+436,The low pressure is cloudy because the air vapor is dry.,0,0,0,0
+437,The steam goes up,0,0,0,0
+438,There's a cloud in the low pressure.,0,0,0,0
+439,"Low pressure has less air than ambient air, so it is cloudy and cloudy",0,0,0,0
+440,Clouds go up in the low pressure,0,0,0,0
+441,I don't know,0,0,0,0
+442,High pressure is because the air above comes down,0,0,0,0
+443,Let's not involve humans in barometric pressure,0,0,0,0
+444,a rising air current,0,0,0,0
+445,.,0,0,0,0
+446,This is because rising air currents occur in low pressure.,0,0,0,0
+447,"Rising air currents form near the low pressure, which is good for forming clouds",0,0,0,0
+448,High> That entropy,0,0,0,0
+449,I don't know.,0,0,0,0
+450,This is because rising air currents occur at high pressures and falling air currents occur at low pressures,0,0,0,0
+451,"High pressure is literally high, resulting in a downward airflow. So the weather is clear under high pressure. Opposite of low pressure",0,0,0,0
+452,The low pressure creates a rising air current that creates clouds,0,0,0,0
+453,I don't know,0,0,0,0
+454,I don't know.,0,0,0,0
+455,I don't know.,0,0,0,0
+456,I don't know,0,0,0,0
+457,I don't know.,0,0,0,0
+458,I don't know.,0,0,0,0
+459,"This is because the lower the air pressure, the less gravity, and the more clouds float.",0,0,0,0
+460,I don't understand.,0,0,0,0
+461,I don't know,0,0,0,0
+462,I don't know.,0,0,0,0
+463,I don't know.,0,0,0,0
+464,I don't know.,0,0,0,0
+465,I don't know.,0,0,0,0
+466,"The higher the pressure, the higher the air mass and the lower the gas pressure",0,0,0,0
+467,I don't understand.,0,0,0,0
+468,"Since the low pressure is low, the water vapor at the bottom rises upward and is cloudy day by day.",0,0,0,0
+469,This is because clouds are large in low pressure.,0,0,0,0
+470,"At low pressure, the air goes down",0,0,0,0
+471,I don't know,0,0,0,0
+472,I don't know.,0,0,0,0
+473,I don't know.,0,0,0,0
+474,I don't know,0,0,0,0
+475,I don't know.,0,0,0,0
+476,.,0,0,0,0
+477,"Since the air goes up,",0,0,0,0
+478,There's a lot of clouds in the low pressure,0,0,0,0
+479,"If it's a low pressure, there's a cloud.",0,0,0,0
+480,There are many clouds in the low pressure,0,0,0,0
+481,I don't know.,0,0,0,0
+482,The air rises to form clouds,0,0,0,0
+483,I don't know.,0,0,0,0
+484,It is because there is no cloud at high pressure and clouds form well at low pressure,0,0,0,0
+485,"Clouds are difficult to form when there is a downward airflow, and clouds are likely to form when there is an upward airflow like a low pressure.",0,0,0,0
+486,I don't know.,0,0,0,0
+487,"The lower the pressure, the higher the air goes",0,0,0,0
+488,This is because clouds form at a relatively low pressure.,0,0,0,0
+489,"Low pressure is low, so air rises to create clouds, but clouds are cloudy and high pressure is the opposite.",0,0,0,0
+490,"At low pressure, the air rises and cools, creating clouds",0,0,0,0
+491,I don't know.,0,0,0,0
+492,I don't know.,0,0,0,0
+493,"At low pressure, the temperature is low and the temperature is cold",0,0,0,0
+494,"I don't know.At low pressure, the air rises because the air cools.",0,0,0,0
+495,"At low pressure, the air rises and cools, making the weather cloudy.",0,0,0,0
+496,M and D,0,0,0,0
+497,None.,0,0,0,0
+498,It's low pressure,0,0,0,0
+499,I don't know.,0,0,0,0
+500,"This is because rising air currents appear at low pressure, so clouds go up.",0,0,0,0
+501,"When I feel bad, I go to the front of the meat",0,0,0,0
+502,I think the sky is like that because people are not in a good mood at low pressure.,0,0,0,0
+503,I wanted to be cloudy,0,0,0,0
+504,This is because the temperature drops.,0,0,0,0
+505,I don't know this,0,0,0,0
+506,I don't know,0,0,0,0
+507,I don't know.,0,0,0,0
+508,The low pressure is sad,0,0,0,0
+509,I don't know.,0,0,0,0
+510,I'm not sure,0,0,0,0
+511,"When air pressure rises, clouds that cloud the day go down to the ground, making the weather clear, but the weather is cloudy because it is the opposite at low pressure",0,0,0,0
+512,It's because the air pressure is high and the air pressure is low.,0,0,0,0
+513,.,0,0,0,0
+514,blow from high pressure to low pressure,0,0,0,0
+515,It is cold under high pressure and hot under low pressure and it rains a lot.,0,0,0,0
+516,I don't know.,0,0,0,0
+517,I don't know.,0,0,0,0
+518,"This is because falling air currents occur at low pressures, causing rain from clouds.",0,0,0,0
+519,"When the air pressure is low, the air rises to form clouds, making it cloudy and rainy. When the air pressure is high, the air goes down and is relatively clear.",0,0,0,0
+520,That is the case under low pressure.,0,0,0,0
+521,This is because air moves from high pressure to low pressure.,0,0,0,0
+522,I don't know,0,0,0,0
+523,Because the air moves from high to low pressure,0,0,0,0
+524,I don't know.,0,0,0,0
+525,High pressure is due to the occurrence of a downward airflow.,0,0,0,0
+526,It moves from high pressure to low pressure,0,0,0,0
+527,"As the temperature decreases and the amount of water vapor decreases, the dew point is reached and clouds are formed to clouded.",0,0,0,0
+528,I don't know,0,0,0,0
+529,Because the air goes from high pressure to low pressure,0,0,0,0
+530,That's because the steam goes up there.,0,0,0,0
+531,The weather is cloudy because the air pressure is low at low pressure,0,0,0,0
+532,"During the high pressure, there is no cloud because of the low pressure, but during the low pressure, there is a cloud because the wind is blowing from the high pressure",0,0,0,0
+533,Air flows from high pressure to low pressure,0,0,0,0
+534,I feel good in front of the meat and I feel bad in low pressure,0,0,0,0
+535,I don't know.,0,0,0,0
+536,"At low pressures, the weather is cloudy due to the downward airflow",0,0,0,0
+537,I don't understand.,0,0,0,0
+538,Immigration,0,0,0,0
+539,N?¹ã´?ã??539.0,0,0,0,0
+540,I don't know.,0,0,0,0
+541,.,0,0,0,0
+542,M and D,0,0,0,0
+543,the d-hope,0,0,0,0
+544,I have no idea.,0,0,0,0
+545,I don't know.,0,0,0,0
+546,This is because clouds are formed by low pressure.,0,0,0,0
+547,1,0,0,0,0
+548,"Since the air circulates downward in the low pressure, a lot of clouds are generated, so the weather is clear in the low pressure.",0,0,0,0
+549,1,0,0,0,0
+550,"It's ""Mong-lol-R-R",0,0,0,0
+551,"Yes, show, show",0,0,0,0
+552,I don't know,0,0,0,0
+553,"At low pressure, clouds are formed",0,0,0,0
+554,There are a lot of clouds in the low pressure,0,0,0,0
+555,I don't know.,0,0,0,0
+556,Because the air pressure is low,0,0,0,0
+557,I don't know,0,0,0,0
+558,"At low pressure, the air comes down from top to bottom and becomes humid or rainy",0,0,0,0
+559,Clouds form under low pressure,0,0,0,0
+560,"At low pressure, rising air currents are generated to create clouds.",0,0,0,0
+561,This is because the cloud's steam comes down.,0,0,0,0
+562,"In the low pressure, the air rises upward to form clouds, so it rains as the clouds grow and become heavier.",0,0,0,0
+563,"The reason is that during low pressure, the air becomes heavy and keeps going down.The water vapor in it eventually turns into rain or snow, and the weather is bound to get cloudy.",0,0,0,0
+564,I don't know,0,0,0,0
+565,I haven't learned that from science yet,0,0,0,0
+566,I don't know.,0,0,0,0
+567,Since the air pressure is low.,0,0,0,0
+568,"At high pressure, clouds rise to the sky due to a lot of air on the ground, but at low pressure, there is less air on the ground, so clouds come down. Therefore, it will rain.",0,0,0,0
+569,I don't know,0,0,0,0
+570,I don't know.,0,0,0,0
+571,the heart of God,0,0,0,0
+572,I don't know.,0,0,0,0
+573,I don't know.,0,0,0,0
+574,The weather is low,0,0,0,0
+575,...,0,0,0,0
+576,.....................,0,0,0,0
+577,I don't know,0,0,0,0
+578,"It's high during high-five, but it's hard to go down during the high-five",0,0,0,0
+579,I don't know,0,0,0,0
+580,It's low pressure,0,0,0,0
+581,I don't know.,0,0,0,0
+582,I don't know.,0,0,0,0
+583,I don't know.,0,0,0,0
+584,I don't know.,0,0,0,0
+585,"At low pressure, the air pressure is low, so the weather is cloudy because the air goes down and the wind blows or falls",0,0,0,0
+586,I'm turning it off,0,0,0,0
+587,There are a lot of clouds,0,0,0,0
+588,"If the air pressure is high, the weather is clear",0,0,0,0
+589,Clouds are gathering in the low-pressure system,0,0,0,0
+590,"I learned it, but I forgot",0,0,0,0
+591,Just eider,0,0,0,0
+592,I don't understand.,0,0,0,0
+593,The low pressure makes me feel worseBecause the air pressure is low,0,0,0,0
+594,I don't know.,0,0,0,0
+595,I don't know.,0,0,0,0
+596,"I want to eat meat, but I don't want to eat there",0,0,0,0
+597,I'm a slim and sexy bunny,0,0,0,0
+598,It's low pressure,0,0,0,0
+599,"""The weather is not good if the air pressure is low, and the weather is good if the air pressure is high",0,0,0,0
+600,"""",0,0,0,0
+601,It's because of the low pressure,0,0,0,0
+602,I don't understand.,0,0,0,0
+603,"It is because the low pressure has a lot of water, so it creates a lot of clouds",0,0,0,0
+604,I don't know because I don't have enough knowledge.,0,0,0,0
+605,I really don't know.,0,0,0,0
+606,Because cloud lights are produced a lot in low pressure.,0,0,0,0
+607,It is cloudy under high pressure,0,0,0,0
+608,"When the air pressure is lowered, the heat rises, creating clouds, and the weather becomes cloudy",0,0,0,0
+609,Clouds are gathering,0,0,0,0
+610,Air moves from high pressure to low pressure,0,0,0,0
+611,"The higher the pressure, the worse the weather is",0,0,0,0
+612,I don't know,0,0,0,0
+613,There's a fog,0,0,0,0
+614,"The higher the pressure, the worse the weather is",0,0,0,0
+615,This is because the air rises to form clouds and the weather becomes cloudy.,0,0,0,0
+616,"At low pressure, the air goes up, clouds gather, and the weather becomes cloudy",0,0,0,0
+617,"During low pressure, the air rises, clouds gather, and the weather becomes cloudy",0,0,0,0
+618,"At low pressure, the air goes up and the weather becomes cloudy.",0,0,0,0
+619,This is because water vapor rises at low pressure and creates clouds,0,0,0,0
+620,"At low pressure, the air rises to become clouds, making the weather cloudy",0,0,0,0
+621,"At low pressure, the weather becomes cloudy because the air rises to become clouds.",0,0,0,0
+622,The wind moves from high pressure to low pressure,0,0,0,0
+623,"Rising air currents occur in low pressure, causing rain in the red clouds",0,0,0,0
+624,"This is because the air pressure is low and the upward airflow is formed, resulting in clouds",0,0,0,0
+625,"At high pressure, a downward airflow is formed and air is spread around, while at low pressure, an upward airflow is formed to create a cumulative cloud, making the weather cloudy.",0,0,0,0
+626,The high pressure is due to the downstream air pressure and the low pressure is due to the upflow air pressure.,0,0,0,0
+627,"This is because the lower the air pressure, the more cloudy it becomes.",0,0,0,0
+628,Weather changes are observed because clouds are created.,0,0,0,0
+629,"Since downward airflow occurs at high pressures and upward airflow occurs at low pressures, the weather becomes cloudy as water vapor forms clouds along the upward airflow.",0,0,0,0
+630,I don't know.,0,0,0,0
+631,"At low pressure, rising air currents cloud the weather.",0,0,0,0
+632,"Clouds must be formed first, and clouds are formed because the mass of air expands and cools, and the water vapor mixed in it becomes droplets.",0,0,0,0
+633,"Air pressure is low, so the air rises and the weather becomes cloudy.",0,0,0,0
+634,It's because I feel sad,0,0,0,0
+635,It's because of the downward airflow.,0,0,0,0
+636,"It is affected by a downward airflow at low pressure and an upward airflow at high pressure, and is affected by a wire problem`",0,0,0,0
+637,Why! The wind blows downward at low pressure.,0,0,0,0
+638,"When low pressure develops, the weather is cloudy because rising air currents develop together and clouds and thunderstorms are well generated.",0,0,0,0
+639,This is because upward airflow occurs.,0,0,0,0
+640,That's true,0,0,0,0
+641,The weather is cloudy because of the downward air current,0,0,0,0
+642,"At high pressure, a descending airflow is formed and air is spread around, while at low pressure, an ascending airflow is formed to generate red clouds, so the weather becomes cloudy.",0,0,0,0
+643,It's because of the rising air currents.,0,0,0,0
+644,"Because the wind moves from high pressure to low pressure,",0,0,0,0
+645,Clouds gather at low pressure because the wind blows from high pressure to low pressure.,0,0,0,0
+646,G and O,0,0,0,0
+647,I don't know.,0,0,0,0
+648,"This is because if the air pressure is low, the number of air is small, so there is a lot of wind.",0,0,0,0
+649,"This is because rising air currents occur in the low pressure, forming clouds.",0,0,0,0
+650,I don't know.,0,0,0,0
+651,The low pressure produces clouds and the weather flows because of rising air currents,0,0,0,0
+652,"High pressure is an area where air is pushed around, and low pressure is an area where air is pushed around. Therefore, high pressure maintains clear weather because air is continuously discharged outside, but low pressure keeps air from the surrounding area and stays without air coming in and going out, so the air from the surrounding area is compressed or clouds from the surrounding area flock to stay, so the weather is cloudy.",0,0,0,0
+653,"At high pressure, a downward airflow is formed, and at low pressure, an upward airflow is formed. Therefore, the weather is cloudy at a low pressure where water vapor in the atmosphere is prone to form clouds due to rising air currents.",0,0,0,0
+654,"High pressure has a lot of air pressure, so the weather becomes clear, and low pressure has no air pressure, so the weather is cloudy.",0,0,0,0
+655,I don't understand.,0,0,0,0
+656,I don't know.,0,0,0,0
+657,This is because the low pressure flows down.,0,0,0,0
+658,I think the low pressure means the weather is bad,0,0,0,0
+659,"""High pressure is high, so the weather is clear",0,0,0,0
+660,"""The low pressure is low, so the weather is cloudy",0,0,0,0
+661,"At low pressure, clouds come down because of the atmospheric pressure, and at high pressure, clouds come up because of the high pressure",0,0,0,0
+662,"It is because the air pressure is strong and the water does not evaporate, so the weather is clear and the low pressure is opposite",0,0,0,0
+663,"""The atmosphere is cloudy because Haetnim is far away",0,0,0,0
+664,"""It's sunny because the sun is close to the sky""",0,0,0,0
+665,I don't know.,0,0,0,0
+666,"In low pressure, the air pressure is weak, so the weather becomes lighter, so clouds and air pressure collide, so it rains or the weather is dark.",0,0,0,0
+667,I don't know,0,0,0,0
+668,"In low pressure, the air pressure is weak, so the weather becomes lighter, and clouds and air pressure collide to rain or darken the weather.",0,0,0,0
+669,The air is under strong pressure,0,0,0,0
+670,The air has contracted and is not clear.,0,0,0,0
+671,Clouds go up in high pressure and clouds go down in low pressure.,0,0,0,0
+672,"""At high pressures, the air pressure is strong",0,0,0,0
+673,The atmospheric pressure is weak,0,0,0,0
+674,Because the weather is not good,0,0,0,0
+675,"N, m, n, n, n, n, n, n, n",0,0,0,0
+676,The air contracted,0,0,0,0
+677,"""High pressure is high, so the weather is clear",0,0,0,0
+678,"The low pressure is cloudy because the temperature is low.""",0,0,0,0
+679,"High pressure is clear because the temperature is high, and low pressure is cloudy because the temperature is low",0,0,0,0
+680,"High pressure is clear because the temperature is high, and low pressure is cloudy because the temperature is low",0,0,0,0
+681,"In the case of high pressure, the air flow is produced, and as a result, the pressure is increased and the temperature is increased as the compression occurs. In the case of low pressure, the air flow is increased, the pressure is decreased, the temperature is lowered, the cloud temperature is reached",0,0,0,0
+682,Why! The wind blows downward at low pressure.,0,0,0,0
+683,The low pressure is a downward current,0,0,0,0
+684,It is cloudy because the air pressure is low and there are many clouds.,0,0,0,0
+685,"The low pressure is light in air, resulting in rising air currents. However, when the air rises, it condenses on the sky and becomes a cloud. Therefore, the weather in the low pressure is cloudy.",0,0,0,0
+686,"At low pressure, a downward airflow appears, and the water evaporated from the high pressure area becomes a cloud and appears in the low pressure area to rain.",0,0,0,0
+687,"This is because falling air currents occur at low pressures, creating clouds in the sky, causing rain.",0,0,0,0
+688,"At high pressure, a falling air current does not occur, and at low pressure, a rising air current occurs, resulting in a weather phenomenon, making the weather cloudy.",0,0,0,0
+689,The weather is cloudy because there are many clouds at low pressure.,0,0,0,0
+690,"This is because when low pressure occurs, an upward airflow is created to create clouds.",0,0,0,0
+691,"Low pressure flows because it rains a lot, but high pressure does not rain, so the weather is not cloudy",0,0,0,0
+692,"Air pressure depends on how much air is gathered and how strong the pressure is. Therefore, when the descending airflow develops, high pressure is formed, and in this process, clear weather is formed as clouds disappear, and when the ascending airflow develops, low pressure is formed and the weather becomes cloudy.The wind blows from high to low pressure, so water vapor gathers in low pressure areas",0,0,0,0
+693,"Rising air currents occur in low pressure. As the water vapor in the atmosphere rises, the surrounding temperature decreases, causing insulation expansion. When the water vapor reaches the dew point, it condenses into a liquid to form clouds. Therefore, it is cloudy because there are many clouds in the low pressure.",0,0,0,0
+694,"The weather is mainly determined by clouds and rain, and clouds are made up of water vapor. These steam is pushed into the air at high pressure, so clouds cannot be formed, but at low pressure, the weather becomes cloudy because it is relatively easier to form clouds than high pressure.",0,0,0,0
+695,"When the low pressure develops, the temperature rises and the rising airflow develops, so the weather is not clear and cloudy.",0,0,0,0
+696,"In the low-pressure area, the wind blows in from other areas compared to the high-pressure area, so there is more rising air and a lot of clouds are generated, making the weather cloudy.",0,0,0,0
+697,"At low pressure, the air is light, resulting in an upward airflow. Rising air currents help evaporate water vapor, so the weather becomes cloudy due to a lot of clouds.",0,0,0,0
+698,"High pressure has high atmospheric pressure, which forms a downward airflow, making it difficult to form clouds due to rising water vapor. Therefore, an upward airflow is formed at a low pressure with a low air pressure to form clouds and maintain cloudy weather.",0,0,0,0
+699,"At high pressure, the downward airflow develops and evaporation does not occur easily. Accordingly, clear weather continues, but on the contrary, rising air currents develop and evaporate easily at low pressures, so weather phenomena such as snow and rain continue to occur and cloudy weather continues.",0,0,0,0
+700,..?,0,0,0,0
+701,"High pressure is high, so the weather is clear.",0,0,0,0
+702,?,0,0,0,0
+703,luck,0,0,0,0
+704,I don't know.,0,0,0,0
+705,I don't know,0,0,0,0
+706,The meat is delicious,0,0,0,0
+707,The wind goes from low pressure to high pressure,0,0,0,0
+708,Because the air pressure is low,0,0,0,0
+709,It's low pressure,0,0,0,0
+710,The low pressure is high and the weather is cloudy,0,0,0,0
+711,yes,0,0,0,0
+712,at a low air pressure,0,0,0,0
+713,"This is because rising air flows occur at low pressure, and water vapor rises to form clouds.",0,0,0,0
+714,I don't know.,0,0,0,0
+715,High pressure to low pressure,0,0,0,0
+716,"At low pressure, rising air currents develop, resulting in a lot of clouds and rain, and on the contrary, in high pressure, a lot of falling air currents are developed to form clear weather.",0,0,0,0
+717,"Air moves from high pressure to low pressure, and downward airflow occurs at high pressure, and upward airflow occurs at low pressure, creating clouds. Therefore, the weather is cloudy in the low pressure.",0,0,0,0
+718,I'm sorry.,0,0,0,0
+719,"Because of the high and low pressures,",0,0,0,0
+720,Because the air goes from high pressure to low pressure,0,0,0,0
+721,"The wind blows from high pressure to low pressure, so the weather is cloudy in low pressure.",0,0,0,0
+722,"In the high pressure, the weather is cloudy due to descending air currents, and in the low pressure, the upper atmosphere appears, creating clouds, rain, and snow",0,0,0,0
+723,It's because your expression brightens up in front,0,0,0,0
+724,due to rising air currents,0,0,0,0
+725,I don't understand.,0,0,0,0
+726,The low pressure is cloudy with rising air currents.,0,0,0,0
+727,"At low pressure, the rising air current creates water droplets and ice grains due to the cold temperature, forming clouds, which causes rain.",0,0,0,0
+728,Well...,0,0,0,0
+729,This is because rising air currents are formed at high pressures and falling air currents are formed at low pressures.,0,0,0,0
+730,I don't know,0,0,0,0
+731,"High pressure is a downward current, low pressure is an upward current",0,0,0,0
+732,M and D,0,0,0,0
+733,"Good, good, good",0,0,0,0
+734,Mall,0,0,0,0
+735,I don't understand.,0,0,0,0
+736,I don't understand.,0,0,0,0
+737,I don't know.,0,0,0,0
+738,I don't know,0,0,0,0
+739,M and D,0,0,0,0
+740,I don't understand.,0,0,0,0
+741,I don't understand.,0,0,0,0
+742,I don't understand.,0,0,0,0
+743,I don't understand.,0,0,0,0
+744,M and D,0,0,0,0
+745,I don't know.,0,0,0,0
+746,I don't know,0,0,0,0
+747,I don't understand.,0,0,0,0
+748,I don't understand.,0,0,0,0
+749,M and D,0,0,0,0
+750,I don't know,0,0,0,0
+751,Gravity?,0,0,0,0
+752,.,0,0,0,0
+753,I don't understand.,0,0,0,0
+754,I don't know,0,0,0,0
+755,M and D,0,0,0,0
+756,I don't know.,0,0,0,0
+757,.,0,0,0,0
+758,I don't understand.,0,0,0,0
+759,Because the low pressure is the temperature below,0,0,0,0
+760,There's a rising air current at the low pressure,0,0,0,0
+761,There's a rising air current at the low pressure,0,0,0,0
+762,There's a rising air current at the low pressure,0,0,0,0
+763,"Because the air goes up when it's low pressure,",0,0,0,0
+764,"""It's cloudy because the weather is low",0,0,0,0
+765,"It will clear up if you let the weather go.""",0,0,0,0
+766,"""High pressure and low pressure are not divided by any reference value, but by high pressure and low pressure, which is relatively higher than the ambient pressure.",0,0,0,0
+767,,0,0,0,0
+768,"In high-pressure areas, the air pressure is higher than the surroundings, and the wind blows from the high-pressure center to the low-pressure area, where the air comes down from the top to replenish. As the air descends, it is insulated and compressed, so the temperature rises, and as a result, the air becomes dry, so it generally has clear weather. Even if there is a cloud, it is dissipated by the descending air current, which generally makes the weather nice.",0,0,0,0
+769,"In the northern hemisphere, the air that rises out is rotated clockwise because it has a conversion force to the right about the direction of the wind's progression.",0,0,0,0
+770,,0,0,0,0
+771,"At low pressure, as opposed to high pressure, the air pressure is lower than the surrounding area, and the wind blows from the high atmospheric pressure to the center of the low atmospheric pressure. The incoming air is insulated and expands as it rises, so the temperature drops, the atmosphere becomes saturated, and water vapor condenses to create clouds, and sometimes it rains. At this time, aerosols such as dust act as condensation to promote water droplets. In the Northern Hemisphere, the transition force from Earth's rotation causes it to spin counterclockwise.",0,1,0,0
+772,,0,0,0,0
+773,"With this principle, various weather changes are occurring according to the change in air pressure. """,0,0,0,0
+774,"""",0,0,0,0
+775,"Usually, low pressure occurs well in tropical seas, where there is a lot of evaporation of water vapor.",0,0,0,0
+776,"So when water vapor evaporates, the westerlies and the Earth's rotation will cause it to spin",0,0,0,0
+777,It rises as it does. (The cause of the rise is that warm air is lighter than the surrounding cold air.),0,0,0,0
+778,"And as we go up, we have counterclockwise rotation in the Northern Hemisphere and clockwise rotation in the Southern Hemisphere.",0,0,0,0
+779,"When the air warms up and rises, when it rises to a certain position, the pressure of the water vapor",0,0,0,0
+780,"It rises, releasing only heat without change. However, if it rises above a certain position, it simply expands without the release or absorption of heat called insulation expansion, forming a cloud",0,0,0,0
+781,"There are various types of clouds, so in areas where warm air is slowly moving up the cold air, a warm front is formed, and when cold air suddenly penetrates under the warm air and warm air is forced up, a cold front is formed, and the front surface is formed",0,0,0,0
+782,Snow and rain are scattered around. The reason I spray snow rain is because clouds are the core of clouds,0,0,0,0
+783,"Water vapor sticks to small dust or grains, and it gets bigger and bigger, and it turns into ice crystals or ice nuclei, and falls to the ground. If it falls, it's hailing, and then",0,0,0,0
+784,"If it melts, it becomes rain, and if it melts and freezes again, it falls into hail or snow",0,0,0,0
+785,It works.,0,0,0,0
+786,"And even within the low pressure, there are parts that do not rain and clear up.",0,0,0,0
+787,"Between the warm front and the cold front, you can see the private sky for a while.",0,0,0,0
+788,But a cold front hits a warm front in front of the mobile faster than a warm front,0,0,0,0
+789,"It becomes an occlusion front, sprinkles a lot of rain, and the low pressure disappears.""",0,0,0,0
+790,"At the center of the low pressure, air containing water vapor goes up, and as the temperature of the air decreases, the water vapor condenses to form clouds, causing the weather to be cloudy, rain, or snow",0,0,0,0
+791,"""At high pressures, the air cannot rise and it disperses and interferes with the formation of cloudsHigh-pressure areas usually have clear weather",0,0,0,0
+792,The low pressure is caused by the rising air current and the upward movement of the air is active,0,0,0,0
+793,"It creates good conditions for clouds to create, creating cloudy, rainy weather.""",0,0,0,0
+794,"When the atmosphere rises at low pressure, water vapor condenses and clouds form.",0,0,0,0
+795,"""In high-pressure areas, the air pressure is higher than the surrounding area, and the wind blows from the high-pressure center to the low-pressure area, where the air comes down from the top to replenish. As the air descends, it is insulated and compressed, so the temperature rises, and as a result, the air becomes dry, so it generally has clear weather.",0,0,0,0
+796,"At low pressure, as opposed to high pressure, the air pressure is lower than the surrounding area, and the wind blows from the high atmospheric pressure to the center of the low atmospheric pressure. The incoming air is insulated as it rises, so the temperature drops, the atmosphere becomes saturated, the steam condenses to form clouds, and sometimes it rains.""",0,0,0,0
+797,There's a rising air current in the low pressure,0,0,0,0
+798,"""When the air pressure is low, the air goes up and creates clouds",0,0,0,0
+799,It's cloudy and rainy.,0,0,0,0
+800,"When the air pressure is high, the air goes down and is relatively clear.",0,0,0,0
+801,"In other words, when the air pressure is lowered, rain falls, and when it is high, it becomes clear.",0,0,0,0
+802,"When a typhoon blows, the air pressure is very low, resulting in bad weather. """,0,0,0,0
+803,"Due to the influence of rising air currents, the upward movement of the air is active, creating good conditions for clouds to create, creating cloudy and rainy weather",0,0,0,0
+804,"""",0,0,0,0
+805,"When it's high pressure, the fog goes up and when it's low pressure, the fog comes down",0,0,0,0
+806,"Air pressure is determined by the amount of air, and the air pressure may increase or decrease during the day. The relatively lower atmospheric pressure than the surrounding area is called the low pressure, and the higher atmospheric pressure than the surrounding area is called the high pressure. Rising air currents develop near the center of low pressure, which is lower than the surrounding air pressure, and rising air mass insulates and expands, resulting in clouds as the temperature decreases.",0,0,0,0
+807,"""The evaporation of water is very closely related to pressure.",0,0,0,0
+808,"When pressure is released, evaporation does not occur well, and when pressure is generated, evaporation occurs easily.",0,0,0,0
+809,"Therefore, cloud generation is less during high pressure, and cloud generation is more during low pressure.""",0,0,0,0
+810,Differences in air density result in high-pressure and low-pressure areas.,0,0,0,0
+811,"""In low pressure, the air pressure is lower than the surroundings, so wind blows in from all directions.""",0,0,0,0
+812,be cloudy with a lot of clouds,0,0,0,0
+813,"""High pressure causes downward airflow and low pressure causes upward airflow.",0,0,0,0
+814,High pressure is adiabatic compression when water vapor moves upward due to the influence of falling air currents.,0,0,0,0
+815,The low pressure expands insulation under the influence of rising air currents.,0,0,0,0
+816,Compression and expansion during adiabatic changes refer to the volume change of air.,0,0,0,0
+817,"When the surrounding pressure increases, compression occurs and the volume decreases, and when the surrounding pressure decreases, the volume increases and expands.",0,0,0,0
+818,"The pressure in the atmosphere also decreases as it goes up and increases as it goes down. This reduces the pressure (barometric pressure) because the distribution of the atmosphere is concentrated near the surface of the earth, so that the amount of atmosphere decreases as it goes up.",0,0,0,0
+819,"Then, the reason why it is insulation compression at high pressure and insulation expansion at low pressure is that downward airflow develops at high pressure and upward airflow develops at low pressure.",0,0,0,0
+820,"Then, at high pressure, the air is lowered because it is a descending airflow, and when the air is lowered, the ambient pressure (air pressure) increases, resulting in adiabatic compression. On the contrary, the low pressure is an ascending air current, so the air rises, and when the air rises, the surrounding pressure (air pressure) decreases, so it expands.",0,0,0,0
+821,"In summary, air cannot rise at high pressure and prevents cloud generation, resulting in clear weather in high pressure areas, and low pressure creates good conditions for cloud generation by active upward movement due to rising air currents, creating cloudy and rainy weather.",0,0,0,0
+822,"""",0,0,0,0
+823,There's a rising air current at the low pressure,0,0,0,0
+824,Differences in air density result in high-pressure and low-pressure areas.,0,0,0,0
+825,"Inside the low pressure, the air pressure is lower than the surrounding pressure, so wind blows from all directions.""",0,0,0,0
+826,Differences in air density result in high-pressure and low-pressure areas.,0,0,0,0
+827,"Inside the low pressure, the air pressure is lower than the surrounding pressure, so wind blows from all directions.""",0,0,0,0
+828,"When the air pressure is high, the air goes down and is relatively high",0,0,0,0
+829,an up-and a downward current,0,0,0,0
+830,Because the air pressure is different,0,0,0,0
+831,"""Because of the high atmospheric pressure, the water droplets that were clumped together are released by lowering the air pressure",0,0,0,0
+832,"""",0,0,0,0
+833,Because the air pressure is low,0,0,0,0
+834,"When a person is in a bad mood, they use the expression ""low pressure""",0,0,0,0
+835,It's cloudy because the temperature is low,0,0,0,0
+836,I don't know,0,0,0,0
+837,There's a low-pressure underwater system,0,0,0,0
+838,"When it's low pressure, it'",0,0,0,0
+839,"At low pressure, the air pressure is low",0,0,0,0
+840,The low pressure makes the weather cloudy,0,0,0,0
+841,The low pressure is humid. High pressure is less humid.,0,0,0,0
+842,The low pressure of the air creates a lot of clouds,0,0,0,0
+843,"At high pressure, the air pressure is high, so the temperature is high, and at low pressure, the air pressure is low, so the temperature is low",0,0,0,0
+844,"This is because the pressure of the air is low, resulting in a lot of clouds.",0,0,0,0
+845,High pressure has a high air pressure and low pressure has a low air pressure,0,0,0,0
+846,"At low pressure, it is cloudy because the pressure is strong and the steam tends to clump together.",0,0,0,0
+847,"If the air pressure is low, the insulation expansion is good, resulting in clouds and cloudy skies.",0,0,0,0
+848,The answer is in the science book,0,0,0,0
+849,"When it's low pressure, the pressure is strong, so it's easy for the steam to gather",0,0,0,0
+850,"""There's not much steam",0,0,0,0
+851,"""",0,0,0,0
+852,"In high-pressure areas, the weather is usually clear or hot, but in low-",0,0,0,0
+853,Well...,0,0,0,0
+854,It's hard to condense water vapor under high pressure and it's easy to condense water vapor under low pressure,0,0,0,0
+855,It's sunny at high pressure and cloudy at low pressure,0,0,0,0
+856,This is because the temperature is high at high pressure and the low pressure is low.,0,0,0,0
+857,High pressure is cloudy because there is a lot of air and low pressure is cloudy,0,0,0,0
+858,High pressure makes the weather clear and low pressure makes the weather cloudy.,0,0,0,0
+859,The low pressure is because the high profit goes down.,0,0,0,0
+860,"High pressure has a lot of air, so the weather is clear, but low pressure has little air, so the weather is cloudy",0,0,0,0
+861,"At high pressure, there are no clouds because the water vapor cannot condense due to high pressure in the air, and at low pressure, the water vapor is easy to condense because the pressure of the air is small, so there are many clouds.",0,0,0,0
+862,by the rising air current,0,0,0,0
+863,Insulation expansion creates clouds,0,0,0,0
+864,Clouds are created by rising air currents.,0,0,0,0
+865,The clouds are clouded,0,0,0,0
+866,It is cloudy because clouds are formed in low pressure.,0,0,0,0
+867,Low barometric pressure creates upward airflow,0,0,0,0
+868,"At low pressure, clouds are formed by the formation of rising air currents.",0,0,0,0
+869,Cloud generation by rising air currents,0,0,0,0
+870,The low pressure is clouded by rising air currents,0,0,0,0
+871,Clouds are created and it rains because of rising air currents,0,0,0,0
+872,Clouds are created by rising air currents,0,0,0,0
+873,The weather is cloudy due to the formation of clouds in the process of insulation expansion due to the rising airflow.,0,0,0,0
+874,"In the case of high pressure, a downward airflow is generated, and in the case of low pressure, a rising airflow is generated. As rising air flows are generated, water vapor evaporates to form clouds.",0,0,0,0
+875,It's low,0,0,0,0
+876,I don't know,0,0,0,0
+877,"If you're feeling low, in front of the meat",0,0,0,0
+878,Clouds formed on the low pressure side,0,0,0,0
+879,The fog is heavier than the air,0,0,0,0
+880,"At low pressure, high pressure air gathers at low pressure",0,0,0,0
+881,I don't know.,0,0,0,0
+882,The weather is more cloudy in low pressure because clouds gather in low pressure.,0,0,0,0
+883,"At low pressure, the air goes up and the day becomes cloudy. At high pressure, the air goes down and the weather clears up.",0,0,0,0
+884,"""At high pressures, the air cannot rise and it disperses and interferes with the formation of clouds",0,0,0,0
+885,High-pressure areas usually have clear weather,0,0,0,0
+886,The low pressure is caused by the rising air current and the upward movement of the air is active,0,0,0,0
+887,"Clouds create good conditions for creating cloudy and rainy weather.""",0,0,0,0
+888,The low pressure is clouded down,0,0,0,0
+889,"If the air pressure is high, it will be because the cloud goes to the low pressure place. In the case of low pressure, it is the opposite.",0,0,0,0
+890,Because there are many clouds in the low pressureWhat's that?,0,0,0,0
+891,.,0,0,0,0
+892,This is because the air pressure is low.,0,0,0,0
+893,...,0,0,0,0
+894,"The higher the air pressure, the lower the amount of water vapor generated",0,0,0,0
+895,This is because you can't breathe as the air pressure decreases.,0,0,0,0
+896,I don't know,0,0,0,0
+897,God created it like that,0,0,0,0
+898,The low pressure is low,0,0,0,0
+899,I don't know.,0,0,0,0
+900,"This is because clouds gather at high pressure, but at low pressure, they do not clump well.",0,0,0,0
+901,The underwater planes gathered at low pressure are cloudy and clear at high pressure,0,0,0,0
+902,Is it a temperature difference?,0,0,0,0
+903,I don't know.,0,0,0,0
+904,"Because the weekly duty is high pressure, rain clouds that are under high pressure come to the low pressure",0,0,0,0
+905,"Because the air pressure is weak, the air can move well...?",0,0,0,0
+906,"This is because the distance from the sky is long at low pressure, so there is less air.",0,0,0,0
+907,"It doesn't rain because it's above the clouds at high pressure, but it rains because it's below the clouds at low pressure",0,0,0,0
+908,It's because you run out of oxygen,0,0,0,0
+909,I DONT KNOW,0,0,0,0
+910,Cloud forms over low pressure as air moves from high pressure to low pressure,0,0,0,0
+911,.,0,0,0,0
+912,Because the air pressure is low,0,0,0,0
+913,The weather is not clear because the air flows slowly under low pressure,0,0,0,0
+914,"When air pressure is low, air rises to form clouds, making it cloudy and rainy.",0,0,0,0
+915,"When the air pressure is high, the air goes down and is relatively clear.",0,0,0,0
+916,"""",0,0,0,0
+917,The drops of water in the clouds are about to fall,0,0,0,0
+918,I don't know,0,0,0,0
+919,Well,0,0,0,0
+920,The air pressure is low and the temperature is opaque,0,0,0,0
+921,"This is because at low pressure, air rises to form clouds and rains.",0,0,0,0
+922,Yeah.,0,0,0,0
+923,"Rising air currents occur in the center of the low pressure, which can expand as the air rises, and cause cloudiness as the temperature drops",0,0,0,0
+924,d,0,0,0,0
+925,I don't understand.,0,0,0,0
+926,I don't know,0,0,0,0
+927,"At high pressure, there is a circulation of air as an upward airflow, so it is clear.",0,0,0,0
+928,"When the air pressure is low, the air is tilted upward.",0,0,0,0
+929,"If it's low pressure, the air pressure will be low",0,0,0,0
+930,The weather is cloudy from high pressure to low pressure.,0,0,0,0
+931,"""When the air pressure is low, the air goes up and creates clouds",0,0,0,0
+932,,0,0,0,0
+933,It's cloudy and rainy.,0,0,0,0
+934,,0,0,0,0
+935,The barometer is high air pressure if it is relatively clean and make it down.,0,0,0,0
+936,,0,0,0,0
+937,"In other words, higher air pressure is low, the rainy and sunny.",0,0,0,0
+938,,0,0,0,0
+939,"The typhoon is a fire in a very low atmospheric pressure bad weather is what happens.""",0,0,0,0
+940,Clouds gather because the air is directed to the low pressure.,0,0,0,0
+941,Clouds gather because the wind blows from high pressure to low pressure.,0,0,0,0
+942,Because the wind goes from high pressure to low pressure.,0,0,0,0
+943,I don't know,0,0,0,0
+944,I don't understand.,0,0,0,0
+945,The low pressure is cloudy because the typhoon is a temperate low pressure.,0,0,0,0
+946,"At low pressure, the surrounding air gathers, so it is not clear because many clouds are formed due to the collision of the air.",0,0,0,0
+947,I don't know.,0,0,0,0
+948,The air goes from high pressure to low pressure.,0,0,0,0
+949,I don't know.,0,0,0,0
+950,This is because air moves from high pressure to low pressure.,0,0,0,0
+951,I don't know.,0,0,0,0
+952,I don't know,0,0,0,0
+953,.,0,0,0,0
+954,.,0,0,0,0
+955,"Air moves from high pressure to low pressure. Because air moves from high pressure, rising air currents occur at low pressure, and as warm air on the surface rises, water vapor contained in the air becomes liquefied and becomes droplets, resulting in a lot of clouds.",0,0,0,0
+956,"At low pressures, atmospheric pressure enters the surrounding area, creating rising air currents and forming clouds. So the chance of rain is greater, and it's cloudy.",0,0,0,0
+957,Low pressure is more prone to clouds because of rising air currents.,0,0,0,0
+958,"At high pressure, it is clear weather because water vapor does not rise with downward air, and it is cloudy because water vapor rises with upward air from low pressure to create clouds.",0,0,0,0
+959,"At low pressure, there is an upward airflow, which causes water vapor to rise and clouds to form, making the day cloudy.",0,0,0,0
+960,I don't know,0,0,0,0
+961,This is because the low pressure creates an upward airflow.,0,0,0,0
+962,"At low pressure, air tends to rise, so clouds are likely to form, resulting in cloudy weather.",0,0,0,0
+963,I don't know,0,0,0,0
+964,"In the case of low pressure, the weather becomes cloudy because air enters from the surroundings and forms an upward airflow, creating a lot of clouds.",0,0,0,0
+965,The atmosphere is unstable because of rising air currents in the low pressure,0,0,0,0
+966,I don't know,0,0,0,0
+967,I don't know,0,0,0,0
+968,"In the case of high pressure, the air pressure is larger than the surrounding area, and high pressure is caused by adiabatic compression. That's why the temperature rises more than the surrounding area, making the weather clear. In the case of low pressure, it means that the air pressure is larger than that of the surrounding area, but due to insulation expansion, the temperature is low, making it cloudy.",0,0,0,0
+969,"The low pressure has an upward airflow, and a lot of clouds are formed and cloudy due to the rising water.",0,0,0,0
+970,"Air is concentrated in the area where the downward airflow occurs, and the place where the upward airflow occurs is drained and becomes a low pressure. At low pressure, which is an upward airflow, air rises and insulation expands, which reduces the amount of saturated water vapor to liquefy the water vapor. That's why clouds form.",0,0,0,0
+971,I don't know,0,0,0,0
+972,I don't know,0,0,0,0
+973,I don't know,0,0,0,0
+974,"""Low pressure air produces rising clouds well",0,0,0,0
+975,"High pressure air does not produce a falling cloud well""",0,0,0,0
+976,I don't know,0,0,0,0
+977,"At low pressure, air gathers into the sky. Therefore, clouds are created in the sky around the low pressure, but the high pressure is the opposite.",0,0,0,0
+978,I have no idea.,0,0,0,0
+979,The low pressure creates clouds as a descending airflow,0,0,0,0
+980,Evaluation Only. Created with Aspose.Cells for Python via Java.Copyright 2003 - 2022 Aspose Pty Ltd.,0,0,0,0
